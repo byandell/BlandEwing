@@ -21,21 +21,88 @@ IBM 709, Fortran, Feller
 
 ### Carter Labs
 
-### Carter Labs
+I ended up working at Carter Labs.
+In fact, I ended up taking my best friend Lattie Lamb to work there, too.
+Carter Labs had an entrepreneurial crew of professors and students from Caltech.
+They struck out into the world of money and finance,
+trying to solve some of these complicated math problems.
+Carter’s own specialty was in physical chemistry and stuff.
 
-I ended up working at Carter Labs.  In fact, I ended up taking my best friend Lattie Lamb to work there, too.  Carter Labs had an entrepreneurial crew of professors and students from Caltech.  They struck out into the world of money and finance, trying to solve some of these complicated math problems.  Carter’s own specialty was in physical chemistry and stuff.
+My father got me working in there, OK?
+They were trying to make things for the Navy,
+like fuel based on aluminum because of the enormous weight.
+When you look at the activation reduction potential,
+it looked like you could make a wonderful fuel out of it.
+But in practice it turned out to be a problem
+because it oxidized so fast,
+you never really can do much with it.
+They were studying the thermodynamics,
+trying to stretch single crystals.
+I ended up doing the first high speed stretching things.
+I had a boss that was also a chemist from Caltech,
+graduated from there,
+and we used to carry on at great lengths
+about all sorts of different things.
 
-My father got me working in there, OK?  They were trying to make things for the Navy, like fuel based on aluminum because of the enormous weight.  When you look at the activation reduction potential, it looked like you could make a wonderful fuel out of it.  But in practice it turned out to be a problem because it oxidized so fast, you never really can do much with it. They were studying the thermodynamics, trying to stretch single crystals.  I ended up doing the first high speed stretching things.  I had a boss that was also a chemist from Caltech, graduated from there, and we used to carry on at great lengths about all sorts of different things.  
+At the time the ___ job that I got
+that where I did a ___ where I did some really interesting ___ work
+was kind of like a physical chemist
+who was working directly out of the group
+and was using students from Caltech.
+Guess what happened?
+All this teaching essentially ___ all the students ___ and ___ JPL
+and was my boss that was head of the chemistry lecturing and ___ labs
+and another Caltech student
+and he was the one ___ into the group
+that built that first Explorer satellites and ___ by coincidence
+was finishing his Ph.D. ___ too.
+Right in the middle of his ___ but talk about echoes ___ echoes,
+but again there was this whole style of doing ___ so it just was a way.
 
-At the time the ___ job that I got that where I did a ___ where I did some really interesting ___ work was kind of like a physical chemist who was working directly out of the group and was using students from Caltech.  Guess what happened?  All this teaching essentially ___ all the students ___ and ___ JPL and was my boss that was head of the chemistry lecturing and ___ labs and another Caltech student and he was the one ___ into the group that built that first Explorer satellites and ___ by coincidence was finishing his Ph.D. ___ too.  Right in the middle of his ___ but talk about echoes ___ echoes, but again there was this whole style of doing ___ so it just was a way.
+I remember being hired at Carter Labs
+and the first things that we did at Carter Labs
+was try to stretch single crystals to very high rates of speed
+to see what their reaction rates would be.
+Aluminum because in theory alone
+it should burst into flame and disappear.
+Oxygen developed such a __ scale
+that it didn’t have an interaction at all
+and we couldn’t devise any way of either deforming it
+at very high rates or anything.
+We could get a __ water
+so you can take the reaction from pure metal,
+say to make __ much along the way of reaction
+to say aluminum chloride
+and then the chloride __ sort of like sodium chloride
+you could have it __.
 
-I remember being hired at Carter Labs and the first things that we did at Carter Labs was try to stretch single crystals to very high rates of speed to see what their reaction rates would be.  Aluminum because in theory alone it should burst into flame and disappear.  Oxygen developed such a __ scale that it didn’t have an interaction at all and we couldn’t devise any way of either deforming it at very high rates or anything.  We could get a __ water so you can take the reaction from pure metal, say to make __ much along the way of reaction to say aluminum chloride and then the chloride __ sort of like sodium chloride you could have it __.
+It turns out that aluminum chloride wants water so bad
+that if you take some aluminum chloride, spread it on water,
+it bursts into flame explosively.  Reactionary.
+And then __ it’s aluminum chloride partially hydrogenated
+but the thing is for chlorinating the under side of your armpits
+to make real long lasting deodorants.
+That’s aluminum chlorohydrate that they stick in many deodorants.
+I’m too allergic to use it but many people __.
 
-It turns out that aluminum chloride wants water so bad that if you take some aluminum chloride, spread it on water, it bursts into flame explosively.  Reactionary.  And then __ it’s aluminum chloride partially hydrogenated but the thing is for chlorinating the under side of your armpits to make real long lasting deodorants.  That’s aluminum chlorohydrate that they stick in many deodorants.  I’m too allergic to use it but many people __.
+But it’s an incredible reaction so that you would think that aluminum would be __.
+There was actually a whole study that Carter Labs did
+because their big thing was to do the consequences of that __
+were being done say in the physical sciences,
+especially in physical chemistry
+which was at that time the place where mathematics
+was beginning to be applied more systematically.
 
-But it’s an incredible reaction so that you would think that aluminum would be __.  There was actually a whole study that Carter Labs did because their big thing was to do the consequences of that __ were being done say in the physical sciences, especially in physical chemistry which was at that time the place where mathematics was beginning to be applied more systematically.
-
-At that time organic chemistry was still black magic soup making.  At that time the physical chemistry had just sort of crossed over into being very quantitative.  And as a result, it was getting all sorts of workers to investigate __ properties of all sorts of different combinations to see what reaction would go.  In theory we should be able to try, torpedo, almost indefinitely with the combination of sea water and __.  But it turned out that when you started studying single crystals and stressing with high rates of speed.
+At that time organic chemistry was still black magic soup making.
+At that time the physical chemistry had just sort of crossed over
+into being very quantitative.
+And as a result, it was getting all sorts of workers
+to investigate __ properties of all sorts of different combinations
+to see what reaction would go.
+In theory we should be able to try, torpedo, almost indefinitely
+with the combination of sea water and __.
+But it turned out that when you started studying single crystals
+and stressing with high rates of speed.
 
 So we actually __ the first high speed photography equipment for searching single crystals, and so that’s what I mean.  I was constantly being __ back in because at first I had to photographs of __ to see if it would shift at all if you did it in water, under __ reactants.  And then finally the single crystal stretching to see if by breaking the __ edge were taking high speed photos you could see any reaction.  It turns out the format of that __ resistance __ was a lot faster than we could stretch, regardless of how fast you tried to stretch.  But that'’ the sort of things that I found myself always getting talked into.  Sometimes I was working on things from the math point of view and sometimes doing from the biology point of view.
 
@@ -53,27 +120,51 @@ Yeah, I mean you read the patent.
 
 *Have you read the patent?
 
-Yeah, I remember seeing it once.  It like covers, it’s an incredibly broad patent.  I mean thinking about it now it’s like I don’t know how anybody ever got away with this.  But it seemed like it covered using the fuel cell from basically over anything you could conceivably do with it and then some things that only Bland would think of.
+Yeah, I remember seeing it once.
+It like covers, it’s an incredibly broad patent.
+I mean thinking about it now it’s like I don’t know how anybody ever got away with this.
+But it seemed like it covered using the fuel cell
+from basically over anything you could conceivably do with it
+and then some things that only Bland would think of.
 
-*Well my friend Dave is a patent lawyer and I was thinking on my drive up here of contacting him and asking him about that, because he could find it.
+*Well my friend Dave is a patent lawyer
+and I was thinking on my drive up here
+of contacting him and asking him about that,
+because he could find it.
 
 Sure.  All that stuff is on, existing patents are all on-line now.
 
 *Yeah, he could find it in about 5 minutes, so I’d like to get a copy of it anyway.
 
-I mean even Bland thought it was fortuitous but basically ludicrous in terms of the uses that were proposed.
+I mean even Bland thought it was fortuitous
+but basically ludicrous in terms of the uses that were proposed.
 
 *But the patent would have run out by now.  20 years.
 
 Probably.  
 
-*But it’s still, I don’t know if you can reapply for a patent, probably not, it runs out.  But it might still be something interesting to bring forward.  I mean if it’s ideas that people haven’t come up with yet, not let it get it back out there.  It could blow some other patents out of the water but you know, you’d think they would look at that.
+*But it’s still, I don’t know if you can reapply for a patent,
+probably not, it runs out.
+But it might still be something interesting to bring forward.
+I mean if it’s ideas that people haven’t come up with yet,
+not let it get it back out there.
+It could blow some other patents out of the water
+but you know, you’d think they would look at that.
 
-I have a couple of friends that either have patents or tried to get them on stuff and I don’t know anything in high tech.  My impression is that it’s pretty arbitrary whether you get a patent or not, or whether, you know, what’s going on.
+I have a couple of friends that either have patents or tried to get them on stuff
+and I don’t know anything in high tech.
+My impression is that it’s pretty arbitrary
+whether you get a patent or not, or whether, you know, what’s going on.
 
-*I took all the interviews and organized them into chapters and sections. Some of it is still out of order but it’s a good start.  Does this look familiar here?  Continuous gas concentration cell energy conversion patent.  Does that bring back any memories?
+*I took all the interviews and organized them into chapters and sections.
+Some of it is still out of order but it’s a good start.
+Does this look familiar here?
+Continuous gas concentration cell energy conversion patent.
+Does that bring back any memories?
 
-I’m starting to cry.  That was a beautiful piece of work. I remember the person at Xerox that said, oh gee this won’t work.  You can’t draw enough current and things and I said yeah.
+I’m starting to cry.  That was a beautiful piece of work.
+I remember the person at Xerox that said, oh gee this won’t work.
+You can’t draw enough current and things and I said yeah.
 
 *Now they’re making them.
 
@@ -81,19 +172,44 @@ Oh, that’s intriguing.
 
 *Well I mean there are fuel cells.
 
-They are closing the loop using hydrogen and hydrogenization reactions and also shifting color. It was the first device of five planned patents. There were 5 patents together.  There were 4 that did things like put the things together in a layout, only a few thousandths of an inch thick, so that the whole current density got to run that way. The other one was weaving the stuff together in such a way that you could draw—even though it had only a few thousandths thick, it was never really far from the conductor by the way you wove it all together. The way it worked, it also gave a path for the gas and also for the reaction materials.  Actually it was a group of 5 patents conceived, of which I did the first one. Xerox said oh gee, we bought Electro-Optical, the company that got the patent for me.  Does it show you that stuff or anything?
+They are closing the loop using hydrogen
+and hydrogenization reactions and also shifting color.
+It was the first device of five planned patents.
+There were 5 patents together.
+There were 4 that did things like put the things together in a layout,
+only a few thousandths of an inch thick,
+so that the whole current density got to run that way.
+The other one was weaving the stuff together
+in such a way that you could draw—
+even though it had only a few thousandths thick,
+it was never really far from the conductor
+by the way you wove it all together.
+The way it worked, it also gave a path for the gas
+and also for the reaction materials.
+Actually it was a group of 5 patents conceived,
+of which I did the first one.
+Xerox said oh gee, we bought Electro-Optical,
+the company that got the patent for me.
+Does it show you that stuff or anything?
 
 *Let’s see.  Yeah, it should have all of that information in here.
 
-Is it Electro-Optical or something like that?  The patent was originally issued to, and then later on Xerox because they bought Electro-Optical out.
+Is it Electro-Optical or something like that?
+
+The patent was originally issued to,
+and then later on Xerox
+because they bought Electro-Optical out.
 
 *Electro-Optical, no, it doesn’t have that.
 
-It’s interesting that sort of a direction that indeed fuel cells , The were supposed to be thermally driven with moderate temperature differences too. It was a complete kernel loop.  You can’t get any better than that. Kernel efficiency in the loop.
+It’s interesting that sort of a direction that indeed fuel cells.
+They were supposed to be thermally driven with moderate temperature differences too.
+It was a complete kernel loop.
+You can’t get any better than that. Kernel efficiency in the loop.
 
 ### From Sputnik to Explorer
 
-
+<div class="source-block">
 7. Explorer                explorer.1-25
 
         Present Time        explorer.1
@@ -131,30 +247,44 @@ It’s interesting that sort of a direction that indeed fuel cells , The were su
         Correspondence with Archivist        1
 
         Notes on New Circuit Elements Group        1
+</div>
 
 ### Correspondence with JPL Archives
 
-So at any rate, that stuff’s gone and also a lot, anyway that’s for redefining some of that JPL stuff and it makes sense so __.  What also made sense, as more and more things like that are described, I can talk about the larger set of what actually happened, if you’re comfortable with that.
+So at any rate, that stuff’s gone and also a lot,
+anyway that’s for redefining some of that JPL stuff
+and it makes sense so __.
+What also made sense, as more and more things like that are described,
+I can talk about the larger set of what actually happened,
+if you’re comfortable with that.
 
-*Yeah.  Well, let me see what I can find out about what’s declassified.  Would you like me to send you copies of material?
+*Yeah.  Well, let me see what I can find out about what’s declassified.
+Would you like me to send you copies of material?
 
-No, because I’m overloaded so badly you can’t believe it but it’s the sort of thing I would eventually like to __ on but not now.  This is too heavy duty a time.
+No, because I’m overloaded so badly you can’t believe it
+but it’s the sort of thing I would eventually like to __ on
+but not now.  This is too heavy duty a time.
 
 *Right, so if I just do like we’re doing now, that’s a good way to do it.
 
 From time to time, when you’re there and it’s convenient, pop out a few more things.
 
-*Ok, sounds good.  So that’s the JPL stuff.  They are interested, this archivist would be interested at some point in the transcripts from this that are related to JPL.  Now my thought is that once we put this together as a book, then we can give it to them that way but another possibility is they might, that might be a place to archive some of this material if you’re open to that kind of thing.
+*Ok, sounds good.  So that’s the JPL stuff.
+They are interested, this archivist would be interested at some point
+in the transcripts from this that are related to JPL.
+Now my thought is that once we put this together as a book,
+then we can give it to them that way but another possibility
+is they might, that might be a place to archive some of this material
+if you’re open to that kind of thing.
 
-Yes, and I’m very easy to do that.  That was a neat place.
+Yes, and I’m very easy to do that. That was a neat place.
 
-
+<div class="source-block">
 Date: Tue, 09 Jun 1998 13:35:37 -0600
 
 To: julie.a.cooper@jpl.nasa.gov
 
 Subject: Bland Ewing, the original SkunkWorks, and Explorer 1
-
 
 Julie,
 
@@ -164,14 +294,11 @@ Thanks,
 
 Brian
 
-
 >Date: Tue, 09 Jun 1998 14:28:50 -0500
 
 >To: archives@jpl.nasa.gov
 
 >Subject: Bland Ewing, the original SkunkWorks, and Explorer 1
-
->
 
 >Folks,
 
@@ -477,6 +604,7 @@ November 7, 1957: a meeting was called by the Navy at the Pentagon (with JPL'ers
         Was a part of our youth,
 
         And not only orbits decay.[21]
+</div>
 
 ### Henry Richter
 
@@ -484,81 +612,365 @@ November 7, 1957: a meeting was called by the Navy at the Pentagon (with JPL'ers
 
 This will be some notes concerning the interviews with Bland Ewing.
 
-First of all, feel free to do anything you want with that videotape. Copy it or whatever, that’s just fine.  There is certainly no kind of security classification associated with any of the early satellite work.  
+First of all, feel free to do anything you want with that videotape.
+Copy it or whatever, that’s just fine.
+There is certainly no kind of security classification associated with any of the early satellite work.  
 
-First, concerning the letter from John Bluth. Originally I was in the New Circular Elements Group. I was in section 8. Robertson Stevens mentioned on the first page of Bluth’s letter was head of the antenna branch, antenna group, and I headed the New Circuit Elements Group.  William Pilkington, Bill Pilkington, did work for me, and neither of us under Stevens.  Section 8 was headed by Eberhardt Rectin. There were 4 groups, one headed by Walt Victor. After the Explorer program got going, I was on assignment to the Advanced Research Project Agency representing NASA and setting up a worldwide satellite and deep space tracking network. The space science division was formed at JPL and I ended up as section chief for section 27. Bland may well have gone into section 23 under Stevens while I was on loan to ARPA.  On his second page, Bluth mentions Frank Leehan, who was the division chief at the time. Yes, transistors were quite a new thing and my New Circuit Elements Group was charged with evaluating the usefulness and reliability of transistors. We had people quite skilled in what was available. That was very directly applicable to the building of Explorer I.  The Rand Corporation did not have any involvement.  They belonged to the Air Force and were somewhat the enemy.
+First, concerning the letter from John Bluth.
+Originally I was in the New Circular Elements Group.
+I was in section 8.
+Robertson Stevens mentioned on the first page of Bluth’s letter
+was head of the antenna branch, antenna group,
+and I headed the New Circuit Elements Group.
+William Pilkington, Bill Pilkington, did work for me,
+and neither of us under Stevens.
+Section 8 was headed by Eberhardt Rectin.
+There were 4 groups, one headed by Walt Victor.
+After the Explorer program got going,
+I was on assignment to the Advanced Research Project Agency
+representing NASA and setting up a worldwide satellite and deep space tracking network.
+The space science division was formed at JPL
+and I ended up as section chief for section 27.
+Bland may well have gone into section 23 under Stevens
+while I was on loan to ARPA.
+On his second page, Bluth mentions Frank Leehan,
+who was the division chief at the time.
+Yes, transistors were quite a new thing
+and my New Circuit Elements Group was charged with evaluating
+the usefulness and reliability of transistors.
+We had people quite skilled in what was available.
+That was very directly applicable to the building of Explorer I.
+
+The Rand Corporation did not have any involvement.
+They belonged to the Air Force and were somewhat the enemy.
 
 The notes from Karl Linnes are pretty accurate.
 
-Looking at the comments on the bottom of page 3 concerning chronology, Sputnik I was launched on October 4 and Sputnik II on November 3. The next attempted launch was Vanguard, which was 6 December, launched from the Cape and unsuccessful. Explorer I was the next on 31 January 1958.  The next attempt was Vanguard test vehicle III on 5 February, which was unsuccessful.  Then Explorer II on 5 March, which was unsuccessful.  On 17 March Vanguard I was launched which was called a grapefruit.  It was this little 6-inch sphere with only a transmitter in it, just to prove it went into orbit.  Explorer III was then launched on 26 March, which was successful and carried the van Allen Geiger counter and tape recorder.  Explorer I of course had the original Geiger counter, which discovered the radiation belt. Why Sputnik I didn’t discover it, I don’t know, because it also had a Geiger counter. The big Sputnik, Sputnik III was on 15 May, and it was a 3,000-pound device.    
+Looking at the comments on the bottom of page 3 concerning chronology,
+Sputnik I was launched on October 4 and Sputnik II on November 3.
+The next attempted launch was Vanguard, which was 6 December,
+lauched from the Cape and unsuccessful.
 
-Ok, I’m just sort of filling in the chronology here.  Back to your notes, the bottom of page 3 talks about the meeting with the Navy.  Pickering, Al Hibbs, and a "very young, very junior JPL scientist" who was not a very junior scientist. That was Dr. Eberhardt Rectin, and he was very outspoken and always right. Jack Frolich was the project director for Project Deal and, as is pointed out, that came from the fact that we all played gin rummy a lot. After the satellite launch, Jack gave each of us a pack of playing cards with the picture of the satellite and Deal on the back of it.  I still have most of my pack.  I wish I had it all.  
+Explorer I was the next on 31 January 1958.
+The next attempt was Vanguard test vehicle III on 5 February,
+which was unsuccessful.
+Then Explorer II on 5 March, which was unsuccessful.
 
-Now it says the working Explorer I was sitting in a cabinet of JPL and it was ready to go.  That’s not true at all.  We had done most of the work in developing the satellite.  We had developed a temperature control scheme involving some ceramic stripes on it to change the absorptivity of the shell, but we didn’t have any instruments to go in it.  Immediately after we had the go-ahead, I made a quick trip around the country and picked 3 external instruments to go in, one of which was van Allen’s Geiger counter.  It was essentially ready to go.  We just had to change the mounting holes a little bit and it fitted in very nicely.  Van knew about our earlier work preparing the Explorer with a 5-inch cylindrical payload. Instead of building just for the Vanguard configuration, he also built it so it could fit a 6-inch.  
+On 17 March Vanguard I was launched which was called a grapefruit.
+It was this little 6-inch sphere with only a transmitter in it,
+just to prove it went into orbit.
 
-Then it said, capitalizing on his electronic experience, van Allen was able to get new transistors. Van Allen was nowhere to be found and the work was done by one of his graduate students, George Ludwig, who I imported from Iowa to Pasadena with his family. He did the integration work. We essentially had all the transistors except for the high frequency radio transistors. We managed to get those from Bell Laboratories.  They were very experimental and very expensive transistors, $10,000 apiece, and they claimed they were very delicate.  I would fly back to Bell Labs and get two transistors from them, bring them home carefully packed in cotton. Two of them we sent to Picatenny arsenal to be given a 5,000 G shock test because we wanted to make sure they would survive, and they did. That’s what we used in the two radio transmitters in Explorer. Incidentally, I had the flight spare transmitter in my shop for a long time.  It was going to be thrown out at JPL so I hung onto it.  I refurbished it.  The Smithsonian was interested in it, and I sent it to the Smithsonian last year, 1998.  
+Explorer III was then launched on 26 March,
+which was successful and carried the van Allen Geiger counter and tape recorder.
+Explorer I of course had the original Geiger counter,
+which discovered the radiation belt.
 
-The rest of what he has there is fine.  We did all of the spin testing with the motors and the payload and the transmitter and that sort of stuff.
+Why Sputnik I didn’t discover it, I don’t know,
+because it also had a Geiger counter.
+The big Sputnik, Sputnik III was on 15 May,
+and it was a 3,000-pound device.
 
-Ok, page 4, Bland Ewing interviews. Page 5 talks about the helicopter pilot who I presume was Pete Miller. I don’t remember who the chemist was at Carter Labs that he refers to.  It might come to me sometime. Then he talks about Sputnik and the New Circuit Elements Group. We did a lot. The satellite just sort of fell out of it. We were evaluating new guidance devices as well as transistors.  Dr. Walter Hega, mentioned in here a couple times, was working on maser research, a predecessor to the laser microwave amplification where it stimulated emission of radiation to Bill Loanoy’s front end for tracking station receivers as well as spacecraft receivers.  I was trying to develop some new guidance equipment based on some electrochemical principles that intrigued me. We were doing quite a bit in the way of possible new circuit elements, and I did have a laboratory there.  I had my own little chemistry lab and he helped set that up.
+Ok, I’m just sort of filling in the chronology here.
+Back to your notes, the bottom of page 3 talks about the meeting with the Navy.
+Pickering, Al Hibbs, and a "very young, very junior JPL scientist"
+who was not a very junior scientist.
+That was Dr. Eberhardt Rectin, and he was very outspoken and always right.
+Jack Frolich was the project director for Project Deal
+and, as is pointed out, that came from the fact that we all played gin rummy a lot.
+After the satellite launch, Jack gave each of us a pack of playing cards
+with the picture of the satellite and Deal on the back of it.
+I still have most of my pack.  I wish I had it all.  
 
-Bland talks about doing graphics with the original location of the first satellite, the first Explorer.  We did the initial location orbit determination based on a measurement of the Doppler shift of the radio signals.  We had what was called a SphereDop system combined with an interferometer antenna and based on the Doppler shift. We had some graphics that helped us do that. This was put together by a couple of my engineers.  I just forgot his name.  I’ll think of it sometime along the way. 
+Now it says the working Explorer I was sitting in a cabinet of JPL
+and it was ready to go.  That’s not true at all.
+We had done most of the work in developing the satellite.
+We had developed a temperature control scheme
+involving some ceramic stripes on it to change the absorptivity of the shell,
+but we didn’t have any instruments to go in it.
+Immediately after we had the go-ahead,
+I made a quick trip around the country
+and picked 3 external instruments to go in,
+one of which was van Allen’s Geiger counter.
+It was essentially ready to go.
+We just had to change the mounting holes a little bit
+and it fitted in very nicely.
+Van knew about our earlier work preparing the Explorer with a 5-inch cylindrical payload.
+Instead of building just for the Vanguard configuration,
+he also built it so it could fit a 6-inch.  
 
-Where he talks about the major amplification group, I guess he’s talking about Dr. Hega’s maser group.  
+Then it said, capitalizing on his electronic experience,
+van Allen was able to get new transistors.
+Van Allen was nowhere to be found and the work was done by one of his graduate students,
+George Ludwig, who I imported from Iowa to Pasadena with his family.
+He did the integration work.
+We essentially had all the transistors except for the high frequency radio transistors.
+We managed to get those from Bell Laboratories.
+They were very experimental and very expensive transistors, $10,000 apiece,
+and they claimed they were very delicate.
+I would fly back to Bell Labs and get two transistors from them,
+bring them home carefully packed in cotton.
+Two of them we sent to Picatenny arsenal to be given a 5,000 G shock test
+because we wanted to make sure they would survive, and they did.
+That’s what we used in the two radio transmitters in Explorer.
+Incidentally, I had the flight spare transmitter in my shop for a long time.
+It was going to be thrown out at JPL so I hung onto it.
+I refurbished it.
+The Smithsonian was interested in it,
+and I sent it to the Smithsonian last year, 1998.  
 
-Bill Pilkington was a free spirit I’ll tell you.  He was a private pilot, had his own plane.  He flew me down to Earthquake Valley one time when we were setting up the original tracking station down there for Explorer.  He talks about the Goldstone tracking station which came along several years later after Explorer went up, and then he talks about me moving on.  As I explained earlier, I was first put on loan to ARPA. When it appeared certain that the Department of Defense and NASA were not going to cooperate in a worldwide tracking system, I came back to JPL and the Space Science Division was formed.  Al Hibbs and I essentially flipped a coin to see who was going to be the chief of the Space Science Division.  Al won the toss and I became head of the Space Instrument Section which did all of the instrumentation for the Ranger, Mariner, and Surveyor spacecraft.  That was Section 27.  
+The rest of what he has there is fine.
+We did all of the spin testing with the motors and the payload and the transmitter and that sort of stuff.
 
-Then Bland talks about Captain Madeiras.  Well Madeiras was a Major General and he was the overall head of the program.  Werner Von Braun worked for Madeiras.
+Ok, page 4, Bland Ewing interviews. Page 5 talks about the helicopter pilot
+who I presume was Pete Miller.
+I don’t remember who the chemist was at Carter Labs that he refers to.
+It might come to me sometime.
+Then he talks about Sputnik and the New Circuit Elements Group.
+We did a lot.
+The satellite just sort of fell out of it.
+We were evaluating new guidance devices as well as transistors.
+Dr. Walter Hega, mentioned in here a couple times,
+was working on maser research, a predecessor to the laser microwave amplification
+where it stimulated emission of radiation to Bill Loanoy’s front end
+for tracking station receivers as well as spacecraft receivers.
+I was trying to develop some new guidance equipment
+based on some electrochemical principles that intrigued me.
+We were doing quite a bit in the way of possible new circuit elements,
+and I did have a laboratory there.
+I had my own little chemistry lab and he helped set that up.
 
-Under receiving stations, Goldstone came along later on.  We used Earthquake Valley just very quickly because it was a desolate area with absolutely no radio interference. Then we went about setting up the DSN (Deep Space Network) with 3 stations.  One in Goldstone, one near Woorma, Australia, and one at Tortyhone just outside of Madrid.  South Africa was an original temporary station for Explorer but not part of the Deep Space Net.  
+Bland talks about doing graphics with the original location of the first satellite,
+the first Explorer.
+We did the initial location orbit determination based on a measurement
+of the Doppler shift of the radio signals.
+We had what was called a SphereDop system combined
+with an interferometer antenna and based on the Doppler shift.
+We had some graphics that helped us do that.
+This was put together by a couple of my engineers.
+I just forgot his name.  I’ll think of it sometime along the way. 
 
-Bland talks about the D-sized Mercury cells and that’s true.  He didn’t mention that we heard that these Mercury batteries would detonate if heated too high. We decided to find that out.  Well no, we had one blow up in the lab.  I remember that.  One of the battery rings for a high power transmitter in Explorer had I think about 16 AA Mercury cells in it and it shorted out one day, which heated them up very rapidly.  One detonated and put a little hole in the ceiling of the lab. We ran some more tests in one of the rocket test pits which were built for explosions to really understand that phenomenon.
+Where he talks about the major amplification group,
+I guess he’s talking about Dr. Hega’s maser group.  
 
-The computing and graphics.  Some of the orbital mechanics was there.  I didn’t realize, thinking back, I wasn’t aware now that Bland was working on that. 
+Bill Pilkington was a free spirit I’ll tell you.
+He was a private pilot, had his own plane.
+He flew me down to Earthquake Valley one time
+when we were setting up the original tracking station
+down there for Explorer.
+He talks about the Goldstone tracking station
+which came along several years later after Explorer went up,
+and then he talks about me moving on.
+As I explained earlier, I was first put on loan to ARPA.
+When it appeared certain that the Department of Defense and NASA
+were not going to cooperate in a worldwide tracking system,
+I came back to JPL and the Space Science Division was formed.
+Al Hibbs and I essentially flipped a coin to see
+who was going to be the chief of the Space Science Division.
+Al won the toss and I became head of the Space Instrument Section
+which did all of the instrumentation for the Ranger,
+Mariner, and Surveyor spacecraft.
+That was Section 27.  
 
-He talks about the dish didn’t slew fast enough.  We didn’t have dishes in those days.  They came along later on when Goldstone was put in. The antennas for the early Explorers were simply large helical antennas. I put a copy of a JPL publication in with this that shows the antennas I guess at Earthquake Valley. They were hooked up in an interferometer arrangement so that we could measure angular movement through the sky.
+Then Bland talks about Captain Madeiras.
+Well Madeiras was a Major General and he was the overall head of the program.
+Werner Von Braun worked for Madeiras.
 
-Ok, Explorer satellite telemetry. It sounds like what he’s trying to do is locate tracking stations. He certainly wasn’t doing orbital calculations where he’s talking about flying these things all over the place on page 8. We did have roughly 120 degree longitude separation between the tracking stations.  
+Under receiving stations, Goldstone came along later on.
+We used Earthquake Valley just very quickly
+because it was a desolate area with absolutely no radio interference.
+Then we went about setting up the DSN (Deep Space Network)
+with 3 stations.
+One in Goldstone, one near Woorma, Australia,
+and one at Tortyhone just outside of Madrid.
+South Africa was an original temporary station for Explorer
+but not part of the Deep Space Net.  
 
-Now this is where the imagination gets carried away.  We really had nothing to do with the trajectory determination for the rocket.  That was all done at Redstone.  It might have gotten a wrong sign in determining the orbit from the tracking data, but certainly not with the rocket itself. One certainly did not go off in the wrong direction. And nobody ever disconnects the range safety button in the launching blockhouse.
+Bland talks about the D-sized Mercury cells and that’s true.
+He didn’t mention that we heard that these Mercury batteries
+would detonate if heated too high.
+We decided to find that out.
+Well no, we had one blow up in the lab.
+I remember that.
+One of the battery rings for a high power transmitter in Explorer
+had I think about 16 AA Mercury cells in it
+and it shorted out one day,
+which heated them up very rapidly.
+One detonated and put a little hole in the ceiling of the lab.
+We ran some more tests in one of the rocket test pits
+which were built for explosions
+to really understand that phenomenon.
 
-Goldstone did not exist when we did the early Explorer satellites and the Redstone was pretty much gone by the time the Goldstone tracking station was in.  The launch vehicle was in the Jupiter.  Certainly no rocket ever went up in the New England direction.  He might have been talking about Explorer II which failed.  We had a rocket failure on it and some of the stuff fell into the ocean. Half of the satellite was the last rocket stage, the fourth stage, and the overall weight was 21 pounds.  
+The computing and graphics.
+Some of the orbital mechanics was there.
+I didn’t realize, thinking back,
+I wasn’t aware now that Bland was working on that.
 
-The last paragraph, not quite sure what’s going through his mind there.  He’s talking about the squibs.  These are the little blasting cap igniters that ignite the solid rocket motors. That’s probably what happened was that the second stage was 7--I think it was 7, maybe it was 11--rocket motors in a ring. Inside of that, the third stage was 3 rocket motors, and then on the front of the third stage was the fourth stage which was a single rocket motor combined with a satellite. I think it’s the third stage that didn’t work right.  Maybe one of the squibs didn’t blow and if the 3 rocket motors were not burning uniformly, then the thing would end up tumbling and come to pieces.
+He talks about the dish didn’t slew fast enough.
+We didn’t have dishes in those days.
+They came along later on when Goldstone was put in.
+The antennas for the early Explorers were simply large helical antennas.
+I put a copy of a JPL publication in with this
+that shows the antennas I guess at Earthquake Valley.
+They were hooked up in an interferometer arrangement
+so that we could measure angular movement through the sky.
 
-Yes, 4 out of the 18.18.  Three of the 4 satellite Explorers did work and they had different experiments in them. We did get quite a bit more information than the Russians did from Sputnik. They didn’t  lose that many Vanguards but they did lose several.
+Ok, Explorer satellite telemetry.
+It sounds like what he’s trying to do is locate tracking stations.
+He certainly wasn’t doing orbital calculations
+where he’s talking about flying these things all over the place on page 8.
+We did have roughly 120 degree longitude separation
+between the tracking stations.  
+
+Now this is where the imagination gets carried away.
+We really had nothing to do with the trajectory determination for the rocket.
+That was all done at Redstone.
+It might have gotten a wrong sign in determining the orbit
+from the tracking data,
+but certainly not with the rocket itself.
+One certainly did not go off in the wrong direction.
+And nobody ever disconnects the range safety button
+in the launching blockhouse.
+
+Goldstone did not exist when we did the early Explorer satellites
+and the Redstone was pretty much gone
+by the time the Goldstone tracking station was in.
+The launch vehicle was in the Jupiter.
+Certainly no rocket ever went up in the New England direction.
+He might have been talking about Explorer II which failed.
+We had a rocket failure on it
+and some of the stuff fell into the ocean.
+Half of the satellite was the last rocket stage,
+the fourth stage,
+and the overall weight was 21 pounds.  
+
+The last paragraph, not quite sure what’s going through his mind there.
+He’s talking about the squibs.
+These are the little blasting cap igniters that ignite the solid rocket motors.
+That’s probably what happened was that the second stage was 7--I think it was 7, maybe it was 11--rocket motors in a ring.
+Inside of that, the third stage was 3 rocket motors,
+and then on the front of the third stage was the fourth stage
+which was a single rocket motor combined with a satellite.
+I think it’s the third stage that didn’t work right.
+Maybe one of the squibs didn’t blow
+and if the 3 rocket motors were not burning uniformly,
+then the thing would end up tumbling and come to pieces.
+
+Yes, 4 out of the 18.
+Three of the 4 satellite Explorers did work
+and they had different experiments in them.
+We did get quite a bit more information
+than the Russians did from Sputnik.
+They didn’t  lose that many Vanguards
+but they did lose several.
 
 (Side B)
 
-Vanguard used a dual liquid propellant system. They didn’t use liquid hydrogen that early. Most of these used hydrazine as a fuel and red fuming nitric acid as the oxidizer.  I think that that’s what the first stage Viking used.
+Vanguard used a dual liquid propellant system.
+They didn’t use liquid hydrogen that early.
+Most of these used hydrazine as a fuel
+and red fuming nitric acid as the oxidizer.
+I think that that’s what the first stage Viking used.
 
-Second paragraph, everything was secret level.  He says he had only a Q clearance.  Now Q is higher than secret.  It’s involved with atomic energy. Very possibly he went down to Rand because that’s where a lot of the Air Force orbital stuff was done. The Air Force of course was not in the satellite business at that point.  They had been squeezed out by the Navy Vanguard program. The Air Force was working more on interplanetary stuff.  They of course didn’t have any go-ahead to build or launch anything but we didn’t either before Explorer. We went ahead and did it anyhow. It was mentioned earlier, Eisenhower showed a re-entry nose cone that we put in the first test vehicle early in 1957 which was only a three-stage rocket.  Instead of the forth stage rocket and the satellite, it had this re-entry nose cone which was recovered and was really a first.
+Second paragraph, everything was secret level.
+He says he had only a Q clearance.
+Now Q is higher than secret.
+It’s involved with atomic energy.
+Very possibly he went down to Rand
+because that’s where a lot of the Air Force orbital stuff was done.
+The Air Force of course was not in the satellite business at that point.
+They had been squeezed out by the Navy Vanguard program.
+The Air Force was working more on interplanetary stuff.
+They of course didn’t have any go-ahead to build or launch anything
+but we didn’t either before Explorer.
+We went ahead and did it anyhow.
+It was mentioned earlier, Eisenhower showed a re-entry nose cone
+that we put in the first test vehicle early in 1957
+which was only a three-stage rocket.
+Instead of the forth stage rocket and the satellite,
+it had this re-entry nose cone which was recovered
+and was really a first.
 
-18 dot 19 is all double-talk because all of the orbital and guide__ calculations were done at Redstone.  We did some of the orbital calculations at JPL.  That was primarily what Al Hibbs was doing which tied into the launch trajectory.
+18 dot 19 is all double-talk
+because all of the orbital and guide__ calculations were done at Redstone.
+We did some of the orbital calculations at JPL.
+That was primarily what Al Hibbs was doing
+which tied into the launch trajectory.
 
 ### Mars Landing in 1997
 
-JPL is doing this again.  Boy does that bring back memories.  40 years to the dime, four decades from that first crack.
+JPL is doing this again.
+Boy does that bring back memories.
+40 years to the dime, four decades from that first crack.
 
-*I was totally floored by that.  The Martian landing.
+*I was totally floored by that.
+The Martian landing.
 
 Yeah, wasn’t that wonderful?
 
-*Oh, that was amazing.  Amazing that it landed and worked.
+*Oh, that was amazing.
+Amazing that it landed and worked.
 
-And everything worked, everything beautifully designed, and that’s the way the first four satellites worked.  And it was a maverick crew.  They had a very informal style in how they operated as a team.  No structure.  It was all totally horizontal.  They finally returned to that structure after 40 years.  It took them 40 years to return to that structure.  Boy, I’m starting to cry.  Excuse me.  It was a group just exactly like that that sent up the first Explorer satellites, OK?  It was this completely horizontal structure of people that knew each other’s skills down to the last digit.  The moment that some piece of work went out of somebody’s area, they would pass it over to the others.
+And everything worked, everything beautifully designed,
+and that’s the way the first four satellites worked.
+And it was a maverick crew.
+They had a very informal style
+in how they operated as a team.
+No structure.
+It was all totally horizontal.
+They finally returned to that structure
+after 40 years.
+It took them 40 years to return to that structure.
+Boy, I’m starting to cry.
+Excuse me.
+It was a group just exactly like that
+that sent up the first Explorer satellites, OK?
+It was this completely horizontal structure of people
+that knew each other’s skills down to the last digit.
+The moment that some piece of work went out of somebody’s area,
+they would pass it over to the others.
 
-40 years ago.  4 decades ago.  That was a very busy year. I told you already all the mathematics and computing and putting the first Explorer satellite together.  Even having my initials on some of the batteries in them.
+40 years ago.
+4 decades ago.
+That was a very busy year.
+I told you already all the mathematics and computing
+and putting the first Explorer satellite together.
+Even having my initials on some of the batteries in them.
 
-I went into it in kind of ___ detail he couldn’t even believe.  I wanted to say something about it because it was such a neat time and a part of a neat group. I wanted to be in ___ recreated again the ___ with this thing on July 4th ___.  It was like an equivalent of 40 years ago.  40 years ago ___ interestingly enough.
+I went into it in kind of ___ detail he couldn’t even believe.
+I wanted to say something about it
+because it was such a neat time
+and a part of a neat group.
+I wanted to be in ___ recreated again the ___ with this thing on July 4th ___
+It was like an equivalent of 40 years ago.
+40 years ago ___ interestingly enough.
 
 ### Classified Work and Integrity
 
-I’d like to go back and comment on a few things that I left over and came to mind and I’d just like to comment on because it wasn’t clear what I was saying before.  What circumstances on those were.  Are you recording?
+I’d like to go back and comment on a few things
+that I left over and came to mind
+and I’d just like to comment on
+because it wasn’t clear what I was saying before.
+What circumstances on those were.
+Are you recording?
 
 *Yeah, it’s on.
 
-Good.  Part of the work that I did in the 50s was classified, ___ it was classified very, very high.  Part of that has never been declassified and that work is in the ___ don’t exist. There are holes in my life in the 50s, in the only period that I worked on classified material.  Before that I was too young, and starting in 1960 I moved away from that world and never went back to it again.  ___ huge ___ worked on in the 50s that was classified and later it was declassified.  Still, lots of it never has been, so I wanted to be very clear about that.  The stuff that I worked on that was classified and hasn’t been declassified I just haven’t discussed, doesn’t exist.
+Good.  Part of the work that I did in the 50s was classified, ___ it was classified very, very high.
+Part of that has never been declassified
+and that work is in the ___ don’t exist.
+There are holes in my life in the 50s,
+in the only period that I worked on classified material.
+Before that I was too young,
+and starting in 1960 I moved away from that world
+and never went back to it again.
+___ huge ___ worked on in the 50s that was classified
+and later it was declassified.
+Still, lots of it never has been,
+so I wanted to be very clear about that.
+
+The stuff that I worked on that was classified
+and hasn’t been declassified
+I just haven’t discussed, doesn’t exist.
 
 *OK, so there’s nothing on the tape that’s classified material?
 
@@ -566,159 +978,527 @@ Right.  And it’s something that I always respect.
 
 *OK, right.
 
-OK, the next thing I want to clarify is that I want to be very careful about who ___ and whose ___ it came out of at the time.  Many things that I did were paid for by government grants or by business support, that came to me by way of inheriting ___ where I don’t know the source was but certainly I didn’t buy it myself.  Now later on, ___ were things ___ always seemed to be adding books and technical material and don’t, under my own power I can’t.  That was now officially, usually not officially part of the program and also find that ___ would be moving off into areas that were completely outside of the usual funding.  Even when I was in ___ company, I still found myself paying for lots of stuff out of my pocket because it was quicker and easier to get it done out of ___.
+OK, the next thing I want to clarify is that
+I want to be very careful about who ___ and whose ___ it came out of at the time.
+Many things that I did were paid for by government grants
+or by business support,
+that came to me by way of inheriting ___ where I don’t know the source was
+but certainly I didn’t buy it myself.
+Now later on, ___ were things ___ always seemed to be adding books
+and technical material and don’t,
+under my own power I can’t.
+That was now officially, usually not officially part of the program
+and also find that ___ would be moving off into areas
+that were completely outside of the usual funding.
+Even when I was in ___ company,
+I still found myself paying for lots of stuff out of my pocket
+because it was quicker and easier to get it done out of ___.
 
-Yeah.  So __ one very small piece or another of that being declassified and that’s why __ even though I can’t even begin to talk about hardly anything that was actually done on the project because it’s so many levels classified still.  So the strict need to know and the feeling that you could be __ regardless.  And life, have done that.
+Yeah.  So __ one very small piece or another of that being declassified
+and that’s why __ even though I can’t even begin to talk about hardly anything
+that was actually done on the project
+because it’s so many levels classified still.
+So the strict need to know
+and the feeling that you could be __ regardless.
+And life, have done that.
 
-So that’s why I’ve had to say that part of the work that I did for Car5er Labs is still classified.  That was where I did that first chemistry work that ended up getting me recommended to Henry Richter and the group there at JPL.  This stuff is so far down and secrecy stuff that only now just a few little bubbles here and there __ so for the most part, I just can’t talk about most of the things I ever did at that time.
+So that’s why I’ve had to say that part of the work that I did for Car5er Labs
+is still classified.
+That was where I did that first chemistry work
+that ended up getting me recommended to Henry Richter
+and the group there at JPL.
+This stuff is so far down and secrecy stuff
+that only now just a few little bubbles here and there __
+so for the most part, I just can’t talk about most of the things
+I ever did at that time.
 
 ### Applying for a Job
 
-I had applied a couple of times at JPL.  I was living in Altadena, in the north part, not very far from where the lab was. I went by three different times over the year to apply for a job and each time I didn’t get anywhere. Carter Labs had since gone under.  It had been bought out and then not successfully expanded because the people that bought into it just didn’t understand how to run a small entrepreneurial, highly integrated, high technical startup.  They ran it just like it was a conventional business. 
+I had applied a couple of times at JPL.
+I was living in Altadena, in the north part, not very far from where the lab was.
+I went by three different times over the year to apply for a job
+and each time I didn’t get anywhere.
+Carter Labs had since gone under.
+It had been bought out and then not successfully expanded
+because the people that bought into it
+just didn’t understand how to run a small entrepreneurial,
+highly integrated, high technical startup.
+They ran it just like it was a conventional business.
 
-I learned about a job from a friend that was the helicopter pilot for JPL while working on his doctorate there at Caltech. I went by and applied for this job.  By that time Bill Pilkington was the second in command. He was trying to weed out people because we were having such a group of people who just didn’t work out at all.  Bill gave me this test to sort out the people that had the real stuff from the people that were fakes.  The problem was, I blew about half the test totally.  About half the test I did spectacularly well on, and about half the test I totally blew.  He wasn’t sure if JPL should hire me at all. I had already applied there several times.  My records were there in the employment office and they didn’t want to hire me either because I didn’t have any degrees or anything.  Almost all the people there came from different colleges, and they were advanced this or that or whatever.
+I learned about a job from a friend
+that was the helicopter pilot for JPL
+while working on his doctorate there at Caltech.
+I went by and applied for this job.
+By that time Bill Pilkington was the second in command.
+He was trying to weed out people
+because we were having such a group of people
+who just didn’t work out at all.
+Bill gave me this test to sort out the people
+that had the real stuff from the people that were fakes.
+The problem was, I blew about half the test totally.
+About half the test I did spectacularly well on,
+and about half the test I totally blew.
+He wasn’t sure if JPL should hire me at all.
+I had already applied there several times.
+My records were there in the employment office
+and they didn’t want to hire me either
+because I didn’t have any degrees or anything.
+Almost all the people there came from different colleges,
+and they were advanced this or that or whatever.
 
-I guess I got the job because of the friendship between the fellow who was my boss—I can’t think of his name, it won’t come to me, he was another chemist at Carter Labs--and Henry Richter, who was the head and a chemist. My former boss just said, “Hire him, I don’t care.  Just hire him.” So they hired me into the group that ended up building the first Explorer satellites. I thought that was really neat, because a few years into it the Sputnik went up.  Guess what?  Surprise!  Surprise, surprise. 
+I guess I got the job because of the friendship
+between the fellow who was my boss—
+I can’t think of his name, it won’t come to me,
+he was another chemist at Carter Labs--
+and Henry Richter, who was the head and a chemist.
+My former boss just said, “Hire him, I don’t care.  Just hire him.”
+So they hired me into the group
+that ended up building the first Explorer satellites.
+I thought that was really neat,
+because a few years into it the Sputnik went up.
+Guess what?  Surprise!  Surprise, surprise. 
 
-I had applied a couple of times at JPL because at that time I had moved to Altadena.  I was living in Altadena, in the north part, not very far from where the lab was. I went by maybe three different times over the year to apply for a job and each time I didn’t get anywhere.
+I had applied a couple of times at JPL because at that time I had moved to Altadena.
+I was living in Altadena, in the north part,
+not very far from where the lab was.
+I went by maybe three different times over the year to apply for a job
+and each time I didn’t get anywhere.
 
-The next time I had a friend that was in a group called the “New Circuit Elements” who was working on his doctorate there at Caltech.  Dr. Richter, Henry Richter, was working on finishing up his Ph.D. there at Caltech at that time, and he was also Director of the group that was the “Skunk Works” for then JPL that produced the first Explorer satellite.  You’d never know from the name—it was hidden away, probably hidden away with a name that had nothing to do with satellites and things like that.  He needed somebody to help him there in the lab to set up a better laboratory system.  
+The next time I had a friend that was in a group called the “New Circuit Elements”
+who was working on his doctorate there at Caltech.
+Dr. Richter, Henry Richter, was working on finishing up his Ph.D.
+there at Caltech at that time,
+and he was also Director of the group
+that was the “Skunk Works” for then JPL
+that produced the first Explorer satellite.
 
-It happened I knew the fellow that was the helicopter pilot for the lab, who used to work in the lab to sort of keep it in place.  He essentially told Henry that he should hire me because Carter Labs had since gone under.  It had been bought out and then not successfully expanded because the people that bought into it just didn’t understand how to run a small entrepreneurial, highly integrated, high technical startup.  They ran it just like it was a conventional business. 
+You’d never know from the name—it was hidden away,
+probably hidden away with a name that had nothing to do with satellites and things like that.
+He needed somebody to help him there in the lab
+to set up a better laboratory system.
+
+It happened I knew the fellow that was the helicopter pilot for the lab,
+who used to work in the lab to sort of keep it in place.
+He essentially told Henry that he should hire me
+because Carter Labs had since gone under.
+It had been bought out and then not successfully expanded
+because the people that bought into it
+just didn’t understand how to run a small entrepreneurial,
+highly integrated, high technical startup.
+They ran it just like it was a conventional business. 
 
 *How old were you at this time?
 
-Let’s see.  This would have been mid-‘50s.  This would have been right about ‘55 so I would have been—
+Let’s see.  This would have been mid-‘50s.
+This would have been right about ‘55 so I would have been—
 
 *24 or something like that?
 
-Yeah.  When Carter Labs went under, the guy that was my direct boss told Henry Richter, “Hire him”.  I went by and applied for the job.  By that time Bill Pilkington was the second in command.  He was head of the cross-country team at Caltech that didn’t do all that well. But at least he was rather unusual for conventional people from there in that he really was into the cross-country running thing.
+Yeah.
+
+When Carter Labs went under, the guy that was my direct boss told Henry Richter, “Hire him”.
+I went by and applied for the job.
+By that time Bill Pilkington was the second in command.
+He was head of the cross-country team at Caltech
+that didn’t do all that well.
+But at least he was rather unusual for conventional people from there
+in that he really was into the cross-country running thing.
 
 *You used to like to do that, didn’t you?
 
-Yeah.  That was my big thing, cross-country running.  The loneliness of long distance running.  It was really weird that Bill Pilkington, who later became the best friend I ever had in my entire life, was at that time the second in command in the group that was building the Explorer satellites.  He was trying to weed out people because we were having such a group of people who just didn’t work out at all.  Bill gave me this test to sort out the people that had the real stuff from the people that were fakes.  The problem was, I blew about half the test totally.  About half the test I did spectacularly well on and about half the test I totally blew.  He wasn’t sure if JPL should hire me at all.
+Yeah.
+That was my big thing, cross-country running.
+The loneliness of long distance running.
+It was really weird that Bill Pilkington,
+who later became the best friend I ever had in my entire life,
+was at that time the second in command
+in the group that was building the Explorer satellites.
+He was trying to weed out people
+because we were having such a group of people
+who just didn’t work out at all.
+Bill gave me this test to sort out the people
+that had the real stuff from the people that were fakes.
+The problem was, I blew about half the test totally.
+About half the test I did spectacularly well on
+and about half the test I totally blew.
+He wasn’t sure if JPL should hire me at all.
 
-I had already applied there several times.  My records were there in the employment office and they didn’t want to hire me either because I didn’t have any degrees or anything.  Almost all the people there came from different colleges, and they were advanced this or that or whatever.  I guess that because of the friendship between the fellow who was my boss and—I can’t think of his name, it won’t come to me, he was another chemist at Carter Labs.  He was a good friend of Henry Richter, who was the head and a chemist.  He just said, “Hire him, I don’t care.  Just hire him.”  And so they hired me into the group that ended up building the first Explorer satellites. I thought that was really neat, because a few years into it the Sputnik went up.  Guess what?  Surprise!  Surprise, surprise. 
+I had already applied there several times.
+My records were there in the employment office
+and they didn’t want to hire me either
+because I didn’t have any degrees or anything.
+Almost all the people there came from different colleges,
+and they were advanced this or that or whatever.
+I guess that because of the friendship
+between the fellow who was my boss and—
+I can’t think of his name, it won’t come to me,
+he was another chemist at Carter Labs.
+He was a good friend of Henry Richter,
+who was the head and a chemist.
+He just said, “Hire him, I don’t care.  Just hire him.”
+And so they hired me into the group
+that ended up building the first Explorer satellites.
+I thought that was really neat,
+because a few years into it the Sputnik went up.
+Guess what?  Surprise!  Surprise, surprise. 
 
 Bill Pilkington
 
-Bill P and I both loved long distance running. We loved to run.  We’d go up behind his house and run in the mountains, and run and run and run.  Which is neat.  His wife and kids were just truly wonderful.  One time we went up to Gold Stone and we were climbing all around.  He showed me all the different ways the thing was—but that’s leading ahead.  What happened was that he and I became best friends, the best friend I ever had in my whole life, and we participated in building those first Explorer satellites.  It was so crazy to have that honor.  You just can’t believe what an honor that was.  Mind-boggling honor to have been in the group. 
+Bill P and I both loved long distance running.
+We loved to run.
+We’d go up behind his house and run in the mountains,
+and run and run and run.
+Which is neat.
+His wife and kids were just truly wonderful.
+One time we went up to Gold Stone
+and we were climbing all around.
+He showed me all the different ways the thing was—
+but that’s leading ahead.
+What happened was that he and I became best friends,
+the best friend I ever had in my whole life,
+and we participated in building those first Explorer satellites.
+It was so crazy to have that honor.
 
-Bill Pilkington, my best friend, became head of the New Circuit Elements Group when Henry Richter moved on. I’m not quite sure because there were two stages where Henry Richter sort of moved up in administration first and took me with him because I was also head of the lab.
+You just can’t believe what an honor that was.
+Mind-boggling honor to have been in the group.
+
+Bill Pilkington, my best friend, became head of the New Circuit Elements Group
+when Henry Richter moved on.
+I’m not quite sure because there were two stages
+where Henry Richter sort of moved up in administration first
+and took me with him because I was also head of the lab.
 
 ### Sputnik
 
-The Navy was building and cremating one Vanguard after another on the launching pads.  Other branches of the armed services were trying to get things going.  We ended up putting together and designing the first Explorer satellites and actually had them ready to go into orbit. Our group was from the Army.  This is before NASA, and all the different branches of the forces—the Air Force and the Navy and the Army—were trying to get into space in competition with each other.  The President [Eisenhower] called and said “OK, this is top priority.  Is there anybody out there that can put something in space?  This is intolerable that the Russians put up Sputnik.”  What was that?  That was ‘57.
+The Navy was building and cremating one Vanguard after another on the launching pads.
+Other branches of the armed services were trying to get things going.
+We ended up putting together and designing the first Explorer satellites
+and actually had them ready to go into orbit.
+Our group was from the Army.
+This is before NASA,
+and all the different branches of the forces—
+the Air Force and the Navy and the Army—
+were trying to get into space in competition with each other.
+The President [Eisenhower] called and said “OK, this is top priority.
+Is there anybody out there that can put something in space?
+This is intolerable that the Russians put up Sputnik.”
+What was that?  That was ‘57.
+OK, 40 years ago. 40 years ago exactly.
 
-OK, 40 years ago. 40 years ago exactly.  The president is depending on people.  “This is totally unacceptable.  Who can do something different?”  So we said “Well, we probably can.  We actually have four satellites all ready to go into orbit and not only that, but we have all the receiving stations in place.”
+The president is depending on people.
+“This is totally unacceptable.
+Who can do something different?”
+So we said “Well, we probably can.
+We actually have four satellites all ready to go into orbit
+and not only that, but we have all the receiving stations in place.”
 
-The Russian was 1500 pounds or 2000 pounds, something like that.  They had to work with conventional batteries and vacuum tubes.  They used the type of vacuum tubes used within battle ships.  They’re ruggedized, that was the only way.  Can you believe the amount of energy and time that took?  Even though they put up all this weight, Sputnik was a monster.  It couldn’t do much more than just go beep beep beep beep, beep beep.  Didn’t measure, didn’t do anything else, but it did go beep beep beep beep.
+The Russian was 1500 pounds or 2000 pounds, something like that.
+They had to work with conventional batteries and vacuum tubes.
+They used the type of vacuum tubes used within battle ships.
+They’re ruggedized, that was the only way.
+Can you believe the amount of energy and time that took?
+Even though they put up all this weight, Sputnik was a monster.
+It couldn’t do much more than just go beep beep beep beep, beep beep.
+Didn’t measure, didn’t do anything else, but it did go beep beep beep beep.
 
 *And it was first.
 
 Boy did that get attention.
 
-So there we were, because it was beep beep beep, like Sputnik, and ___ where Sputnik I think was 1,000 pounds or something like that because of all the vacuum tubes and the batteries they had to have in there.  Gee, we claimed that we had put 2,000 pounds on our, of course it was all ___ it was 2,000 pounds, but it had as much, you know it went beep beep beep too.
+So there we were, because it was beep beep beep, like Sputnik,
+and ___ where Sputnik I think was 1,000 pounds or something like that
+because of all the vacuum tubes and the batteries they had to have in there.
+Gee, we claimed that we had put 2,000 pounds on our,
+of course it was all ___ it was 2,000 pounds, but it had as much,
+you know it went beep beep beep too.
 
-You just can’t believe how the shit hit the fan.  There’s no other way to describe it.  But the President wanted to know why it was Sputnik that was up there and not one of ours. At the time the Navy had the full attention of Washington. It was just cremating one Vanguard after another with explosions of the first designed liquid gel systems.  Those systems were terribly unreliable and they contain a lot of liquid oxygen and oxidizers and things like that, combined with lots of other stuff--liquid hydrogen and other fuels that were equally unpleasant to mix with oxygen.
+You just can’t believe how the shit hit the fan.
+There’s no other way to describe it.
+But the President wanted to know why it was Sputnik that was up there
+and not one of ours.
+At the time the Navy had the full attention of Washington.
+It was just cremating one Vanguard after another
+with explosions of the first designed liquid gel systems.
+Those systems were terribly unreliable
+and they contain a lot of liquid oxygen and oxidizers and things like that,
+combined with lots of other stuff--liquid hydrogen and other fuels
+that were equally unpleasant to mix with oxygen.
 
-There was a high level of secrecy with total need to know type of thing. Even though I had only a Q security clearance, I was the only one who had been doing all the graphics and laying out the first programming stuff. They asked me to be one of the two people that were going to be the verification team to see if you could put something in orbit. I went down to this secret place at Rand Corporation because it was Rand that was the super secret place. At that the time it was equivalent to Area 51 that nobody wants to claim exists, where all the Stealth planes are created. This is the equivalent to that sort of thing.
+There was a high level of secrecy with total need to know type of thing.
+Even though I had only a Q security clearance,
+I was the only one who had been doing all the graphics
+and laying out the first programming stuff.
+They asked me to be one of the two people
+that were going to be the verification team
+to see if you could put something in orbit.
+I went down to this secret place at Rand Corporation
+because it was Rand that was the super secret place.
+At that the time it was equivalent to Area 51
+that nobody wants to claim exists,
+where all the Stealth planes are created.
+This is the equivalent to that sort of thing.
 
 ### The Explorer Satellites
 
-One part of the group was doing the specialized work on the first maser amplifier that was liquid nitrogen cooled.  We had to get low enough noise level so that we could pick up these incredibly weak signals, and we had to lock on the signal.  There was all this elaborate first tracking system to make the thing work in real time to track the signals.  The thing would actually waver, partly because the on-board radios from the small satellites couldn’t be constructed that stable and you couldn’t reprogram a laser because it was weak.  I’m proud as heck of those first ones.
+One part of the group was doing the specialized work
+on the first maser amplifier that was liquid nitrogen cooled.
+We had to get low enough noise level so that we could pick up
+these incredibly weak signals, and we had to lock on the signal.
+There was all this elaborate first tracking system
+to make the thing work in real time to track the signals.
+The thing would actually waver,
+partly because the on-board radios from the small satellites
+couldn’t be constructed that stable
+and you couldn’t reprogram a laser because it was weak.
+I’m proud as heck of those first ones.
 
-We jammed more in that 12 pounds than the Russians did in their 1500 pounds.  Our satellites were designed to measure all sorts of parameters, how much radiation was coming in, going out, what internal temperatures of the radiation, all sorts of things, and then encode it and send it down.  The very first satellites that ever went up.
+We jammed more in that 12 pounds than the Russians did in their 1500 pounds.
+Our satellites were designed to measure all sorts of parameters,
+how much radiation was coming in, going out,
+what internal temperatures of the radiation, all sorts of things,
+and then encode it and send it down.
+The very first satellites that ever went up.
 
 Receiving Stations
 
-I was working on a thing that was sending out all the layout of the graphics and did the computation.  I plotted all the original locations of all the satellite receiving stations like Goldstone Dry Lake and other places like that.  We had some in Australia and in South Africa.  I did all the graphics that line up the horizon lines and where things would pick up and get lost and so forth.
+I was working on a thing that was sending out all the layout of the graphics
+and did the computation.
+I plotted all the original locations of all the satellite receiving stations
+like Goldstone Dry Lake and other places like that.
+We had some in Australia and in South Africa.
+I did all the graphics that line up the horizon lines
+and where things would pick up and get lost and so forth.
 
-All the places like the Goldstone Dry Lake were scheduled around the world, places like Australia and so on.  It was obvious you couldn’t conveniently put them anywhere. There was no place in Russia we could stick one. There were few tropical places at that time. So they went places like South Africa and places in Australia.
+All the places like the Goldstone Dry Lake were scheduled around the world,
+places like Australia and so on.
+It was obvious you couldn’t conveniently put them anywhere.
+There was no place in Russia we could stick one.
+There were few tropical places at that time.
+So they went places like South Africa and places in Australia.
 
-I had the good fortune, and because things were handed around, I had the responsibility of maintaining the big batteries that went in Explorer. Making sure they worked right, testing them. I had my initials BE inscribed in the ones I had tested. We tested them for destruction by heating them and by spinning them at different speeds.  These were the big D-size mercury cells. At least a dozen of them went into the thing. But that was all that our system needed to do a whole range of different tests and things that it was programmed to do. It had a fold-up antenna on it. It was basically just spun.  It was non-directional, a quad-fold type antennae. It was quite a privilege to be in the group that did that.
+I had the good fortune, and because things were handed around,
+I had the responsibility of maintaining the big batteries that went in Explorer.
+Making sure they worked right, testing them.
+I had my initials BE inscribed in the ones I had tested.
+We tested them for destruction by heating them
+and by spinning them at different speeds.
+These were the big D-size mercury cells.
+At least a dozen of them went into the thing.
+But that was all that our system needed to do
+a whole range of different tests and things that it was programmed to do.
+It had a fold-up antenna on it.
+It was basically just spun.
+It was non-directional, a quad-fold type antennae.
+It was quite a privilege to be in the group that did that.
 
 Computer Calculations & Telemetry
 
 The machines have come a long ways from 1955 when I first started these damn things.
 
-Even those first computers that were the IBM 709s, the vacuum tubes, we had to pre-calculate everything to make it work right. Most of the things that were done in real time had to be done graphically.  At that time I was engulfed with trying to get the stuff in and out of the computer as I mentioned before.   
+Even those first computers that were the IBM 709s, the vacuum tubes,
+we had to pre-calculate everything to make it work right.
+Most of the things that were done in real time had to be done graphically.
+At that time I was engulfed with trying to get the stuff in and out of the computer
+as I mentioned before.
 
-We did the calculations slowly, but incredibly fast compared to what anybody else could do at the time on a 709 computer.  We did all the calculations that it should be possible to launch a Redstone missile into orbit with enough energy to essentially put a beeper up there with a beeping thing with a mimic of the stuff that we’d already designed for our Explorer satellite.  We could put that into orbit.  The only problem was the computer was so slow that (1) you had to graphically compute everything that was going to be done to the dot and (2) then you had to point onto the exact place on the horizon that it would be coming around there at the Goldstone facility.  The dish couldn’t slew fast enough to pick up if it wasn’t aimed right to begin with.  It had an enormous gain, but at the expense of a very narrow angle. That was also the place where we placed all the low-noise amplifier stuff using measures.  As I mentioned before, there was no putting a measure obviously in the Explorer satellite itself.
+We did the calculations slowly,
+but incredibly fast compared to what anybody else could do at the time on a 709 computer.
+We did all the calculations that it should be possible to launch a Redstone missile into orbit
+with enough energy to essentially put a beeper up there
+with a beeping thing with a mimic of the stuff that we’d already designed for our Explorer satellite.
+We could put that into orbit.
 
-The problem there was, “How do you track something in time? And pick it up?"  There was no slewing around or anything. They used to reprogram the Redstone missile.  Instead of doing the normal tests, we just reprogrammed it. We had the guy from the group, the cell block where things were set off. At this point there was 1, 2, 3, perhaps 5 people in the entire lab.
+The only problem was the computer was so slow that
+(1) you had to graphically compute everything that was going to be done to the dot
+and (2) then you had to point onto the exact place on the horizon
+that it would be coming around there at the Goldstone facility.
+The dish couldn’t slew fast enough to pick up if it wasn’t aimed right to begin with.
+It had an enormous gain, but at the expense of a very narrow angle.
+That was also the place where we placed all the low-noise amplifier stuff using measures.
+As I mentioned before, there was no putting a measure obviously in the Explorer satellite itself.
 
-They were going to try to put it into orbit to see if we could get a beeper up there.  We aimed it using all of the graphics that we had been calculating for spherical trigonometry.  That’s where I picked up on a reverse sign in the spherical trigonometry that would have aimed the missile in the opposite, wrong direction.  You’ve got 180 degrees because the signs of things are very important.  They got a sign wrong.  
+The problem there was, “How do you track something in time? And pick it up?"
+There was no slewing around or anything.
+They used to reprogram the Redstone missile.
+Instead of doing the normal tests, we just reprogrammed it.
+We had the guy from the group, the cell block where things were set off.
+At this point there was 1, 2, 3, perhaps 5 people in the entire lab.
 
-We put it in and fired the rocket, and it just went off in a totally wrong direction.  The self-destruct person there was pushing the self-destruct button to blow it up because it obviously had totally malfunctioned.  Blow it up, blow it up.  But the button had been disconnected, because we didn’t want to blow it up.  We were hoping the things would work, and they had the Goldstone aimed right at the right place on the horizon.  The graphs we did graphically to tell it where to aim needed a few degrees tweeking. It also verified the fact that the Redstone would inject perfectly into our group, perfectly.
+They were going to try to put it into orbit to see if we could get a beeper up there.
+We aimed it using all of the graphics that we had been calculating for spherical trigonometry.
+That’s where I picked up on a reverse sign in the spherical trigonometry
+that would have aimed the missile in the opposite, wrong direction.
 
-We followed Sputnik with the Explorer satellites, bang bang bang. 
+You’ve got 180 degrees because the signs of things are very important.
+They got a sign wrong.
 
-The third one went way up to the New England direction.  At that time some of the stuff was raining down out of the sky.  They had 12 pounds, pretty minor.  No, it was a little more than that, but it still was very small.  It was the last stage, with other things connected to it.
+We put it in and fired the rocket, and it just went off in a totally wrong direction.
 
-We couldn’t figure out what went wrong. We spread the output of the 4 satellites in the hall. Bill Pilkington and I looked at it and said, “Jeez, look at this thing.  You can see the rates of this thing changing, and here was this thing glitching the speed that it slows down the cycle of the spin.” You can calculate that one of the scribs (?) hadn’t fired to completely separate it.  From spreading this idea out to the fact that it was a quadrapole, you could see the amplitude thing from the original recordings. We did our own analog trip on the data to figure out what had gone wrong.  They absolutely assured us all those squids (?) were all valid on the 4th one which went into orbit perfectly also.  Each one carried some different load of subtests to be done.
+The self-destruct person there was pushing the self-destruct button to blow it up
+because it obviously had totally malfunctioned.
+Blow it up, blow it up.
+But the button had been disconnected,
+because we didn’t want to blow it up.
+We were hoping the things would work,
+and they had the Goldstone aimed right at the right place on the horizon.
 
-The machines have come a long ways from 1955 when I first started these damn things.  On my vacuum tube IBM 709 at JPL for the first Explorer Satellite.  Oh, one thing I want to point out there on that thing, on the whole thing of the graph thing, the Explorer thing and stuff like that. I want to talk about how my work had a physical connection with the actual satellite itself. 
+The graphs we did graphically to tell it where to aim needed a few degrees tweeking.
+It also verified the fact that the Redstone would inject perfectly into our group, perfectly.
 
-The Director of the program at that time was Dr. Henry Richter, who was finishing up his doctorate at Caltech in chemistry at that time.  He wanted someone that could help him directly with his own mathematics and keep his own lab clean.  He was friends with a helicopter pilot who had been keeping his lab up to that time. It was about one-third of doing the graphics for all original location of the first Explorer satellites.  
+We followed Sputnik with the Explorer satellites, bang bang bang.
+
+The third one went way up to the New England direction.
+At that time some of the stuff was raining down out of the sky.
+They had 12 pounds, pretty minor.
+No, it was a little more than that, but it still was very small.
+It was the last stage, with other things connected to it.
+
+We couldn’t figure out what went wrong.
+We spread the output of the 4 satellites in the hall.
+Bill Pilkington and I looked at it and said,
+“Jeez, look at this thing.
+You can see the rates of this thing changing,
+and here was this thing glitching the speed that it slows down the cycle of the spin.”
+You can calculate that one of the scribs (?) hadn’t fired to completely separate it.
+From spreading this idea out to the fact that it was a quadrapole,
+you could see the amplitude thing from the original recordings.
+We did our own analog trip on the data to figure out what had gone wrong.
+They absolutely assured us all those squids (?) were all valid
+on the 4th one which went into orbit perfectly also.
+Each one carried some different load of subtests to be done.
+
+The machines have come a long ways from 1955 when I first started these damn things.
+On my vacuum tube IBM 709 at JPL for the first Explorer Satellite.
+Oh, one thing I want to point out there on that thing,
+on the whole thing of the graph thing, the Explorer thing and stuff like that.
+I want to talk about how my work had a physical connection with the actual satellite itself. 
+
+The Director of the program at that time was Dr. Henry Richter,
+who was finishing up his doctorate at Caltech in chemistry at that time.
+He wanted someone that could help him directly with his own mathematics
+and keep his own lab clean.
+He was friends with a helicopter pilot who had been keeping his lab up to that time.
+It was about one-third of doing the graphics for all original location of the first Explorer satellites.  
 
 *Yeah, I tracked down some of the names from that project.  
 
 Pardon?
 
-*I contacted someone at JPL about the Explorer program and, an archivist, and he said that the project, that it was originally called Project Deal.
+*I contacted someone at JPL about the Explorer program
+and an archivist, and he said that the project,
+that it was originally called Project Deal.
 
-I’m not sure from the outside because you __ this stuff was so super-secret and so high level above even top secret that it just sort of blew your mind and here I was just an ordinary secret __ at the time.
+I’m not sure from the outside because you __ this stuff
+was so super-secret and so high level above even top secret
+that it just sort of blew your mind
+and here I was just an ordinary secret __ at the time.
 
 *This fellow said that Robert.
 
-But it was called the New Circuit Elements Group, to hide it within the regular company of JPL itself.  Called the New Circuit Elements Group.  How that __ name that you would never figure was building the first Explorer satellite.
+But it was called the New Circuit Elements Group,
+to hide it within the regular company of JPL itself.
+Called the New Circuit Elements Group.
+How that __ name that you would never figure was building the first Explorer satellite.
 
 *There was a guy named Robertson Stevens, he was the.
 
-I think, that possibly into my head is the person who was way up at the top of the whole __ program.
+I think, that possibly into my head is the person
+who was way up at the top of the whole __ program.
 
-*Yeah, he was the head of Section 23, so he was the head of the whole section.
+*Yeah, he was the head of Section 23,
+so he was the head of the whole section.
 
-Ok.  Section head.  So what I said when __ Richter finishing up his degree at Caltech in chemistry, I’m talking about is the New Circuit Elements Group itself within that.
+Ok.  Section head.
+So what I said when __ Richter finishing up his degree at Caltech in chemistry,
+I’m talking about is the New Circuit Elements Group itself within that.
 
 *Right.  And there was a guy named Jack Froelich, Froelisch?
 
-I would have to look at the list of the employees at that period of time which I’m sure they have because, at some archive or another.
+I would have to look at the list of the employees
+at that period of time which I’m sure they have
+because, at some archive or another.
 
-*Yeah, well this is the archiver who gave me this information. There was a guy named Karl Linnes and he was supposed to be responsible for siting the tracking systems.
+*Yeah, well this is the archiver who gave me this information.
+There was a guy named Karl Linnes
+and he was supposed to be responsible for siting the tracking systems.
 
-Yeah, well you see again, what I was responsible for was getting the graphics up and running so the other people like Karl Linnes could actually look at the graphs all over the place and fly these things around. "Oh, gee. That one's heading toward Russia.  Probably not a reasonable place." "That one's heading out to the middle of Australia. Let’s go for that one."  "Oh gee, this one is heading down toward Cape Town in South Africa. Let’s go for that one." That would space things out in some reasonable way. That’s what we were doing at that time.
+Yeah, well you see again, what I was responsible for
+was getting the graphics up and running
+so the other people like Karl Linnes could actually look
+at the graphs all over the place and fly these things around.
+"Oh, gee. That one's heading toward Russia.
+Probably not a reasonable place."
+"That one's heading out to the middle of Australia.
+Let’s go for that one."
+"Oh gee, this one is heading down toward Cape Town in South Africa.
+Let’s go for that one."
+That would space things out in some reasonable way.
+That’s what we were doing at that time.
 
-*Then there were two guys on the satellite observation.  Al Hibbs and Fred Eimer.
+*Then there were two guys on the satellite observation.
+Al Hibbs and Fred Eimer.
 
 Again, long time.
 
-*Doesn’t ring a bell.  Walt Victor?  Pilkington worked under Walt Victor in satellite instrumentation.
+*Doesn’t ring a bell.  Walt Victor?
+Pilkington worked under Walt Victor in satellite instrumentation.
 
-Yeah, Bill Pilkington, my best friend, he ended up when Henry Richter moved on, he became head of the new __ group and he was actually __ at the time.  Yeah, I’m not quite sure because there were two stages where Henry Richter sort of moved up in administration first and took me with him because I was also head of the lab __.
+Yeah, Bill Pilkington, my best friend,
+he ended up when Henry Richter moved on,
+he became head of the new __ group
+and he was actually __ at the time.
+Yeah, I’m not quite sure because there were two stages
+where Henry Richter sort of moved up in administration first
+and took me with him because I was also head of the lab __.
 
 *Well, he did find you on the list.
 
 Did find me on the list?
 
-*Yeah, yeah.  In 1959 you were in the telephone book, and you were listed as a lab technician in section 23, guidance techniques research.
+*Yeah, yeah.
+In 1959 you were in the telephone book,
+and you were listed as a lab technician
+in section 23, guidance techniques research.
 
-How is that for an absolutely no indication of exactly what I did?
+How is that for an absolutely no indication
+of exactly what I did?
 
 *Yeah.
 
-That’s why I meant this whole thing was, when there was that final injection of the thing and we went down, we had to down to incredibly secured __ there at, I can’t think of the government think tank.
+That’s why I meant this whole thing was,
+when there was that final injection of the thing
+and we went down, we had to down to incredibly secured __ there at,
+I can’t think of the government think tank.
 
 Rand Corporation
 
-Rand Corporation, to do the actual verifications because there is no secure line that would even begin to be secure enough to work out of JPL. So we had to work out of Rand to do the actual graphic verification.  So talk about being secure and secret.
+Rand Corporation, to do the actual verifications
+because there is no secure line that would even begin
+to be secure enough to work out of JPL.
+So we had to work out of Rand to do the actual graphic verification.
+So talk about being secure and secret.
 
-*Well my guess is that he just doesn’t have that information and that it isn’t in the official documentation but I imagine some of it is declassified at this point so.
+*Well my guess is that he just doesn’t have that information
+and that it isn’t in the official documentation
+but I imagine some of it is declassified at this point so.
 
-*There was a guy from the Army named Medaris, John Medaris.  He was the Army person who was on site when the first satellite went up on the 29th of January, 1958.
+*There was a guy from the Army named Medaris, John Medaris.
+He was the Army person who was on site
+when the first satellite went up on the 29th of January, 1958.
 
-All I remember is when they had an army person there, paging Captain Bly, paging Captain Bly.  Don’t know why Captain Bly is sticking in my head from reading books from as a teenager.  But I don’t even remember who was the director because again, man does that ever __ what the lab was doing at that moment in time.  Talk about a surprise.  Talk about a huge surprise. They thought the Russians might be able to, they thought they would have at least a year to spare and there it was up there going beep beep beep.  What was that called?  Something one?
+All I remember is when they had an army person there,
+paging Captain Bly, paging Captain Bly.
+Don’t know why Captain Bly is sticking in my head
+from reading books from as a teenager.
+But I don’t even remember who was the director
+because again, man does that ever __ what the lab was doing
+at that moment in time.
+Talk about a surprise.
+Talk about a huge surprise.
+They thought the Russians might be able to,
+they thought they would have at least a year to spare
+and there it was up there going beep beep beep.
+What was that called?  Something one?
 
 *Sputnik?
 
@@ -732,11 +1512,40 @@ Boy was there ever.
 
 *Before the end of January.
 
-Yeah.  That’s why we broke every rule in the game, of which I can’t talk about 99% of. We had to break every rule in the game to make absolutely sure, they even __ and it’s a populated area in the northern parts of New England setting. Oh gee, that’s just one of our planes malfunctioning. It’s a plane here or there malfunctioning or really are misbehaving satellite __.  And actually one of the three satellites didn’t quite clear one of the squibs correctly and we were able to figure out later on what had happened but so, three of the four satellites __ logged different kinds of information and radically more information than the rest of them did.  Their system could only go beep beep beep, while others actually measured temperature, directions, and all sorts of other parameters like that.
+Yeah.  That’s why we broke every rule in the game,
+
+of which I can’t talk about 99% of.
+We had to break every rule in the game
+
+to make absolutely sure,
+
+they even __ and it’s a populated area
+
+in the northern parts of New England setting.
+Oh gee, that’s just one of our planes malfunctioning.
+It’s a plane here or there malfunctioning
+
+or really are misbehaving satellite __.
+And actually one of the three satellites
+
+didn’t quite clear one of the squibs correctly
+
+and we were able to figure out later on
+what had happened but so,
+
+three of the four satellites __ logged different kinds of information
+
+and radically more information than the rest of them did.
+Their system could only go beep beep beep,
+
+while others actually measured temperature,
+
+directions, and all sorts of other parameters like that.
 
 *Like the Van Allen belt.
 
-I’m not quite sure, was in that group, but very soon thereafter, yeah, that sort of thing.
+I’m not quite sure, was in that group,
+but very soon thereafter, yeah, that sort of thing.
 
 *Yeah, I think the Van Allen belt was measured with one of the first Explorer satellites.
 
@@ -746,61 +1555,118 @@ OK.  Cuz we have the implementation __ and actually encode the information and s
 
 Encode the information, send it back down to the various dishes around the world.
 
-*That’s one thing that the Russians didn’t have.  They didn’t have a way to monitor throughout.
+*That’s one thing that the Russians didn’t have.
+They didn’t have a way to monitor throughout.
 
 Around the world.
 
 *Yeah.  They got some information but they weren’t able to get very much.
 
-Yeah.  That’s why we realized, particularly with the amount of information that we’d be throwing out, that there would have to be some pretty heavy duty computation.  There had to be some pretty heavy duty satellite dishes all spaced out very nicely around the world that could pass on one to the next.  So all that stuff was then in place before that first satellite went up including the one out here at Goldstone or Goldstar or Goldsun I guess.
+Yeah.  That’s why we realized,
+particularly with the amount of information that we’d be throwing out,
+that there would have to be some pretty heavy duty computation.
+There had to be some pretty heavy duty satellite dishes
+all spaced out very nicely around the world
+that could pass on one to the next.
+So all that stuff was then in place
+before that first satellite went up
+including the one out here at Goldstone
+or Goldstar or Goldsun I guess.
 
 Goldstone Dry Lake
 
 I remember climbing all over that, satellite __.
 
-*Yeah, so I found in a book, it said General Medaris was handed a message saying `Goldstone has the bird.’
+*Yeah, so I found in a book,
+it said General Medaris was handed a message saying `Goldstone has the bird.’
 
 Yeah, that’s what happened.
 
 *Goldstone Dry Lake, Mojave Desert.
 
-And it was our calculations from Rand that let them point in the right direction or they wouldn’t have had zip chance of getting the bird because they couldn’t slew around fast enough to turn arbitrarily.  We had to pre-calculate from ejection on to things like that, exactly where it would be coming over the horizon so they could prepoint.
+And it was our calculations from Rand that let them point in the right direction
+or they wouldn’t have had zip chance of getting the bird
+because they couldn’t slew around fast enough to turn arbitrarily.
+We had to pre-calculate from ejection on to things like that,
+exactly where it would be coming over the horizon
+so they could prepoint.
 
-*So what I have here is that Explorer I was launched at 10:48 p.m. on the 31st of January.  Somewhere else it said 29th, and it was under the Army Ballistic Missile Agency.
+*So what I have here is that Explorer I was launched
+at 10:48 p.m. on the 31st of January.
+Somewhere else it said 29th,
+and it was under the Army Ballistic Missile Agency.
 
 Yeah.
 
-*And it was 10.5 pounds, and it had two micro meteoroid detectors, a Geiger counter, and telemetry material and it just discovered the Van Allen Belt.
+*And it was 10.5 pounds, and it had two micro meteoroid detectors,
+a Geiger counter, and telemetry material
+and it just discovered the Van Allen Belt.
 
 OK, great.
 
-*And the second one was launched on the 5th of March and/or maybe February.  There’s some confusion there, and that one failed and then the third one was launched on the 22nd of March and the fourth one was launched on the 26th of July.
+*And the second one was launched on the 5th of March
+and/or maybe February.  There’s some confusion there,
+and that one failed and then the third one was launched
+on the 22nd of March
+and the fourth one was launched on the 26th of July.
 
 And all succeeded because we found out __ finding squib was our problem on __.
 
 ### NASA
 
-It was just absolutely evident that we had to get the military out of the game, total. So NASA was formed at that time to create a civilian space agency to oversee the stuff from their ___.  The military was pulled totally out of the game of doing space.  If they were going to do space, it had to do with what can I say, spy satellites or things like that.  But that would be it.
+It was just absolutely evident that we had to get the military out of the game, total.
+So NASA was formed at that time to create a civilian space agency
+to oversee the stuff from their ___.
+The military was pulled totally out of the game of doing space.
+If they were going to do space, it had to do with what can I say,
+spy satellites or things like that.
+But that would be it.
 
 *Yeah, observation.
 
-Anything else would be civilian and coordinated through NASA.  So that was the formation of NASA afterwards.  So that was just truly a wonderful thing to have participated in that.
+Anything else would be civilian and coordinated through NASA.
+So that was the formation of NASA afterwards.
+So that was just truly a wonderful thing to have participated in that.
 
-*Wow, the inner circle of getting the first satellites up.  That’s pretty amazing.  I didn’t realize that Bland.
+*Wow, the inner circle of getting the first satellites up.
+That’s pretty amazing.
+I didn’t realize that Bland.
 
-So the thing was that that is, here can you realize how exactly 40 years later ___ amazing sight to ___ organization with no structure, to be able to do it again with the Rover and all the beautiful stuff that’s ___ designed and ___.
+So the thing was that that is, here can you realize how exactly 40 years later
+___ amazing sight to ___ organization with no structure,
+to be able to do it again with the Rover
+and all the beautiful stuff that’s ___ designed and ___.
 
 *Pretty amazing.
 
 ### Skunk Works
 
-So that was the ___ here and there ___ put together, I got the ___ these days.  The guy that put together the ___ worked out of Lockheed and help them with things like the U2 and stuff like that.  One day he answered the phone and said this is “Skunk Works” and plants, manufacturers __ and it was sitting on a re___ and right next door to a brand new plastics place.  The guy that was head of the project picked up the phone, a big phone, red phone that can call anywhere.  “Skunk Works here, Skunk Works.”  That was the label that stuck for about ___ ever since the guy answered it.  That was the name they used for that type of organization with another company.  It stuck forever.  Anyway, so reminiscing, reminiscing, reminiscing, it’s weird twists and turns of life.
+So that was the ___ here and there ___ put together,
+I got the ___ these days.
 
-What’s happening with the __ is a whole lot of stuff, I mean that’s where the whole thing __ of skunk works came.
+The guy that put together the ___ worked out of Lockheed
+and help them with things like the U2 and stuff like that.
+One day he answered the phone and said this is “Skunk Works”
+and plants, manufacturers __ and it was sitting on a re___
+and right next door to a brand new plastics place.
+
+The guy that was head of the project picked up the phone,
+a big phone, red phone that can call anywhere.
+“Skunk Works here, Skunk Works.”
+That was the label that stuck for about ___ ever since the guy answered it.
+That was the name they used for that type of organization
+with another company.  It stuck forever.
+
+Anyway, so reminiscing, reminiscing, reminiscing,
+it’s weird twists and turns of life.
+
+What’s happening with the __ is a whole lot of stuff,
+I mean that’s where the whole thing __ of skunk works came.
 
 *Yeah, from Lockheed, at Lockheed.
 
-Yeah.  And the declassification __ at least __ little fragments of some __ like in Skunk work __ on the U2 and the Blackbird.
+Yeah.  And the declassification __ at least __ little fragments of some __
+like in Skunk work __ on the U2 and the Blackbird.
 
 *Blackhawk.
 
@@ -812,15 +1678,24 @@ Black bird, wasn’t it?  Maybe Blackbird 81 pops in my head.
 
 *Let me just check here.
 
-You __ the Blackbird.  The Blackbird was the all __ and still the fastest plane alive, incredibly enough.  Still the fastest plane that can fly.  Done by that group and they’ve brought it back from retirement so also what was looking like there might be some __ to them.
+You __ the Blackbird.  The Blackbird was the all __
+and still the fastest plane alive, incredibly enough.
+Still the fastest plane that can fly.
+Done by that group and they’ve brought it back from retirement
+so also what was looking like there might be some __ to them.
 
-*Right, yeah, it’s R71.  That’s R71 Blackbird.  So you worked on that project?
+*Right, yeah, it’s R71.  That’s R71 Blackbird.
+So you worked on that project?
 
-No, hardly.  I just, what I meant was that’s the sort of thing where the skunk works got named for the person who was doing that because he was the head of the group there at Lockheed.
+No, hardly.  I just, what I meant was that’s the sort of thing
+where the skunk works got named for the person who was doing that
+because he was the head of the group there at Lockheed.
 
 *Yeah, what’s his name?  I’ve got his name here somewhere.
 
-Any rate, thanks.  He answered the phone __ new plastic place that had gone in by the street down there in Glendale and “Skunk works here” __ forever.
+Any rate, thanks.  He answered the phone __ new plastic place
+that had gone in by the street down there in Glendale
+and “Skunk works here” __ forever.
 
 *Kelly Johnson.
 
@@ -828,43 +1703,109 @@ Yeah.
 
 *Yeah, in 1943.
 
-Ok, so the thing is that what I’m trying to say cuz it’s very interesting to have you echo that back because then it clarifies in my own way what actually happened and also makes it look sharper, the dates and people and stuff.  Not only the stuff we’re saying, was all of the group there and Glendale had done the first __ to design and then what was it called, the Blackbird?
+Ok, so the thing is that what I’m trying to say cuz it’s very interesting
+to have you echo that back because then it clarifies in my own way
+what actually happened and also makes it look sharper,
+the dates and people and stuff.
+Not only the stuff we’re saying, was all of the group there
+and Glendale had done the first __ to design
+and then what was it called, the Blackbird?
 
 *Yeah, the Blackbird, yeah.  That’s our 71 Blackbird.  SR.
 
-SR71?  OK.  Thank you for giving the rest of that.  But at any rate __ back in active service again because it still is the fastest thing in the world so the thing of declassifying and pulling it out of the work __.  So __ done some kind of remarkable stuff to say the least.
+SR71?  OK.  Thank you for giving the rest of that.
+But at any rate __ back in active service again
+because it still is the fastest thing in the world
+so the thing of declassifying and pulling it out of the work __.
+So __ done some kind of remarkable stuff to say the least.
 
-*Yeah, I found a web site that had a bunch of pilots of the Blackbird and pilots and crew and different people talking about their experience with that plane and it sounded like, to them it was almost a religious experience to fly that plane.
+*Yeah, I found a web site that had a bunch of pilots of the Blackbird
+and pilots and crew and different people talking about their experience
+with that plane and it sounded like, to them it was almost a religious
+experience to fly that plane.
 
 New Circuit Elements Group
 
-*Ok, the one thing I wanted to clarify is, when you talked about Skunk Works, was that just that what you were doing at JPL was similar to Skunk Works?
+*Ok, the one thing I wanted to clarify is, when you talked about Skunk Works,
+was that just that what you were doing at JPL was similar to Skunk Works?
 
-Similar to Lockheed’s Skunk Works, not THE Skunk Works.  Look up New Circuit Elements Group within that division and you will find the group I worked in.
+Similar to Lockheed’s Skunk Works, not THE Skunk Works.
+Look up New Circuit Elements Group within that division
+and you will find the group I worked in.
 
 *Within what division?
 
-Within the division that had the control of the 709 computer.  Because that was also the first vacuum tube, we had a whole floor full of vacuum tube 709 IBM computers.  Another whole floor for air conditioning and cables above it, another whole floor for engineers and machinists and such below it.  Was that a labor-intensive device to keep that monster running?  So computers have come a long ways from then. But even that computer was mind-bogglingly better at doing numbers and manipulating symbols than people were.  So it was only much, much later.  That’s what I meant by analogy to those type of things that surfaced much later when some of it was declassified.
+Within the division that had the control of the 709 computer.
+Because that was also the first vacuum tube,
+we had a whole floor full of vacuum tube 709 IBM computers.
+Another whole floor for air conditioning and cables above it,
+another whole floor for engineers and machinists and such below it.
+Was that a labor-intensive device to keep that monster running?
+So computers have come a long ways from then.
+But even that computer was mind-bogglingly better
+at doing numbers and manipulating symbols than people were.
+So it was only much, much later.
+That’s what I meant by analogy to those type of things
+that surfaced much later when some of it was declassified.
 
-*Lockheed is now copyrighted that phrase, SkunkWorks, and in fact I saw it in Discover Magazine.  It was, one of the people who was involved with the Mars Pathfinder.  And Lockheed in the Skunk Works division of Lockheed.
+*Lockheed is now copyrighted that phrase, SkunkWorks,
+and in fact I saw it in Discover Magazine.
+It was, one of the people who was involved with the Mars Pathfinder.
+And Lockheed in the Skunk Works division of Lockheed.
 
 And probably JPL again.
 
 *Yeah.
 
-So talk about bringing back old memories.  I would have loved to have watched more but so life goes.  But at any rate, that’s what I meant.  It was deeply embedded, given names that were totally unrelated to what people were really doing and to be as misleading as possible and to this day, most of them declassified.
+So talk about bringing back old memories.
+I would have loved to have watched more but so life goes.
+But at any rate, that’s what I meant.  It was deeply embedded,
+given names that were totally unrelated to what people were really doing
+and to be as misleading as possible and to this day, most of them declassified.
 
 *Well I can investigate and find out what is available.
 
-Anyway, look for New Circuit Elements Group and it was in a building right adjacent to the building that actually held the computer.  You had to walk back 800 yards to another building where the actual Explorer satellites were built because the place where the computer was wasn’t secure enough either. They just had this separate little building back where we did all the original development of both the techniques for data compression and for major amplification.  There was a major amplification group incredibly enough.
+Anyway, look for New Circuit Elements Group
+and it was in a building right adjacent to the building
+that actually held the computer.
+
+You had to walk back 800 yards to another building
+where the actual Explorer satellites were built
+because the place where the computer was wasn’t secure enough either.
+They just had this separate little building back
+where we did all the original development
+of both the techniques for data compression
+and for major amplification.
+There was a major amplification group incredibly enough.
 
 ### Henry Richter
 
-Dr. Henry Richter, was working on finishing up his Ph.D. in chemistry there at Caltech at that time, and he was also Director of the “New Circuit Elements Group” at JPL that produced the first Explorer satellite.  You’d never know from the name—it was hidden away, with a name that had nothing to do with satellites.  He needed somebody to help him set up a better laboratory system. 
+Dr. Henry Richter, was working on finishing up his Ph.D. in chemistry
+there at Caltech at that time, and he was also
+Director of the “New Circuit Elements Group” at JPL
+that produced the first Explorer satellite.
 
-He wanted someone that could help him directly with his own mathematics and keep his own lab clean. It was about one-third of doing the graphics for all the original location of the first Explorer satellites.  
+You’d never know from the name—it was hidden away,
+with a name that had nothing to do with satellites.
+He needed somebody to help him set up a better laboratory system.
 
-Look for New Circuit Elements Group and it was in a building right adjacent to the building that actually held the computer.  You had to walk back 800 yards to another building where the actual Explorer satellites were built because the place where the computer was wasn’t secure enough either. They just had this separate little building back where we did all the original development of both the techniques for data compression and for major amplification.  There was a major amplification group incredibly enough.
+He wanted someone that could help him directly with his own mathematics
+and keep his own lab clean.
+It was about one-third of doing the graphics for all the original location
+of the first Explorer satellites.
+
+Look for New Circuit Elements Group
+and it was in a building right adjacent to the building
+that actually held the computer.
+
+You had to walk back 800 yards to another building
+where the actual Explorer satellites were built
+because the place where the computer was wasn’t secure enough either.
+They just had this separate little building back
+where we did all the original development
+of both the techniques for data compression
+and for major amplification.
+There was a major amplification group incredibly enough.
 
 John Bluth Correspondence
 
@@ -878,40 +1819,60 @@ Subject: Re: Bland Ewing, Explorer and JPL
 
 Brian,
 
-I have attached the two instances where the phrase New Circuit Elements Group appears in my JPL notes and in any of the JPL oral history transcripts.
+I have attached the two instances where the phrase
+New Circuit Elements Group appears in my JPL notes
+and in any of the JPL oral history transcripts.
 
-Let me make a comment about secrecy at JPL: over 90 percent of Lab employees in 1953 had security clearances.  This was due to the Lab working on the Corporal, Loki and later the Sergeant missiles for US Army Ordnance.  I don't believe this to be any more secrecy than was exercised in other missile and aircraft establishments in Southern CA at this same time.
+Let me make a comment about secrecy at JPL:
+over 90 percent of Lab employees in 1953 had security clearances.
+This was due to the Lab working on the Corporal, Loki and later the Sergeant missiles
+for US Army Ordnance.
+I don't believe this to be any more secrecy than was exercised
+in other missile and aircraft establishments in Southern CA at this same time.
 
-You'll note from the attachments that the driving force on the research was Frank Lehan.  Transistors were a new thing and their use made great changes in the way JPL handled missile communications.  That experience was directly applicable to the building of Explorer I.
+You'll note from the attachments that the driving force on the research was Frank Lehan.
+Transistors were a new thing and their use made great changes
+in the way JPL handled missile communications.
+That experience was directly applicable to the building of Explorer I.
 
-Whether the RAND Corporation had any involvement is problematic.  JPL was an US Army funded r&d facility; RAND played a somewhat similar function but exclusively for the Air Force which funded tit.
+Whether the RAND Corporation had any involvement is problematic.
+JPL was an US Army funded r&d facility;
+RAND played a somewhat similar function but exclusively for the Air Force which funded tit.
 
-Good luck with your work; editing an oral history transcript to retain the flavor of the live interview is a task.
+Good luck with your work; editing an oral history transcript
+to retain the flavor of the live interview is a task.
 
 John
 
 KARL LINNES, interviewed by Hallie Poore on July 31, 1974
 
-Linnes:        "Well, a few years later [after 1946] we ended up ahead.  And what he [Frank Lehan] did, he set some of the guys like Bill Sampson and Henry Richter to work in what they call new circuit elements.  They started investigating transistors.  He set Eb Rechtin to work on new filtering techniques in application of communication theory.  And he set Bob Stevens and myself to work on new kinds of antennas.
+Linnes: "Well, a few years later [after 1946] we ended up ahead.
+And what he [Frank Lehan] did, he set some of the guys like Bill Sampson
+and Henry Richter to work in what they call new circuit elements.
+They started investigating transistors.
+He set Eb Rechtin to work on new filtering techniques
+in application of communication theory.
+And he set Bob Stevens and myself to work on new kinds of antennas.
 
-        In the transistor business the fellows started figuring out what you could do with transistors and building digital circuits and shift registers and stuff and started transistorizing things.  Of course transistors weren't very sophisticated by modern standards but we were starting to dig into that.  That work eventually led to working not only in the digital processing type of activity but also in higher frequency things.  It turned out that about the highest frequency transistor that you could get any power out of was 108 megacycles which was a convenient spot as it turned out and Western Electric and somebody else had these transistors and the first ones were valued at around $40,000 apiece.  We finally got them down to about two, three, four thousand dollars apiece at the time that we'd launched the spacecraft, Explorer 1 with those transistors as the transmitter tubes if you want to call them, ersatz tubes they used to call them.  And now of course they make them like peanuts."
+In the transistor business the fellows started figuring out
+what you could do with transistors and building digital circuits
+and shift registers and stuff and started transistorizing things.
+Of course transistors weren't very sophisticated by modern standards
+but we were starting to dig into that.
+That work eventually led to working not only in the digital processing
+type of activity but also in higher frequency things.
+It turned out that about the highest frequency transistor
+that you could get any power out of was 108 megacycles
+which was a convenient spot as it turned out
+and Western Electric and somebody else had these transistors
+and the first ones were valued at around $40,000 apiece.
+We finally got them down to about two, three, four thousand dollars apiece
+at the time that we'd launched the spacecraft, Explorer 1
+with those transistors as the transmitter tubes
+if you want to call them, ersatz tubes they used to call them.
+And now of course they make them like peanuts."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        An Antenna Group formed in 1951 with Robertson (Bob) Stevens and {Karl Linnes?} as engineers plus two technicians; later called Communications Elements Research Section.  By 1960 about 12 people involved in four groups: Karl Linnes (followed by Phillip D. Potter) after 1957 directed an Antenna and Microwave Group on passive antennas; New Circuit Elements Group directed by William Pilkington (killed in 1960 air accident) and then Walter Higa.  William Merrick directed Antenna Structures and Optics Group.  Harold 'Hap' Richards led the Servo and Control Group.  Loki, Corporal, and Sergeant work used radar beacon telemetry and doppler antennas; JPL antenna people went to White Sands and got field experience.  After satellite proposed in 1955 phase coherent receivers worked with.  Transistors needed for lighter transcievers; application of transistors to rf circuits meant that: September 20, 1956 a JPL Microlock station successfully tracked a ten milliwatt radar beacon on the first Jupiter-C re-entry vehicle to 3000 miles down range.  This kind of transceiver modified for Explorer I.
+An Antenna Group formed in 1951 with Robertson (Bob) Stevens and {Karl Linnes?} as engineers plus two technicians; later called Communications Elements Research Section.  By 1960 about 12 people involved in four groups: Karl Linnes (followed by Phillip D. Potter) after 1957 directed an Antenna and Microwave Group on passive antennas; New Circuit Elements Group directed by William Pilkington (killed in 1960 air accident) and then Walter Higa.  William Merrick directed Antenna Structures and Optics Group.  Harold 'Hap' Richards led the Servo and Control Group.  Loki, Corporal, and Sergeant work used radar beacon telemetry and doppler antennas; JPL antenna people went to White Sands and got field experience.  After satellite proposed in 1955 phase coherent receivers worked with.  Transistors needed for lighter transcievers; application of transistors to rf circuits meant that: September 20, 1956 a JPL Microlock station successfully tracked a ten milliwatt radar beacon on the first Jupiter-C re-entry vehicle to 3000 miles down range.  This kind of transceiver modified for Explorer I.
 
 Notes on Explorer I, John Bluth, JPL Archives, June 1998 (slightly edited)
 

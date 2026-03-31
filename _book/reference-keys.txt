@@ -46,13 +46,14 @@ skunks-and-squirrels
 girl-scouts-and-kids-groups
 birds-and-pasadena-audubon-society
 huntingtons-chorea
+huntingtons-chorea-1
+bill-pilkington-death-being-funny-hygiene
 blands-early-signs
 bland-moves-to-grass-valley
 daily-routine
 aerospace
 blands-scientific-journey
 carter-labs
-carter-labs-1
 from-sputnik-to-explorer
 correspondence-with-jpl-archives
 henry-richter
@@ -68,6 +69,7 @@ campuses
 uc-campuses
 uc-riverside-desert-ecology
 uc-irvine-mathematical-ecology
+undergraduate-degree
 uc-berkeley-population-ethology
 doctorate
 random-numbers

@@ -1,0 +1,1495 @@
+# Silicon Valley {#silicon-valley}
+
+## Silicon Valley
+
+<div class="source-block">
+        2-3: Carmen’s tale
+
+        4: Graphon & Stanford
+
+        5: Synertek, character smear, Xerox PARC, Star, 
+
+        Computers
+</div>
+
+
+### Synertech
+
+<div class="source-block">
+18. Synertech        synertech.1-15
+
+        Star        synertech.11
+</div>
+
+And I couldn’t find any work related to anything that I had described at the university so it was go to Silicon Valley and shape out yet another life.  So there have been a number of things that I have done right on even decades, it’s been sort of incredible, and that must have been 80 when I finally moved to the Valley, 80 yeah I moved to the Valley because I found a job with Synertech Corporation.  Synertech had its name cuz ___ been inspired by __ and other things that Professor Feller had done.
+
+*That’s where I’ve heard the name before.  I ran across that name some years earlier.
+
+Synertech, synergistic technology was what it was supposed to stand for.  Synergistic technology.  The guy that founded it went and got the original licenses to the Kim because the other people had all gone out of business or had been bought out.
+
+The original ___ of the Kim was based on the ___. The Kim was the first one that broke the price barrier, the first one to put a completely functioning system out there. You could go by their place, their complex. They had a big ___ just filled with microchips, $25 ___ both Intel and ___ $250 a ___ so nobody believed the labels.  They thought it was a mistake, that the 25 should have been 250 and somebody made a mistake in the decimal point.  Those 25s were real.  I even bought some of the original pieces and parts, and some of those original ___ and ___ to build my own computer from scratch using wirewrap techniques and things like that so I wouldn’t have to, I would ___ more flexible ___.
+
+*I remember seeing that computer laid out in your living room in Kensington when you were still living there.
+
+Yeah, I was actually doing ___ out there in Kensington.
+
+The microelectronics and the micrographics stuff got me started into the math ___ happened. I went to Synertech and applied for a job. The first time around they couldn’t find any place for me because the company itself was primarily into integrated circuitry based on the Kim type design. I can’t remember the name ___ are reading the same pen. The guy who founded Synertech, synergistic technology, was sort of __. He interestingly enough supplied the hardware and chips to make the first Apple—the first Apple I and the first Apple II came out of the same guy there. I can’t think of his right name that was the head of Synertech, president.
+
+Later on they expand to systems level work. They ___ the Kim line type of devices. All the department had to do was systems level and all ___. How do you create the graphics, how do you create the software, how do you write the dah dah dah. That’s when they hired me because it seemed like I had it just right.  I had learned PASCAL.  They wanted to use PASCAL.
+
+I knew the assembly language code, but I found I couldn’t use the Apple computer for anything because it was ___ so many magical games ___ work at all with color yet, and ___ had Basic. How do you get color and Basic into something? It just wouldn’t niche up from a Kim.  You get very creative in your use of hardware. The so-called wild designs that were all through it. He did some bizarre things to color in between that he just assumed that anybody would ___ using color on it would be reaching it through Basic. It didn’t matter what kind of garbage you played with it.  Do you think that a ___ math?  You ought to see what ___ hardware can do, like in terms of ugly things to your math when you’re trying to work out algorithms. I had no choice to go with what was at that time—what’s the defense industry company that made defense everything?
+
+*DARPA? [Honeywell]
+
+No, I’m trying to think of, they also leased just like Synertech had leased, top of my mind, damn.  But it turned out it was a good development system that I could actually use to do my own assembly language stuff and they actually ___ on my module.  But I couldn’t get any ___ from an Apple I or an Apple II because of the word graphics thing.  And I was trying to work on graphic algorithm and that was ___ incredible environment for people ___ but ___ used every computer that could do something from one niche up ___ the hardware.  So I went there and worked there a little over a year, going on two years I guess really.
+
+It was almost to the second year when it, the company got bought out by Honeywell and Honeywell decided that, it was another one of the Seven Dwarfs.  Honeywell, one of the Seven Dwarfs, ___ but they also had a strict rule___ had to be done in Cobol on their ___, had to be done in Cobol.  You can, do you realize how unfriendly Cobol is to a microcomputer level machinery and microprocessing environment in trying to work on ___ Cobol? The orders came down from high that I had to switch to Cobol for my programming. Mostly they were interested in using their main frames because they were systems of the ___ environments and things. They were going to talk to the whole world out there through these TV ___.
+
+They had no idea of the lousy ___ problems and the problems I was trying to put text on a machine like that.  Turns out that it’s totally an illusion __ and the colors, totally.  But Don Lancaster tried a favorite name for NTSC.  It was never twice the same color because the natural standards I think dah dah for ___ computer things.  I mean when you try to use a ___ takes you that much to make a switch in the color space.  Man does that smear a letter out.
+
+*Yeah, you could see that in the early computers.  The early desktop computers had the letters smear this rainbow of colors.
+
+Yeah, it was that same kind of problem. The problem was that they didn’t realize that trying to go into the ___ they’re going to hit the same problems, even worse, with ___ TV. I was trying to advise them also, I ___ them getting in there. That was the same kind of integrated service using ___ as it turns out the ___ was the only one that had separate drivers for all 3 colors.  There were mixed colors inside the thing, which meant that you couldn’t work with any of the algorithms right.  It also meant that your drivers had to be fast enough to actually deal with black and white and color in a reasonable way. They just wouldn’t believe it.
+
+So guess what, that was the end of my job at Synertech and then just a, actually only months later they wrote Synertech ___ fired every place that does everything.  Totally closed up ___.  Of course that made the guy that was the president of Synertech a multimillionaire in Honeywell stock.  So he walked away from it being able to, still be able to do his ___ which was his favorite hobby.  But everybody else there went on the street looking for work.
+
+OK, about the same __ things totally different. I had applied for work and bit by graphics and graphics for computer, bit by computer type, computer algorithms, and I applied ___. But a number of the companies that I did the original job hunting for ___ that actually found me the Synertech job, and finally the job with the systems group that had all the ___ where I did the computer graphics stuff.  It really was kind of neat.  Where am I at?
+
+Baasch did interact and did ___ things with the fork link ___ Synertech things was I think, the company was incredibly viable.  They were the ones applying ___ and then there were theories of ___ and things like that.  They also supplied all hardware ___ so there was just the whole theory around the Synertech supplied the main things so ___ just didn’t understand how the other companies like that.  Couldn’t have lasted more than just over 2 years, probably less, when they ___ zero.  Everybody was fired, everything shut down ___.
+
+So there were really 3 companies.  The company that bought the __ company that killed __ because of mismanagement and two other quite variable companies.  One was called Synertech, Incorporated, and then later on as far off a smaller system grew to develop software and IS Systems or in-circuit simulation which was the __ part of the __ of Synertech.
+
+They created their own copy-cat type design of the Kim board, but with a lot more hooks and a lot more display and a lot more pleasant environment to work in.  It wasn’t quite just a Kim made machine.  But interesting, it was a huge computer defense of a Rockwell International that also saw that as an 8 system and bought total rights and they also produced a valuable system to develop code software right on the 6502.
+
+So what I did, I couldn’t do zip with the Apple II but I did do wonderful stuff with Rockwell’s development system based on the 6502.  So that’s what I had bought and was using in parallel with the stuff out there first, so when you saw the stuff actually running in my living room, I had two versions.  One was Don Lancaster’s cheap video technique, using a Kim board directly to drive a simple black and white monitor which I could at least buy cheap __.  The other one was I also had a Rockwell system, an operating system, to do development working elements I just described up and running.
+
+You have them run faster than the super computer could run them, of just a few years before.  Of course the newer super computers were doing their own thing too but the ones I was talking about, it was taking it to the knee, would do circles around those.
+
+At Synertech what happened was I had floated a desire for fun place that was looking bitmap graphics.  Nobody had ever heard of bitmap graphics and so in the employment thing and actually there were just a couple __.  One was at Synertech.  They were intrigued, asked me to come interview.
+
+The other one was at another major chip manufacturer at that time. Anyway, what happened was, so because of my request for a bit __ graphic type thing, the one that came to, it’s still a major chip manufacturer that is manufacturing even today, but he said well come back in a couple of years and we will be __.  Of course they had no idea that market was going to be moving, two years, what a joke.  In fact they were way too slow in getting their own, what was an effort, or they co-run all the 6800s that I eventually ended up using.
+
+But so I went to Synertech, __ in them.   I showed the people what I had been working on and there was sort of a minor sensation in there.  And __ because they were using the same hardware, and they also had settled in on what was the company, the defense company I just.
+
+*Rockwell?
+
+Yeah, they had __ Rockwell’s, they were working with the same Rockwell system that I was using __ except that they could afford to put a floppy disk on their’s because floppy disks were just __ expensive.  So I had to go to audio cassette tapes.
+
+*I remember that.  Yes, that’s right.
+
+To be able to sort programs.  I actually used Radio Shack audio to __.  I was in __ to actually have floppy disks on the system.  It __ lot more memory.  But they were absolutely blown away that here I had been working on the same stuff.  
+
+Anyway the thing that happened then is they were right smack in __ design your own graphic chips, color graphic chips.  Smack in the middle of it, and the first color graphic chips already reached the market at that time and they turned out to be an algorithmic disaster.  You had to write, if you go write a circle, you have to do sections of one-eighth of a circle because it surely didn’t draw a circle, it drew a spiral, bad spiral, spiraled outwards.
+
+So what I did is I looked at their stuff that they were implementing on the thing and thought I’ll be damned.  Hey, at least it’s a closed figure.  Except I just calculated that did not determine __ system there and guess what?  It’s plus.  These other companies that had the one graphic chip out there on the market actually when you calculate, it turns out to be minus so a spiral, but I can prove that __ they said a closed figure, but it’s __.  Which blew their mind because they thought they were, they had just the perfect circle.
+
+They also had to do some scaling and other things in their graphics chip to __ all sorts of problems.  Very often you wrote something integration __ in a program or problem and how do you set that integration content and __ to be, you can __.  They had no idea also that you could __.
+
+So here I brought both the Brushingham straight algorithm and the circle algorithm __ perfect and running on their machine on their hardware.  And then the other thing was it turns out __ do a power or two type thing integration, constant, always dropping in places, you do the effective of a power of two in all locations __ concatenation and boy could they concatenate fast.  So that was __ some kind of product where I wouldn’t have __ any more.
+
+They sent me off to work by myself.  There were all sorts of interesting graphic things and other things I did at that time.  It was a really neat time because I laid down the first graphics of the first system out there that did in cir__ emulation.
+
+I got a lot of good ideas from Hewlett Packard graphics terminals that were out there.  They did a beautiful job but boy were they expensive.  You can’t believe how expensive they were __ but they had actually part in the graphic __.
+
+I designed a totally graphic __ system.  The first thing we got 6502 which was the basic system they were working with anyway and designed a CA, a CA that was some of the most gruesome low level thing—they used the thing as an independent device for connecting things—that you ever saw in your life.  It actually had hundreds of little independent small things that you would, __ and I/O and different __.  Depending on how you set it up, you couldn’t even get up the state of the machine.  And they also could blow you away.
+
+The I/O probably was the real bitch on that one because you couldn’t get the full __ out of it and it also depended __ on certain variables you set.  So it was __ idea that more is better approach to the design.  If they could design and throw it into that chip they did.  So anyway what we did is brought the system up running.  I did the graphics and everything.
+
+What I did is put a stack interface between the, __ low level assembly needed to be done but the program was ___ and since Pascal talks to a stacks __, stack related language, it’s a stack language __.  LO1 is what I think it’s called.  One __ language and it couldn’t, you __ determine what it’s doing.  Like Fortran, I think I had __ looking at 150 __ and it was complicated beyond belief to say nothing of the IBM’s TL1 which was supposed to take over the world at that time by way of IBM.
+
+So it was really intriguing to see how these things actually get up and going in the first cut and it was __ first equipment up and running with a completed graphical interface and I was able to simplify it because they also, it was __  to give me a system to think about.  So basically I/O draw up my design, it was a bunch of characters thrown out to the display and or numbers sort of things for the hit.  And then it did a pre-simulation of the three chips.
+
+At that time __ just introduced its C6808 which was the intermediate chip that was probably the most elegant chip I ever saw in my life.  It was a beautiful intermediate, halfway between 16 8-byte, see the 6502 was a pure 8-byte environment, pure 8-byte chip, architecturally in its hardware.  The C6808 was actually a hybrid chip that was halfway to 16-byte but it wasn’t quite there. What it did is they also __ with a 68000.
+
+But the 68000 could only be used if you were creating a work station for the military that ran Unix. It costs hundreds and hundreds of bucks a flip, but boy that was really a powerful chip.  It also was designed to be directly hardware and software upwards compatible with the 6808.  It wasn’t until the 68020 that they got a full 32-byte architecture.  That was really something in its own right.  Hybrids that halfway to being a __ two-byte machine, so it looked like a __ byte on the inside sort of, from the programmer’s point of view, but the hardware.
+
+*The transfer it was.
+
+It was halfway there.
+
+*Right.
+
+It wasn’t a clean 32-byte design.  It wasn’t until the 68020 came out that that happened.  So, at any rate, at that time things were moving along incredibly fast and Synertech Inc. was by far the most successful of all the subdivisions of Synertech themselves.  They were the ones that sold directly to Woz and Steve [Jobs] the first 6502 to get their original Apple II up and running, after they got hold of the __ one board thing.  The redesign of that to the Apple II, it was Synertech that was the __ of that for the, all the stuff they needed to build that system with the exception of just one I/O port made by V__.
+
+*Made by who?
+
+V__ later on and use the 80 and other ones.  __ was one of those companies also that had a lot of great ideas, had some really good designs, never made a penny profit for the company that held it.  But __ bought into it.  Then you see another company took a well, and also __ the Atari.  What was the Atari?  480__.  Guess what?  Synertech.  There was a third one that also was Synertech.  Synertech was just going like gangbusters building what was getting into the big time of the first microcomputers.
+
+And I can’t think of his name.  It just won’t come.  He was neat.  I really appreciated him because just like Bucky Fuller, he was __ by people and he was __ technology __.
+
+*This was the head of Synertech?
+
+Yeah, the President and Founder of Synertech.  So anyway Zi__, excuse me, not Zi__, boy talk about off the wall.  It was one of the dwarfs of Snow White and the Seven Dwarfs, was one of the dwarf companies of Snow White and the Seven Dwarfs.  But the Seven Dwarfs that tried to spin off into main frame production.  Damn.  Burroughs?  No.  They did main frame stuff, air conditioning things.
+
+*Honeywell?
+
+Honeywell.  So Honeywell __ this gangbuster like companies that are all taking off like Apple, like that, and at that time Omega and what was the other one?  There was another one.  It wasn’t just Omega, there was another.
+
+*Amiga?  Did you say Omega or Amiga?
+
+Omega I think is __ but there was yet another third one actually and I can’t think of its name right now, but at any rate, so Honeywell looked at that thing __ that was boom like you can’t believe.  We’ve got to buy into it.  __ company out there __ no doubt at this instance in time, guess who?  It was Synertech.  
+
+*Sperry Univac?
+
+Yeah, those are other __.  What are some of the other __?  IBM __ and so forth.  CAGE, there were others.
+
+*What was that?
+
+They were part of that __ Seven Dwarfs.  You see they tried to make mainframes too before they figured they couldn’t make it __ so they gave up that side of their business also.  Anyway, Honeywell bought Synertech up just right coincidentally on top of when this big thing came out with the French, Presto system.
+
+They were convinced the computers and rational ways of thinking, rational ways of doing things was going to be the future and only the French could really believe this totally.  The French had designed a whole new different thing, graphical interfaces.  They actually distributed through your Presto system, something like that.  It will maybe pop out later.
+
+They were absolutely convinced that they had to somehow get some hooks.  They went out in a very French way.  They really were one of the first countries to actually pursue graphics and trying to pursue it in a manner that was distributed to the whole population and it was based on a __ thing that now if you don’t __ you don’t either.  But it also was under the assumption that you could time share main frames to produce the framework for all this junk, so did that ever produce a lot of terminal __, with very few graphic capability.  Most through alphanumeric because the sooner you’d add any additional graphic capability, things got very complicated really fast.  So these were elaborate text oriented system, niche graphics.  It also was leveraged off a main frame time share.  Now was that ever a loser.
+
+So Honeywell bought into that, they bought into that idea and __ management did just at the time that they had bought Synertech unfortunately.  One of the commands that came down from high above was first they had only one programming link __ done in a standard way and that was COBOL.  Can you imagine doing real type programming for color __ devices like their temperature and thermostat thing in COBOL?  They did.  Boy, __ and also you see they had this huge __ time main frame, time sharing things.
+
+So they hit that market and ended up mismanaging poor Synertech right into nonexistence because they insisted with all the ongoing __ low level stuff, there was highly tuned graphics and all the __ all the I/O system totally eliminated. Pascal was given a one-year thing for transfer to COBOL.  When they saw that they weren’t going to be successful on that one-year transfer, they give a one-year extension.  Can you imagine what a horrible programming environment that created?  From a company that was convinced the main frame, time-sharing main frames for the future?
+
+*That was going back 20 years.
+
+*So in mid 70s you moved up, what was it about 75 or so you moved up here?
+
+No, I didn’t move up here, to Portland, till 78 or 79.  I was in Berkeley 3 years so it was like 75 through 78.  Sounds about right, I can check my season pass with the Mounted Meadows to find out what year I really was up here but.
+
+*Because then you had another level of interaction with Bland when he went down to Silicon Valley.
+
+Yeah, I bailed out of research after a few years.  For better or worse, I really wasn’t inspired.  In a lot of ways I wasn’t giving the value I thought I should have been to it.  I knew at that point I didn’t want to be doing research for the rest of my life.  I think what I discovered at Berkeley was the Ivory Tower is brown on the inside.  But anyway, I liked the people.  I liked a lot of the stuff, but quite honestly I wasn’t giving Bob Luck the value he needed.  I wasn’t inspired to be doing the work and there was a good time in the grant cycle to bail out.
+
+I ended up coming up to Portland.  I had figured at the time that I had enough computer background independent of biology.  They didn’t really have degrees in computer science at that point, and the term sophomore engineering was an oxymoron.  I’m not sure it isn’t still but certainly then the two words didn’t come together.  I mean you were a computer programmer and I certainly had all that.
+
+I moved up to Portland and decided to get a job programming microcomputers because I liked operating systems.  I liked some of the modeling __ but I really liked operating system compilers.  I thought about it and I thought `Well, let’s see, I can go work for IBM.  They have one operating system and one compiler.  What’s the chance of getting on that project?  Zero.  I could go work for DEC.  You know they have 3 operating systems and 3 compilers.  No.  I can go find someone and work with micros.’
+
+Bland’s the one who turned me on to microcomputers and their capabilities.  Everybody writes their own.  `Hey, I can do operating systems. I work with micros and find a company.’  So I moved up to Portland and got a job with a little hardware company that made fire detection systems and security systems.  These were for major industry, like for Ford Motor Company’s Dearborn plant or whatever.
+
+*That was Datricon.
+
+No, that was a place called Pyrotronics Monitor Systems and they were a small subsidiary of a company that made smoke detectors.  One of the biggest ones in the world at the time.
+
+I came up here and started playing with micros and doing all the stuff that Bland had talked about.  When I was at Berkeley he was always looking into micros because what he wanted to do was come up with a microcomputer that could do his modeling.  Quite honestly the CDCs didn’t have a good instruction set and were too expensive even if it was funny money and to do this stuff.  He said, `Yeah, if I had one of these and I could run it 24 hours a day and write good algorithms for it.  I can do my modeling on that and this would be great.’
+
+So he was looking at all of them.  I mean back then there was the RCA 1802 and 1804 and Signetics had some and Motorola had the 6800 and Intel had the 8080, I think, by then.  There was one called the 2650.  I remember that one because it only had 15 bytes of __ space which I thought was a little limiting but the neat thing about that was it only cost $2650 which was really cheap.  You’d say, `Hey, we can put multiples of these together.  We can have this one doing the memory allocation and this one doing this part.’  They’d say, `Whoa, this guy’s talking about multi-processor, closely coupled multi-processors with 8 byte micros.’ This was pretty radical.
+
+I learned enough about them and decided they were going to take over the world.  I realize this was at the same time that Jobs and Wozniak were at Berkeley spinning off Apple computer.  Now I didn’t know them and quite honestly I wouldn’t have joined them if I had.  To me having worked on the CDCs and on real computers, I had no use, or no concept of any use, of a little computer that did color graphics on a TV.  It was like why would you want to do that?
+
+You’re talking to a guy who years later had as his really own personal computer a PDP 11 with big disk drives in his living room.  Wasn’t mainstream.  I’m saying this to like decrease my credibility because boy I missed a lot on this.
+
+*Well, you got a good deal on the system.
+
+I got a good deal on that system because the guys were getting rid of it and my boss said it’s going in the dumpster.  If you want to intercept it on the way, fine.  There are mean games written for RT 11, mind you.  I rerouted my whole living room to deal with those 80 megabyte SMD disk drives.  But I wouldn’t __ anybody at the time obviously.
+
+Anyway I moved up here and I was sort of the first one of the group—of Barbieri and Luck and even academically of the whole Berkeley scene—to sort of bail out of academia and move into industry.  I guess I’d been up here a couple of years when Bland made the transition.  He moved down to Sunnyvale or somewhere and worked for I don’t remember the name.
+
+*Synertech?
+
+Synertech, yeah.  And Synertech was one of the Silicon manufacturers that originated the 6502 I think or they were one of the licensees for it, and they had a couple of pretty spiffy little computers.  In fact it was the one that Wozniak and Jobs ended up using in the original Apple II.
+
+Star
+
+*So Synertech has folded and you’re looking for a job.
+
+Oh, the thing was coincidentally the people got in touch with me and said could I, did I know that you are employed there fully, I was still employed at Synertech at that time but do you know anybody that programs and bit by graphics, computer graphics?  Do you know anybody ___ we have a request from a company, we can’t tell you the company’s name, because of confidentiality and all that good stuff, but do you know anybody in the entire valley that does the math and the programming both, both, both was the emphasis __ bit graphics and computer graphics.
+
+And they had popped my name out of a computer because you see that’s what I had originally applied for years before.  Of finding some kind of ___ job so they said why didn’t I apply for it?  I’m curious.  Who in the world out there after totally zip zero for my entire life ___ actually works for bit by graphics ___. They said “Fine, we’ll arrange an interview with a group, but we still can’t tell you who it is. We can’t tell you anything, but if you want to set up an interview and ___ to interview and you ___ your name in the hat as a very viable person that ___ we’ll give you an address ___ for an interview.”
+
+It was only about 6 niches down the line that they finally could talk. I went and talked with the people that were advertising all over for computer graphics, mathematics, joint computing. It had to have math and it had to have programming and it had to be bit by graphics.  Three things all at once and then zip.  It turns out that it was the original group with Dynabook from Xerox.  It was the original group of people from Xerox ___ so I applied.  What the hell. They had a hidden level flat place with almost no vertical structure again, tucked away in what was the plotting company that made these plotters that used.
+
+*CalComp?
+
+No, it was another one.  It was plotters that used organic type of, used ___ paint thinner to slow, damn, won’t come.  At any rate it turned out that this was the same original group that was ___ fragments of it were still ___ Xerox and Xerox was having this, what was the damn plotters.  It was a bit of plotter as well, that they could plot any position over ___ XY but its one down size ___ use trans___ particles with basically deodorized paint thinner.  Turned out to be very toxic around people.
+
+*Toluene?
+
+No, it was just ordinary, but one ___ well it would have been two ___ it would just literally, you know, straight hydrocarbon, but nothing else.  ___ethers are sometimes called ___ether.  But ___ so I even worked there for a while ___ this whole new year because they were coming in with the Star computer.
+
+*Ah yes, the fabled Star computer.
+
+Boy was that an economic disaster because it was just too expensive ___ and that was exactly the thing ___ found itself in for the first cut, and would lease it.  Boy the Star computer from Xerox and __ from Apple ___ being way too expensive ___ and just the visual display at that time was done like a ___ it was __ I went to work for the company’s 62 Hz.  It would blink, make your eyes blink, and they couldn’t ___ much later they had __ hardware ___ few things like that was enough to get all ___ going to interact with your brain in terms of interaction dah dah.  So that was when I decided time to form Graphon ___ people run, let’s make our own graphics terminals based on some of the mathematics that I had ___ major founder and his friend, damn, won’t come.  Bill, some day I’ll need to write ___.
+
+*Yeah, that’s fine. Dave Baasch might know the names too.
+
+Pardon?
+
+*Would Dave Baasch know their names?
+
+No because he got off running his own company, he’s up in Oregon, and that had, I ended up interacting with him because there were things like ___ and other language ___ pioneering.
+
+Yeah, at least.  So needless to say I saw that I needed some employment elsewhere too and quick.  Well, just as I find by some totally __ cuz __ think that you don’t go out there if you __ and use it to scope the best people later on.  Because that, you do too much of that you get a bad name.
+
+So here comes the original group that I had on to Synertech with saying hey, we just popped up on this computer, bitmap graphics.  This was the first time in 2, nearly 3, about 2 years since your original request when everybody even said anything about it and here we had the, we __ right from the top, right this instant, __ person. `What do you know about bitmap?’  I said, `I really don’t know anybody outside of myself that knows about bitmap or how the other __ work because it’s a very sophisticated math __.  It’s very mathematical to do it right.’  `Well’, they said, `I’m just also curious about __’.
+
+This was right on top of, coming __ Synertech.  It turned out what happened is just a year later Synertech they wrote off as a terminal loss and fired everybody.  A year later, Honeywell.  So there are ways __ can go to absolutely zero.  Of course the guy that was president and a few of the regional __ being the highest, Honeywell stock of anybody in the entire world.  So they walked out of it as a multimillionaire.  So even __ but even one niche down from there and you were just out on the street fired.  They also wrote it off to zero so the whole west coast side of Honeywell was shut down and everything disappeared __ sold off.  Things at least were turned back to __ on short penalty and the whole bit.  They don’t watch.  So it was obvious when I left why and what was going to be happening so I was looking around to figure out, ‘Well, how do I save myself next?’
+
+There comes this thing where and I didn’t know anything about bitmap stuff __ to Synertech but it was evident that things wouldn’t work for long.  So I said you know, I can reference a couple of people that I know that know something but I am off the wall curious about __ and computer graphics and the computer interface design.  Had all those things running around.  What do they call them?  GUIs, graphical user interface, and bit __.
+
+So, guess what?  It turns out, __ Xerox the original thing that __, the original work on dynabook that when __ had originally done and then square off into the higher echelon __ stuff.  He went by way, he didn’t go directly to Apple but he went one zig-zag there.  First he went to Atari, yeah, then he went to, and he went because he was a genius and __ capable __ the original Dynabook design.  You are familiar with that?
+
+*Yeah, I’ve seen something about it.
+
+Seen references to it, yeah.  Basically the first idea that __ little things __ would now interact for people and then how we should interact and he had the first idea of object-oriented programming.  That was the first example of __ simulation that I had originally used down there at Irvine.  So it was really intriguing to close that loop because Dynabook was a pure object-oriented environment graphic but that __.  It couldn’t be very efficient and it really was slow but even a supercomputer ran slow, and the computers they had __ ran very slow, even specialized hardware __.  But it was a beautiful design and a beautiful thought for language design.  Later spun out into a whole bunch of __.  Simula, they were the other one.
+
+*I remember Simula.  We talked about that.
+
+Years ago, years ago.  Object-oriented language.  So yeah, here was what was left of the original part group, __ part group, trying to get a product on the market.  And guess what they needed?  __ get more of the bitmap graphics up and running.  They also need some people with math backgrounds and also people to know where ___.  So I ended up interviewing for the place and actually I hired on for a whole week or a little more and then I had the same kind of things.
+
+I’m a small person, a small group sort of situation person.  I’ve never worked well with huge companies.  I never last long with them.  I always have to find some niche somewhere to do my thing.  So once again I had to say, you know, I’m terribly sorry but this is a mistake on mine to quit and I’m not going to waste your money but I think what you’re doing is neat because what they were doing with the lang, what was it called?  They were just coming.  It was, Apple came on with Lisa just then, based on the 68000.  Think that any old second, it was a graphic __ interface.  What was the name?
+
+*Star.
+
+Star, hey, Star.  I think it was Star.  I’m almost sure that’s right.
+
+*It’s about the right time.  It was about 1982.
+
+So anyway Xerox came out, and of course they hid their whole development in another subcompany that was there that actually did graphic printers.  Bitmap graphic printers and __ around to that because we needed some kind of graphic output but the problem was ones of that time used, they had to saturate the paper with hydrogen and then boy did that make a bad room to work in.  I’ve always had a problem with chemicals and stuff like that.  I always had to switch __ just because __ sensitized to chemicals.
+
+If we could ever get hold of the company that made huge graphic printers, they were bitmap graphics.  Its name will pop up.  But it was a subsidiary of Xerox and they were hiding all that work in that company so nobody could see what they were developing.  Then both machines were absolutely outrageously priced for what they were aiming at.  Both types.  __ should, it was too expensive for their functionality.  But they also pioneered the first user interfaces that were purely graphical, complete graphical environments.  To a commercial product.
+
+Synertech/Apple/ICE
+
+It’s been a long history with Apple and a long history with Macintosh with me. The in circuit emulation that they were trying to do was supposed to work across the entire industry available at that time.  They were even looking at the other hybrid computer, not just the 6809 but also the 68000. They wanted to keep it upward compatible along that path. They were already looking at the next generation.  They hadn’t done it but they were looking at all the specs to make sure that they would have a minimum to change on their machine to go from the 6809 to the 68000. They were creating a system that would allow debugging across all these various designs for the original graphics chips.
+
+When you gave them a command to draw a circle, the measure went from—I want to say Hitachi or something but I’ve forgotten but that’s not just right. The graphic chip that was already on the Mac at that time, if you gave it a command to draw a circle, it actually drew a spiral. You had to do it in chunks of command so it wouldn’t spiral out too much.  The algorithms were so bad on all those machines that you just couldn’t believe it.  Right in the hardware itself in the way it was programmed. That was when I was looking. Also at that time at the fact that their own chip drew an ellipse and as I remember—here comes out of distant memory, something about about determinants. I can’t remember which way the signs go, but something about determinants. I could calculate the determinants for the processor, for the algorithms. If I drew a true circle, the determinant would be 0; if the determinant was negative, it would be a spiral; and if it was positive, it would be an ellipse. I showed them that math.  It just blew their minds.  It also blew their minds that indeed they would have do something about the hardware. They shouldn’t be drawing ellipses anyway; they really should draw circles. I had been there running the circle algorithm already for some time before.  That was sort of the clincher of my job there, being hired permanently at Synertech. That’s the story behind that.
+
+The problem still existed: How do you build a graphic ICE system, when all the other ones were very much line-oriented? The Hewlett-Packard was the only one that really had graphics in what you would call the beginning of an ICE system. You want an interface for people using graphics in a GUI (graphical user interface).  From ICE to GUI.  It was an ICE system with the first GUI ever.  Hewlett Packard went one niche along the way really nice. That rest of the machine worked beautifully too.
+
+We used that as an idea of what we need to do, but I went around and collected everybody’s idea about what an ICE system should look like in addition. I polled everybody in the company, looked at the Synertech, Inc., and then went within the Systems Group on another block.  Pooled all this stuff, put it all together, laid out a graphical user interface that would fit all the descriptions that people wanted for the machine to do. Lo and behold, on the first pass through it passed everybody.  It got a stamp all the way from the president on down.  First time on that one, because they didn’t think that they would have an ICE system at all. Here it was one that I had already made.
+
+On my first pass through, I asked them, “What’s your preference, should it be lower case or upper case?”  You can’t believe the fight on lower case or upper case, because all the engineers had been programmers all their lives, their entire universe was upper case.  It was actually easier for them to read upper case.  And all the business people and the people in the field, higher level people, much preferred lower case. Our first ICE system actually could display both but the basic stuff came out in lower case because it was clearer, easier and faster to read.
+
+Synertech Systems was so successful in the line of new graphics, ICE systems that were GUIs, that worked across all the machines at the time. We were at the high water mark of Synertech, Inc. right at that time. Synertech had supplied Steve Jobs with the 6502 processor and all the peripheral stuff that goes with it to make it work as a complete computer. There were special chips that talked in serial, other ones that talked in parallel, ones that talked with static RAM and so on. You take a building block approach to put together entire computer.  They had licensed it all.
+
+It was also that stuff that the original Apple 2 leveraged off of. It made it so easy because the basic research had already been done on getting that stuff up and going by MOS Technology. Nobody went on to any further generations of that chip, interestingly enough, beyond the 8-bitlevel. It was crucial right at that time to have a complete computer on a board with very basic chips. The Kim demonstrated how all the things should go together for the complete system.
+
+That’s why the Sim waw a very small borrowing from on all the basic ideas that had been up and going on the Kim. This GUI and ICE that worked across everything, with an environment where you’re working simultaneously with very bad hardware algorithms. You’re having to right wrongs that will then control a very low level. That’s the only part that could be fast enough. You would stay with EPROM for a long time because then you could re-erase it and re-do before going to a final production, burning it into ROM because EPROM would be too expensive.  Volume thing.  It, incredibly enough, had to have software on it to give it brains to be smart, including the graphical use interface whistle. High level software.
+
+How do you make all three of those come together at one time?  Boy, was that a problem.  And most people failed miserably at this stage in the game.  The software and hardware companies really came and went very fast at this period. Synertech had licensed this entire hardware. They were selling it as a really good system and then they had this complete ICE system.  They had that first graphical use interface that worked across everybody’s different stuff at that time, including even the beginnings of the 68000 that was just coming out.
+
+Synertech bought by Honeywell
+
+The giant company Honeywell came and bought out Synertech. They were shortcuting the distance and direction into the new field of micro-electronics because they were mainly just a main frame computer company—control and refrigeration and air conditioning company.
+
+*Yeah, and then they really messed it up.
+
+Did they ever.  So what happened was that they wanted Cobol to be used for everything as a universal standard.
+
+*Yeah, I got that part of the story.
+
+And so that was, that just about says it all.
+
+### Xerox PARC and Star
+
+* What about Kawasaki?
+
+I was munching along through all this stuff. I had already done the 6809 processor, had been looking at the 68000 processor already.  I think that Dave Baasch kept going back to technical things because his own companies were sort of overlapping the same area.
+
+I quit the company. I wasn’t going to become a Cobol programmer and I told them so.  It didn’t make sense. The first thing I did is I got into the original group at Xerox that was the PARC group. They had spun off the PARC group to do their own development again in the microprocessor role.  The PARC was hidden in another company that they had bought out that made graphic display devices.
+
+They hired me because I had left a request for anybody seeking for jobs when I had been living in Stinson Beach and doing tree trimming and putting people’s antennas up. At that time I had put my name into a couple of the big searching companies for jobs. The primary thing I was looking for was bitmap graphics mathematics. Here comes Xerox wanting to put up their first computers. They said, “We need somebody that can handle bitmap graphics.” They did a search of everybody that was out there doing bitmap graphics at that time.  They hit one name, Bland Ewing.  I got two hits from different employees that had been looking for a bitmap graphics.
+
+Here I am in an original PARC group again.  It just blows my mind sometimes, the twists and turns of life. What they’re trying to do is leverage off their own thing, only in this case they’re taking a very different route. They had already made their investment in red, green, blue, purple, x y z rainbow of colors of the original Ada language.  Ada was the first programmer ever. The Ada language became a copyrighted name of the defense department, as well as a wonderful girl’s name. They had created a language they called Mesa that was proprietary within Xerox leveraging in part on the work at PARC and in part on the newest generation of chips. They were trying from a high level language point of view to develop a graphical user interface front end. They were the first people that put together a functioning system that had graphical intervace with a mouse, a high level language, debugging, totally high level so you never left it at all.
+
+That was a very interesting environment to move into. I popped into it because my name came from two different people for bitmapping.  I was able to show them how to do certain things because it had become my specialty at that moment. That was a very intriguing point in time.  I had to put up all sorts of pictures. I had to review all this other stuff.  I also had to review everything that was going on in the industry out there.  That’s one thing that Xerox is incredibly good at.  They keep track of everybody at every level.  Every company, every person, anybody that makes any kind of anything, they have a detailed dossier on them.  They hang on to it forever.
+
+It was funny.  We sort of danced around each other and I also had to explain this writing disability that had never gone away.  I was born with it. They decided the writing disability was too much for them to deal with. I decided that they were too much for me to deal with. It was sort of a mutual saying, “Hey, wasn’t it great, let’s go our separate ways.” Somehow I had to find some other route to go. They were totally insistent on the fact that I be a fluent writer.  They wanted me to be a fluent writer. I just couldn’t help them there.  I could sure help them with the mathematics, some of the theory of mathematics or some of the bitmap stuff, I sure could fine tune that.  But they wanted a million tons of documentation and they wanted me to supply it in detail. I was trying to write some kind of documentation detail, but it just didn’t work. 
+
+It was very interesting to see that they had a graphical interface environment out of high level language.  Boy did that ever convince me that that was where the future was.  That’s where I got the gist of the direction for the remainder of my life.  I was already in that direction, as I said I already had a GUI interface for the ICE system.  But what I’m talking about happened just after that. It was a good learning experience.  But boy, after I saw what was possible with a high level language GUI environment, I did not want to go back.
+
+All this GUI stuff and all that sort of thing, that’s where it came from. Now I told you where my first ways of getting the microprocessing things by way of Woz and Steve. I dance around it. I never went that way.  It was a beautiful system if you’re looking at a teaching or learning environment. That was my brief thing through having my bitmap graphics search popped up in the center of Xerox and then ending up in the Xerox PARC Group seeing where.
+
+*And that was the Star computer, right?  At the Park Group?
+
+Yeah, you’re right, Star.  It was a disaster in the market place. The Apple Lisa was equally a disaster in the market.  Too expensive, too limited a market.  Thank you for popping that word back out, it wouldn’t have come. It was definitely the Star computer that they were building. The Lisa computer was compatible in level of what it was supposed to do and on the direction that Apple was headed.
+
+### Graphon and Stanford
+
+19. Graphon        graphon.1-27
+
+        Present Time        graphon.1
+
+        Startup        graphon.1
+
+        Bool
+
+        graphon.4
+
+        Straight Lines and Circles        graphon.6
+
+        Processors        graphon.8
+
+        Graphics Terminal        graphon.9
+
+        1982 SIGGraph / Block Software        graphon.12
+
+        Carver Mead        graphon.13
+
+        OS9 Operating System        graphon.14
+
+        Dave Baasch        graphon.16
+
+        Graphon and Apple        graphon.21
+
+        Adobe, PostScript and Splines        graphon.25
+
+        Crash        graphon.26
+
+        Present Time        graphon.27
+
+        Coordinate Transfer System Patent        1-11
+
+Present Time
+
+*So I’m going to have to leave pretty soon. I have to jump up and run out the door, got a drive ahead of me.
+
+What time do you need to leave?  How much more time do we have?
+
+*Oh, another half hour or something like that.
+
+Graphon and Kawasaki
+
+I founded my own company. Boy, was I ever convinced at that point in time that we didn’t have a chance.  In fact I remember telling Wolf Keller that we’re getting into this one year too late.  If this had been one year earlier, I could move fast enough so we’d turn the company over easily.  He said no, no, nonsense, nonsense, bullshit. He finally convinced me that I should go with the founders of the group for Graphon.
+
+*When did Kawasaki come into the picture?
+
+We immediately became a developer for Apple, for the Apple Lisa. That’s where I knew Kawasaki, Guy Kawasaki. He was the interface enthusiast for Apple. When the actual Macintosh was invented and came out, we already were there. We were one of their main distributors. We did all that first data testing for lots of the first hardware, the first completely debugged machine. That was an experience. Lots of versions of the original software.  Some of it never saw the light of day. Other ones very at an alpha stage; I wouldn’t call it beta even. We were given a super good price on the original 128, and the fat Mac and then finally the Plus and so on.  By the time the Mac-Plus came along, you could do some very serious work on that silly computer.
+
+*I had one.
+
+At this stage the main person, feeding back and forth between  Graphon and Apple was Guy Kawasaki. He was the company’s main interface to Apple.  He wasn’t just an Apple enthusiast.  At that time he was just an Apple employee that was supposed to get the Macintosh out there as fast as he could and beat the hell out of anybody that was also working in the field. The hardware that was only about half way together at the time. Part of my job was constantly interfacing with him to make sure that the things were cleaned up and squared away and feeding back.  Back and forth, back and forth.  Boy was there flow. That’s why I got to know Kawasaki really well, especially those first years.
+
+*It’s a nice story.
+
+That’s why graphical user interface type have had a long and weird place with me. You can’t believe how bad the first systems were.
+
+The X-windows system was aimed at the worst problems in badly designed graphics. They said we are going to make even the lowest level piece, even the outline of a single character, into a window.  That was really fundamental to cleaning up the design and getting it efficient. You couldn’t do that sort of thing in all the complex systems we had at that time.  They made the system surprisingly efficient. We ended up cycling into that and supporting it.  It wasn’t proprietary either because it was into the public domain.  Even that one had an interesting history because SUN Microsystem wanted to sell their NEWS at that time.  Did you ever come across Microsystem NEWS?
+
+*I came across SUN Core.
+
+That system was designed to sit on top of PostScript. It came off of the postscript sophistication. It wasn’t all that well designed at that time because they hadn’t extended it up to deal with interfaces. That only happened when the NeXT came along a number of years later. It caught the X-window group between version 10 and 11 or something like that, up through 10. They had just an incredibly efficient engineer’s approach to windowing that took advantage of all the new machines.  You created a complete graphic environment that redefined and communicated really well and efficiently.  Really well thought out. The X-Windows up through version 10.
+
+At that point they realized that NEWS was going to be thrown away from them if they didn’t go one more iteration to take care of fonts and proportional spacing. How do you end lines?  Should they fit square or should they be rounded or should they be angled? What angles do you shift when a line ends. Boy, does that make a difference when you start having thicker lines on how something looks. There was just some radical redesign on what needs to be done or the SUN Microsystem version was going to take the world over.
+
+What they did interestingly enough IBM got together with DEC, got together with I believe Hewlett Packard.  It was a group of real heavies.  Got together and did the next iteration to have one-to-one capability of carrying alphanumeric sophistication and graphics sophistication that is equivalent to PostScript 1. They went and hired all the key people from all the different fields scattered everywhere over the entire world, to come together and figure out all the pieces that were missing.  There was X-window 10 so they threw in all the sophistication that PostScript originally had. From there on, it was just a small evolution. They brought all the people together to fix all the problems, add all the things that needed to be added to the X-Windows language. It seemed like a very small change, between versions 10 and 11, except that there were really some of the biggest changes that it ever underwent, to make it totally compatible with the needs of page layout type environment and the kind of graphics and page layout and graphics sophistication. You have a white line, how are you going to trim it when it comes to the end so that it looks pretty from that point on?
+
+Graphon went in that direction. There was one point where I really pushed heavy and so did the other key graphic people.  The name won’t come to me but the key graphic person that got fired because he disagreed with Walt Keller.
+
+*Mark Brown?
+
+No, Mark Brown was at the forefront.  Mark Brown, yeah that’s right, great.  That’s the first time.  Sometimes things will come, sometimes they just won’t.  Even something as fundamental as that.  Mark Brown.  Won’t come. 
+
+We tried to get this kind of graphic things up and going. As I understand it, this is sort of the area where Graphon has even returned to. That’s history. All the major suppliers got behind getting the graphics done right.
+
+### Startup
+
+So that was my ___ all the time I did the basic and then I just really noticed that ___ the software __ on the 68,000, cuz the 68,000 had a similar architecture language on it so that we’d get a clear processing software and hardware without having to really write much in either case, or reinvestment in terms of hardware invention ___.  Memory a long ways, I had ___ and other things and Xerox so damn, what’s the name of, can’t think of it.  I quoted it back a while ago.  I was with the group ___, it will pop back in after a while.  But at any rate.
+
+*This is the Xerox park group?
+
+Yeah.  Anyway they came after it with an equivalent of Lisa.
+
+*Oh, the Star?
+
+Star, right, the Star computer.  Xerox ___ and the Apple Lisa and they ___ equal ___ in a lot of place because they just couldn’t do enough for the ___.  So meanwhile I’d gone out and used the almost a Unix real time operating system called OS9 that ran on a 6809 processor and had ___ this other stuff by just ___ so, but then what I used was fractals as a ___ that no one was using at that time.  So life goes and goes and goes.
+
+*That’s great.  And that was the start of Graphon as it was going up to its success.
+
+Yeah, only we started growing so fast that we just couldn’t stay on top of the rate of growth that we had because we were able to ___ unique and fast processor on the market and the cost for us  to produce them, we could sell the damn things with ___ and it was way down compared to what people were charging at that time for __ graphic ___.  People were charging an arm and a leg for graphics.
+
+*Oh I know, at that time it was very hard to find graphics terminals, they were.
+
+And if you got one, it was a dog, and all the software, it turned out the graphics was wrong.  I remember going to the group when I first went to Synertech and I told them, you know, the stuff here I just took off, looked for, getting the hardware ___ Japanese company.  I can’t think of its name.  Hitachi or something like that ___ graphics ___ and then you had to break a circle when you were going to draw a circle into 8 pieces because one of the drawing, it was a very bad spiral, bad spiral, and if you did any more than that, it actually spiraled out to where you could only do an eighth of a circle at a time, you could handle it.
+
+And so what they did is put my hardware on their graphic controller as I was able to prove to them it actually drew a list on circles, at least it was a closed figure.  I told them, I complimented them that at least it didn’t spiral out and it went as far as ___, it still wasn’t a circle, what they were drawing was an ellipse.  And I was able to take the mathematical transformations that they were using, plug the one through for the one from the Hitachi or something and it was minus, and you can’t have a minus ___ and have a closed figure, and plug their’s through it and it was plus. 
+
+At least it was closed but it was an ellipse, it was a large, pretty large ___. It wasn’t that good of a circle either.  You had to break it apart in little pieces to get that little thing to work like a circle, which was the whole pain because ___ anyway.
+
+At this point I showed them ___ running on their own hardware using—damn, what’s the name of the graphics, damn. I want to say Hughes but Hughes isn’t it.  But it’s a company like Hughes that produced all sorts of __ and other type things. They produced 6502 the developing system that I was able to get ___ both up and running using the Don Lancaster’s techniques for using that Kim ___.
+
+But the trouble is, I couldn’t use any of the graphics stuff because of the horrible environment. I couldn’t program anything in Basic. The Basic ___ was screwed up color. The hardware out there was ___ they were so incredibly wrong they ___ write a circle in small segments because it wasn’t a circle. I showed them ___ actually running on their equipment and the straight line running on their equipment and they were using a deviate approximation which also even with garbage the straight line incredibly enough.  You would think they could get a straight line right, but they didn’t. They used a DEA approach for doing the graphics, garbled.
+
+I show them a perfect circle, a perfect straight line, run like gangbusters on their equipment. It was the same thing, using a Kim the 6502, the mammoth they called it. They locked me away like I was a ___. I hadn’t been that locked away since I was at Rand Corporation ___ the stuff for the satellite. They were absolutely freaked of the fact that this stuff was that available and could be done that well. I even showed them how they could multiply by concatenating. I said ___ same thing, that really what the guy had done in the design of the ___ is he could have done a reset to zero that would set both registers to zero. Then he would use the other one because the way the instructions are mapped to be able to set.
+
+Arithmetic could be done if it was the power of two by a simple concatenation.  If you’re doing a power of two, multiplication, if they could __ the hardware doing a power of two by concatenation and that was ___ piece of mind blower and that also now it’s a huge hole from my point of view to the original designs of the 6502 cuz it had added with no effort and I told them, I asked them, gee if you added this to it then you get a very general processor.  You can do just about anything you aren’t limited to the first address space of 256 bytes because you had 65,000 out there you could really ___ with.  65,000 at that time was like infinity.  So a lot of things happened to them.  So you should have seen ___ but of course the hardware was just as bad but the software was bad, just as bad, so it was a ___, it was a bad software putting onto bad hardware, both garbaging the information so the only way computer graphics __ ridiculous.  Wait, this was part of the reason.
+
+So I can remember writing all ___ I was doing ___ programming, all this stuff, and even to the computer graphics that I was writing at Graphon, and we were in the towers there in Cupertino, in towers and Campbell.  Between Towers and Campbell, right next to the freeway, ___ freeway my god here I am piece by piece doing perfect transcription of Bool’s original work that I had read in high school, and here I am doing the same thing to make the computer  graphics for it.  ___ you could do, a full ___ he wants.  Here I was doing ___ to make graphics for.
+
+I remember going out to Graphon, I had to go out to, again to, when we were doing, I was looking cuz I knew ___ been in literature and patented also by ___, by Techtronic cuz it happened to sit right square on top of some of the computer stuff I was doing. I tried to do a literature search there and was working at, damn it, what’s the major university there in Silicon Valley?
+
+*Stanford.
+
+Stanford, thank you.  Stanford wouldn’t come, just wouldn’t come.  Stanford.
+
+I was doing a little literature search for Stanford. Here I was part of the time I was going ___ and piecing in some of the different parts of Stanford that were part of what Graphon had done, lots of original writing and history stuff. All the time I was over in the engineering section to look through the stuff. Both of those places were elegant, up-to-date, new copy equipment, and every bit of it was beautiful. Over at Stanford here was this room, and ___ and that’s the part of the space committee.  If you aren’t part of the space committee, you’re headed for bad times.  Space is the one thing ___. Guess what happens when you’re ___?  So they’re ___ mathematics, mathematics, theoretical mathematics in all the entire world.
+
+In Knuth’s group of computer stuff ___ worked in a computer ___ were jammed and the same little box of a place up on the second or third floor.  I guess it was the second floor, and all the ___ all the copying machines not working, broken. I had to take it to the copy center over to the engineering school even to make copies. I just ___ old grey-haired ___.  The only way I was able to get hold of the books and use the stuff that they just don’t give otherwise, or you have to, because they’ve had __ people just zipping out with a razor blade rather than copying.  People just cut pages out of stuff, go walking out.  They had such a problem ___ they had ___ rules in place that you really couldn’t do much in their place anyway.  You know all the acoustical tile falling off the ceiling. Still there’s computer science ___ still after all these years.  I wonder if they finally got a building.  I know they got a building there at UC campus, __ other campuses like that, but here at Stanford not.  Bizarre.  Truly bizarre.  So life has it’s twists and turns to it though.
+
+__ software person who also did lots, Bill Eckert was.  Brown the third, something Brown the third was the other hardware person.  Bill ___ himself was the hardware person.  Both of them had background in electronics and some electronics, some microelectronics built conventional triple E type of background and Bill interestingly enough was a pre-med major at Stanford, pre-med, and he had a ___ from what look ___ get from, what was that drug?
+
+*Thalidomide.
+
+Thalidomide.  Looked like that, a little like that but crippling but what he found he couldn’t get any job in the medical profession so he had been doing more and more programming on the Star and he finally had a really good __ for programming.  People desperately want programmers and __ because of this incredible ___.  In fact when I first went to Synertech and I was working I stayed, first in the hotel, I mean ___ place that was up on, what’s the road that runs all along the ridge of the, between the ocean and the thing.  In Woodside.
+
+*Skyline Boulevard.
+
+Yeah, Skyline.  I lived just off of Skyline.  Actually in a place of the guy who wrote the first Whole Earth Catalog, Stewart Brand.  So I ___ have to write ___ catalog for Scott ___.  So it was kind of a neat place because all sorts of things were sort of left over from every imaginable kind of ecology and natural thing and everything.  They were very into the nature type of guy ___ and his wife was a friend person there who was running the place up there in Stinson Beach from Virginia Cunningham.  I can’t remember her name either, but anyway her daughter, so that’s how I got the ___ lovely place for me to live.  And I could zip down the ocean, do my thing, and pop back up.
+
+So, but anyways __ she wanted to know well how long would it take for one to be a programmer, and I said it depends.  No, I’m serious.  How long does it take to be a programmer?  See the whole world was switching to programming, I said well how long does it take to learn to write? ___ and then she said well, I see what you mean, and she never asked me again how long does it take to become a programmer.  So this also was, ___ vacuum ___ you couldn’t believe.  Over the entire universe people there could do any kind of programming and if they couldn’t, they’d ___ pre-med major ___ teach them assembly line programming and every other kind if they could, and they did.
+
+But some people were really kind of turned off to be ___ and Bill Eckert was that way, so Mark Brown, Bill Eckert and of course other fellow ___.
+
+*Walt Keller.
+
+Walt Keller, yeah.  So that was to,
+
+___ we were one of the first group of people, or one of the first developers using Lisa and then the Macintosh and I used to complain, hey it looked like they came along and ripped off all of our software design, hardware design.  I made a second ___ and the thing is they were ___ about 2 years before Mac.
+
+### Boole
+
+I had come across this thing about Boolean Algebra but I can’t think of her first name, Boole, something Boole.  At the time I think he had published 3 books on Boolean Algebra.  This was at the end of high school.  Must have been the end, right around the 50s.  I found out that one of the great things about the library was that I could send for any book I want.  This was before copying machines were invented.  Any kind of copying printer.  So in a way __ actual physical books around.  Might take a while but there were no copying machines so we really had no other choice.
+
+I asked for Bool’s set of books from the local library and they of course didn’t have them.  So they went to the California library system and they got one in and sent it to me.  But that left two undone so I asked for them to send it to me from the Library of Congress which they did.  Months later, arrive these other books for Bool of his original work on Boolean Algebra and the equivalence of everything across from set theory to a mapping into zeroes and lines, mapping into zeroes and lines, being exactly equivalent in all the ways.  __ prove it, showed all the different things you could do with that __ instead of my Whitehead-Russell type of __.  But it exactly mirrored the Whitehead-Russell type of set theory thing.  Exact mirrored of the set the theory except it was all done in zeroes and lines.
+
+That was really kind of neat because many __ here I was setting up in the Tower.  I was doing the original programming to get the graphic stuff up running.  We had one byte deep back in light(?) device at that time.  One byte deep, and here I was doing __ exclusive works like __ pattern with absolute __ mapping of Boolean stuff I had read so many of before and it just, here I was looking at the thing, it’s this freeways(?) everwinding, freeways __ in the Towers writing this original code. This is the first __ I ever got up running, and the thing was only one byte deep.
+
+Reflecting back here, I wonder why I never got back to Boolean stuff.  __ byte because I was only working with one byte deep so zeroes and lines __ for all, and then I was also having to do all different kinds of operations to get different kinds of effects that __ repeatedly and you see very prevalent __ get set these __ exactly and do what you’re __.  So do a slightly uneven number of times and it will, odd number of times and you get the __ even number of times and you exactly cancel the effect.  So it was perfectly __ doing something.
+
+And guess what?  Our low flashing image of a cursor was written in exclusive art so it wouldn’t damage any of the underlying graphics.  And guess where that thing __ from?  Exactly.  The proofs and all that stuff.  That that wouldn’t, you could __ the number of times you applied it.  If you applied it an even number of times, no matter what other information __ it wouldn’t __.  So life has some very weird twists and turns in it sometimes.  And also using an __ and so on.
+
+*Boolean logic from the man.
+
+Here I was doing Bool’s original work down to the last glitch, especially making use for __ image cursors that could be pulled over my other graphic deal arbitrarily without worrying about it because they would use exclusive art even in spite of the way I was __ things, and yet it would flash, and that I would write first odd, then even, then odd, then even, then odd, then even.  I worried about destroying any data on anything.  So how about that?
+
+They’re much more __, much more basic than something like bit blit.  Bit blit came along when __, computers also __ and graphics really bends them our shape.  Even the fastest computers even today it’s so bent and out of shape.  So bit blit was to blot big chunks of information around XY information without screwing up underlying data and it turns out that if you don’t have much extra room to, if you have double or triple the space __ you can do it very dumb.  And fast, dumb too.  But if you’re going to say __ maybe 10% of the diameter or even less to store it for intermediate storage for saving data, you have to be real careful about how you moved data around if you’re going to move a big chunk around without screwing it up.
+
+Bit blit was some of the first work like that.  Actually I forgot some other __ thing. Bit blit got so all the original character representation for our __ with small bit blits because they were so efficient.  I’d fine tune them depending on the direction they were headed so they could run __. __ direction to be tuned quite differently than the wider, the XY would be quite different in how you needed to tune them to get the maximum effect.
+
+*Because of the scanner?
+
+No, because of lining hardware.
+
+*Yeah, that’s what I meant.
+
+Yeah, the kind of scanning that was done to make an image come up.  And in fact at the same time you didn’t write __ 8 bytes at a time, two __ values was the largest you could write.  So that’s the largest data the 6502 processor, pure byte time machine, and then it __ bytes to give you a __ because if you only have __ it would be a little boring.  You couldn’t do much.  It would be a little boring.  So, but what they did is they real__ the thing to get __ bytes that wouldn’t interact with each other.
+
+It was very easy to do just by physical __ so you ended up with a 16 __ and 8 byte of data on __ byte machine for the 6502 processor which I did my original work on.  So I really felt I was in fat city when I went to 6809 processor which was a hybrid __ 16 byte __ and it was sort of half __ 8 and16 byte __.  It was a pretty good 16 byte __ underneath it.  You have to realize that 16 byte was, at that time was a mini-computer actually __.
+
+And the main frame would go for 32, main frame would go for 32, and if it was super computer, press 64.
+
+*Yeah, the cybers.  It’s just about 2:00.
+
+Ok, anyway.  But at any rate, let me go to the bathroom and we’ll stop and __ do my thing.
+
+But to this day, I like to reflect on that, here I was sitting in the Tower running some of this code for this thing __ everybody was doing Boolean Algebra __ and how many years before I got __ from Library of Congress.
+
+*Funny how things come back around.
+
+Ok, so that __ things at the time.
+
+*Yeah, well it’s all filling in little pieces, good.  So it’s a good point to stop.
+
+Ok.
+
+Straight Lines and Circles
+
+One of the first things I programmed of course was going lines, straight lines, and other things __ straight line algorithm.  Later on I __ some __ but then it got pulled because nobody else was doing anything with it. It was overkill.  But the straight algorithm I really __ for this 6809, Brushingham’s.  The next thing I did was to pull __ fractal type one __.  What’s that fractal __ that has all pyramids?  Pyramid type things.
+
+*Lorenz?  No.  
+
+No, the other one __.
+
+*I’m blocking out.
+
+Anyway.
+
+*Yeah, I know what you mean.
+
+But you know what I mean?  The one that’s about the little pyramids.  And also to reprimand __ you were.
+
+*Cantor set?
+
+Well, that’s different, yeah.  So neither come up with it just right now. Maybe we’ll be able to hit a little later.
+
+*Anyway, the book is in there.  I have the book at home, so not a problem.
+
+And the other thing was that also, because you got a four-way symmetry in the algorithm because it means that you have a four-way call at the most basic level.  It also has to use the capability of Pascal to define mutual codes to other function.  So I had a four-way mutual __ at the most basic level of the algorithm.  And then when I called, it was mind blowing that it actually built the same thing on the first try.  So from that point on, we used this as a hardware debugger for __, using Omega soft, Pascal compiler described.  It also could even give __ straight listing like it gave lacing, a listing, interlaced with 6809 assembly language __ a very clean language, assembly language.  So that you see what it was actually compiling and also that you could actually fill out __ and assemble it, and have it assembled without any bugs.  Now that’s from 2 to 4.
+
+So life goes.  One of the first things I did was get Brushingham’s algorithm up and running, different horizontal, vertical, 45 degrees, where __ case.  I located the octan and looked at symmetry, octan symmetry to make sure that it __ right.  It turns out that a little bitty thing __ when you go back and re-erase __ when you come back through later on and do __ it cleans up __.  It turns out that if you don’t do a completely symmetry, with total symmetry over each octan, you will leave stray pixels behind and that’s why so many __ hardware __ both hardware and software were just buggy in terms of leaving pixels all over the damn place.  They hadn’t realized the symmetry programs they needed to solve to make things work right, and that was Brushingham’s algorithm obviously, __ algorithm.
+
+*Who was that?  Whose algorithm?
+
+Brushingham circle algorithm.  Here it is __ circle algorithm is the one I actually had up and running on my original, I had it running on that first.
+
+*The Kim?
+
+The Kim, yeah.  I had Brushingham’s circle algorithm running on the Kim.  He had just published it about then.  Beautiful.  It was so fast it just blew your mind.  I could draw a circle on the Kim faster than you could on the super computer with straight line approximation because the __ was so high and here I was just using integers __ from one byte show.  Not a ten byte, one byte.  Fastest operations on the Kim, on the 6502.  So I had __ drawing a perfect circle, absolutely perfect circle faster than the damn super computer.
+
+Here is __ like you couldn’t believe and it actually was in the first terminal that we did and then the fact that nobody came along and implemented circle algorithm but did it by, so to give them the exact emulation, we had to go back to doing straight line algorithm __ was the thing.  Just like the Tektronics did, because that’s what the Tektronics does.  It didn’t use Brushingham’s circle algorithm either __ pieces you do, you have, if you want a circle __ straight lines.  Any emulation of the__ exact __ including all the things that were really wrong you had to do.  Of the 4012 through 15 series of Tektronics.
+
+And of course what I’m __ talking about here, we also did an exact VT 100 emulation at the same time up on deck and on the same machine without clobbering each other’s thing.  That was one of the problems of all the other boards that if you put a graphics work and then you switch to alphanumeric stuff, guess what?  When __ it’s all been lost, clobbered.  __ alphanumeric, that clobbers the graphics and the graphics clobbers the alphanumeric, cuz there just wasn’t enough storage so __ remember where the other one was at.  So we had also first time __ to do that was set aside enough storage so we were really buffering both environments independent of each other.  So one VT 100, two __ environment because that, you see the VT 100 actually works in gray scale.  Did you know that?
+
+*No, I didn’t.
+
+Works in gray scale, has two bytes deep.  So we had an exact emulation of that two-byte deep thing.  We also had an exact emulation of the 40 series of Tektronics.  We could carry both at the same time and also have then run, do scratch algorithms __ when you’re doing bit blit, you got to have some extra space to write things in.  Not very much, but some.  So that was how that stuff went.
+
+So do you find, I find that __ computers so frustrating and so neat at one point and then I just say fuck it.  I’ve had it one too many times.  I mean really fuck it.  So sad, so frustrating things.  They still haven’t done with that original machine that we did so long ago.  But __ to get the newest version up there and then I have to go through the whole routine of updating all the other things.  There is in this case __ if you didn’t update all the other, the supporting software, it wouldn’t run in the new environment either.  It means you had to go through all the __ that updating stuff __ and so on.
+
+*That’s frustrating.
+
+Also turns out that they wrote into it the same bugging that they had been trying __ called, something called bugs.  They’ve been putting it off and on on lots of machines.  It really clobbers the machine.  They wrote it again in the system __ for this particular processor __ here.  So I had __ to be able to dodge around that bug.  Then it turned out all my real time control stuff wouldn’t work any more without a significant upgrade __ and I just said too bad, so I returned it for money and said bye.
+
+*What a pain.
+
+Processors
+
+And all this was on a 6809 processor, using ___ hardware and software that originally it was interesting because it was the stuff that Dave Baasch had recommended, it was a development software and also the hardware for the 6809 and boy did he ever nail that as the absolute ___ for me to use that would only cost us one small niche in cost from the 6502 and yet it would give me enough additional power so I could actually program the stuff I was working on in a reasonable way.  So you have to close that loop some day ___ Dave Baasch ___.  Incredibly valuable thing that eventually was a show stopper for the 6809 processor ___ 0S9, that was a copy of Unix onto a microprocessor and then somebody immediately ___ compiler for Pascal and the compiler was a good compiler.  The compiler was a 6809 assembly language too.  Incredible.
+
+It was interesting because about that time what I’d done is sat down with some of the people that were at Synertech that I had worked with that I felt, Bill Eckert, who originally had started off as a pre-med major, couldn’t __ for what it was doing in that area.  At that time there was this big boom and need for people to learn computer programming.  People were advertising all over the place, can you program a computer?
+
+I even had a school teacher that I’d been in a place there for a while in the hills up there on Skyline Boulevard and that’s where I actually ran the very __ Stewart Brand wrote the first Whole Earth Catalog.  Then at the same place, just a few years later, and it was kind of a neat place to be.  One of the teachers said, who taught high school, said well __ want to take me to learn to program a computer cuz you couldn’t pick up a phone, news, anything.  They were advertising for people to program computers.  There was a great shortage at the time.  I guess I said, `Well it depends.’ `Don’t put me off, don’t put me off.’  I was __ so I said, `Well, tell me how long it takes to learn to write English?’  Then she came to a stop for a very long time and then said, `I see what you mean.’ But she never asked again how long would it take to learn to program a computer?
+
+### Graphics Terminal
+
+So any way, it was a very boom time and also a time where people were switching to be able to become, the demands of the moment and so on, and also at that time one of the people who was my direct __ over me at Synertech was Walt Keller and one of his best friends that he worked in defense at that __ with Mark Brown.  They knew the hardware.  They had already gotten a 6502 version of a terminal, a numeric terminal, up and running.  He was at __ VT100 emulation.  I think it was an 01 or 02 or something like that.
+
+*VT101?
+
+Yeah.
+
+*Or VT102?
+
+Yeah.  It was the one that was fully, where you had multiple bitmaps and all that junk.  You had actually four levels of gray scale up on that crazy alphanumeric terminal and so most people weren’t doing a complete emulation of that, and so, and this you pay Dick’s going price for that terminal.  It was outrageously expensive because it was all __ hardware.  You can’t imagine how much hardware __ alphanumeric that could actually be scrolled at high speed.
+
+So the thing was that also they had __ so __ is sort of sit down and say __, here is all these big companies coming along.  Everybody, I wonder if he even had time to do it at this point.  I was negative.  Walt was very positive and finally his friend Bill Eckert, who was incredibly good.  He had done the 6808 assembly language version running on their Kim-like machine that they sold.  Like Sym, Synertech Sym.  It wasn’t called a __, S-y-m, was their one-board machine that was easy to use, and he had written all the __ to move it over to the 6808.
+
+I was looking at that architecture and also that was the next one we were doing in our  ___.  And then I looked at the 6802 and I looked at especially the __ controller chip and __ 6808 which was a beautiful machine.  Just enough power, just the right, everything done right in the design.  Beautiful, clean design.  And the hardware, the __ so you could make it clean __ and it had the same interleaving thing I could do with the 6502 so half of __.  Accessing memory, to update memory, and move things around in the hardware __ and what was obvious was, what’s his name?
+
+What we could do to one, make an underlying __ that could tie everything together that was both programmable so it would be flexible and extremely fast cuz at this point we had finally gotten to a place where every part of the machine could be programmed and configurable.  For the first time everything could be put into a software loop.  Even the basic counter thing where a high speed by __ chip that was microprogrammable and __ did all the microprogramming.  Our terminal, interface the key board was all microprogrammable.
+
+He did all the microprogramming for that on a plane trip, on one of the plane trips to Korea to get orders for because it was __ big, huge company that manufactured our terminal.  They’re the basic __ in Korea.  Korea, super big, still a big successful company.  One of the big holder companies.
+
+__ later, but the idea was to put all this stuff in.  It turns out that the IO to the outside could be a zilo chip.  It was serial __, they could be arbitrarily fast but __programmable.  They could even talk to an outside __ up to a megahertz which was unheard of at that time __ and it ended up being the same one they used in the Macintosh.
+
+We beat the market by few years by our design and __ boy, we were with that and Apple and all those other people __ had our own place.  They copied it right down to the __.  If you’re going to really do a good job for someone, and do the best job that you could for the hardware that was available at that time, there were some things that you just couldn’t go with other, different.  That’s why the coincidence.
+
+__ development would be our first graphic terminal, 82?  Yeah, 82.  What also came along at that same time was a heavy-duty development system that would __ industrial design type environment.  Pretty expensive but it had been designed to take a beating.  It was a 6809 based system and it would run this operating system and a super high density disks, they ran really fast, super high density, quad density. So we had decent storage, the first __ computer came out at that time, just in time, I wrote all of __.  And it cost me $500 which at that time when things like that __ if they were garbage.  Even more if they were good.
+
+Here was this crazy __ we had bought that just ran forever __ those things went out too.  What was the?  Quality __ for develop, QED?  QED, development of a program environment.  It again was a UNIX like environment with all, with really good time and also it was a really __ and interesting hooks in it for doing searches and stuff.  They’re still around, what was the thing that sort of descended from that? __ it became a major multiple language type thing later on. Anyway, that was the one that I was using.
+
+Another thing, just at that time, they had made several __ at interpreted very densely, very fast __ interpreted PASCAL. __ came out with a true compiler __ that same environment and it was the most beautiful computer I ever saw.  It __ it was in __ environment was a true compiler and I could ask it to make total listings in which case it would __ make the code where the assembly language with PASCAL could, or I could just have it __ things __ executable code type things in the executed test environment.  The first thing I got up and running on the machine was __.  I did everything by date and hex because we had __ graphic anything.  So the first thing was all done in hex programming, not my favorite, and the next thing I got up and running was assembly language __. 
+
+What we actually did was to say __ such a pain in the butt was a graphics terminal after you had written almost all things with a hard __ graphic display regardless of how much time or effort __ from scratch if you need __.  Talk about a user-unfriendly __ of space.  This included the __ you were doing of Techtronics 4013, 4012-4013 series for the small display and the 4014-4015 __ graphics and the APL version of that for the big screen.  Have you ever looked at those?  Have you tried to?
+
+*Oh yeah, they’re a pain.
+
+I’d go blind __ but if you make them __ start from scratch, from zero because you had to erase everything to start over.  And also there were a few __ it would go in a __ terminal and there were darn little graphics to that one and the graphics were totally off the wall __ of a 4013 __ but mostly it would just, it did its own thing, ok.  And that would __ terminal.  I forgot how many thou, I think by the time he was done paying for the terminal and all that garbage, you’re pushing $10,000 at that time.  Something like that.
+
+The trouble with __ if you did and the graphics is it totally wipes out the alternator, if you use the alternator it wipes out the graphics.  Equally unfriendly environment, so what we had done __ system in the first place so that we could fully support the __ two bits, four levels, is that VT100 emulation.  I doubt we actually did the writing to the outside world by __ of hardware, there was no way that you could do continuous scrolling in a graphics environment but we also had in our graphics memory, so that was never written.
+
+So now you could do one or the other, or you could even combine them.  I want one quarter alternator screen behind the graphic I’m putting in or I’m going to want to put graphic or whatever.  So let you bitmap them together and they didn’t destroy each other either.  How is that for nice?  And also it would write individual bits anywhere to the bit and you would __ to the bit in the graphics environment.  And you don’t have to start over.
+
+That was the first graphics system that got Graphon up and going.  Actually what happened was that we started growing like you couldn’t believe.  We were growing so fast you couldn’t believe it, and that stuff was completely unique at that time, both the hardware design.  The firm where the most, huge chunk of it was in __ and another chunk of it was software.  The __ was totally unique and everything was programmable.  Everything.  Everything for that machine was programmable and reconfigurable.  It was also flexible.
+
+The next niche was, the whole thing was designed from scratch to run the 68000 __.  I did all the initial programming to get the graphics up and running first and then we tried the hardware.  Somebody to help me go from there to get the __ also get it up and running __.  After that we couldn’t find a single assembly line programmer in the valley anywhere or anybody that knew assembly line __ nobody that knows both assembly lines __ control stuff.  So, guess what?  We had to go clear to Australia to hire two assembly line programmers.  So we went clear to Australia.  We gave them a lease to do our development __ lease because we were a subcontractor for Apple as well __.
+
+1982 SIGGraph / Block Software
+
+That I got __ graphic, what’s that __?  What’s the kind of math around these days? Fractals, fractals __.  So I got Sirpinsky __ function running. That’s the __ the first programs on our first machine. At that time I hand __ everything to the __ environment and that beautiful __ and they came along and also did the, you see it was all bit blit too.  It was all __ environment I had created just like UNIX and that’s when the bit blit and all that jazz we’d run into it even before, a couple of years before. It was all bit blit stuff but I couldn’t keep up with scoring it real time.  But what I could do is I could sort out all the character writing in arbitrary __ we had a completely proportional __ all done bit blit.  And also I could cut and __ because it was all bit blit so I __.  I never had to go revisit __ again, pass them on to another set of programming later on.
+
+That was also the other thing that was funny.  What I did was to write a set of programs that then led me to work one level higher.  What I did was to create an __ generator, place all the shift __ technology and that was the fastest, best __ generator I’ve ever seen in my entire life.  And it was so fast in a 6808 environment that I __ a whole bunch of things where I then would write squares based on the Sirpinsky function __.  Then I’d gather all that data, and I’d do it until I got on to the really kind of pretty __ like noise depending on the variables I had.
+
+That was the stuff we went to our first show with.  That was the one __ one of the graphic people that had done pioneering had block software.  I can’t think of his name, damn.  But block software, by into the blocks, and he actually saw the problem of running fast and do what IBM PC environment which was most unfriendly for graphics until very recently.  Till just now.  At any rate, he solved all that problem of getting graphics so that he could move from one machine to another so it was invisible to the people writing higher level graphics.  Yet would run block cover, would run all these different machines.  His name won’t pop into my head.
+
+But at any rate, he’s walking down the aisle at the show, one of the main graphics shows, and he glanced over at our machinery and he __ draw fractal.  He’d never seen a fractal before.  That was the first fractal as far as __ anybody got __ commercially.  And then the next thing he did was because he immediately saw where I was running big bit bit based, big chunks of stuff based on Sirpinsky function but random.  Randomized information.
+
+He looked at that and said, `What in the world is doing that? I can’t believe it’s running graphics that fast.  I just can’t believe it.’  So he came to a screeching halt.  His expertise was running graphics across all the machines, UNIX machines and main frames and everything, and including the one that was, writing to PC environment and keeping __ consistent.  So then he came around and he said, `What in the world is that graphics terminal?  I’ve never seen it.  __ I’ve never heard of the company before.’  Fractals.  GREP__.
+
+It was my idea to use that kind of __ 800 number, we actually had an 800 GraphOn both state and national and he saw what was an international company from the day we started, interestingly enough.  But at any rate, so he walked over and said, `I don’t believe what I’m seeing.  What in the world is driving that thing?’ and `I’ve never seen graphic displays like that before.’
+
+So Bill was showing the thing and I said __ so he popped up with the thing and __ just a few chips, very simple chips __ and a __ processor.  I mean you didn’t even do that with a __ 16000 at that time.  So talk about him being totally blown away at that point.  So he said, `This graphic terminal can’t be doing that.  What you’re doing, you can’t be __ that and doing that.’
+
+After I lived in Silicon Valley I ended up creating a whole new world of people I interacted with. When the economy crashed, I lost __ unfortunately.  ___ because some of them were real fun and neat.  One of the fellows actually went to an actual computer graphics meeting. He was ___ along and he described it. He was ___ he wrote graphic software himself, that was his own specialty writing graphic software, before he ___. He saw this terminal doing things at a speed that was absolutely impossible.   
+
+He went over to look at it and was totally blown away that ___ a 6809 processor.  A 6809 which was just one-half niche up from the 6502 processor that was used in the Apple II, so here was a processor ___ on a computer that was ___ on the Apple II and here it was doing the graphics at a rate that was totally impossible so it would be one, he asked them how they ___ it, and I guess Bill Eckert told him they were, it was real time.  The calculating was being done in real time on a fractal, it was doing it on a fractal, and so we ___ original use of fractals as a ___.
+
+*That’s great.
+
+But the thing is that it turned out that he also was a chocoholic like me.  He was a fellow chocoholic.  He also loved to juggle and he also was into the environment so he leaned on a lot of employees to ride bicycles both to work and when they were at meetings, even.  So he was quite a character.  I would love to close loop with him again ___.
+
+*Well, maybe I.
+
+He ended up creating a life later on who was just separate that was really neat too.  His Block software, B-l-o-c-k, Block software way back before anybody had seen graphic stuff and sure nobody was doing fractal ___ Mandelbrodt, but the Mandelbrodt, but what I was just using was things like the, what’s the gasket type thing, gasket type of fractals that are ___.
+
+*I don’t remember the name.
+
+I was using a couple of different kinds depending on what I wanted to do in the geometry and in the interactions that I wanted.
+
+*Carver Mead
+
+Just a little later the __ were based on a 6808 processor because it had finally gotten to where they were almost giving that away.  And be able __ gone through downsizing of the chip and so it also got up in speed, gone down in power.  Guess who’s __?
+
+*Back to Carver Mead.
+
+Can you guess who __?
+
+*Yeah, Carver Mead.
+
+So here we’re getting, being saved by Carver Mead.  Anyway, so we factored in the new software with the new downscaled stuff and it went like gangbusters. It was cheap, it was fast, and not only that but it was a beautiful architecture.
+
+Together with __ real time __ run such a system __.  So that was __ that information __ just a good __ Synertec itself got into __ and Motorola was __ like that because they were always copying each other’s hardware without giving, they often had the people that were __ designing this.  And partly at that time, design work was still being done in people’s heads mainly.  __ what his name comes?
+
+*Carver Mead?
+
+Thank you.  Carver Mead’s __ hadn’t happened yet.  Until that happened, there was no systematic way of designing processors __ except by __ in your head.  So that was __. That seemed to be __ the 6502, 6809 breakover. That totally __ brain to brain, as it was very smart and dedicated and you couldn’t go beyond. Every attempt to __ go beyond that in microprocessor design died.  Eventually everybody had to go to Carver Mead’s __.  It was the only way of moving on to a more complex system.
+
+Thank you for pulling Carver Mead up because it’s like sometimes I can’t even pulling __ but I can’t always find them.  And Carver Mead __ but thanks very much, cuz he was the leverage for it that made it possible to keep going.  And also Dave Baasch was the person that pointed me out the __ hardware software that could be done so that we could do incredibly clean __ efficient design.  And for years that was the fastest on the marketplace.
+
+### OS9 Operating System
+
+All that was missing was a developing environment that would be reasonable.  You know you’re working with a system. Dave Baasch said, `Really what you should look at OS9.’  It was a complete, had __ it was elegant, small, fast, completely __.  It was one competing, real trans systems up that was real __ and they had just moved that one over to the 6809.  So it was the OS9 operating environment and it was __ yet it was real time.  Totally real time.
+
+It was also very intriguing cuz the 6809 processor really was for fun __ software and there actually was an operating system called OS9 that now is the operating system. __ is why the Apple is having to dump for an 8.5 operating __ which is the latest one to __.  They can’t use OS9 because it has already been used for years, and years and years.  The first 6809 processor that __ was __ that 6809 real time processing system which was one of the neatest systems I ever __.  __ the life of me that Apple never ever even got that sophistication to this day that the OS9 that I did the original work off of a 6809 processor had.  And they will __ systems 10 as it was called, finally get system 10.  Finally, they’ll have real time __ interrupt and all that good stuff.  But that was, fortunately that was the one that Dave Baasch pointed me at.
+
+*Right, I remember that.
+
+And it turned out to be the ideal system to work in.  Other people came along just at that time.  There was a real Pascal component that I could generate codes for.  You or I could __ Pascal so I could __.  There was 6809 that had a real nice clear assembly language that it uses too that was clean.  So I could, I could program things both in Pascal and assembly line for the OS9 system.  For the 6809 processor from __.
+
+That was the most __ machine that was ever __, just made it incredibly easy to write both the hardware and the software.  But it had such a, had a completely symmetric system that you could actually, it gave you enough time so one cycle hardware could get two things.  The other cycle in between or equal __ the software, the hardware, the software, the hardware, the software going __.
+
+That’s how we were able to build our first systems that were __ and so inexpensive and yet went just gangbusters better than either the VT 101 or 102 or whatever it was at the time and __ series of 4012, 13, 14, 15 of Tektronics, __ two monsters.  I call them monsters.  Boy, were they ever a pain in the whatever to use.  So our system had a full emulation __ complete bit blit implementation __ we start and stop __ the thing without getting any __ whatsoever.  So that was how that all ended up doing the thing __.
+
+Ok, great.  Let me say a few things about the programming environment I was working with __ graphics up and running.  Dave Baasch had pointed out to me the 6809 processor had a real time operating system called OS9.  It had been designed to be a real time controller that was just like Unix in its behavior.  In fact the command structure was very Unix-like except the __ was a little bit smaller than Unix.  Little bit.  But a very well thought out, and planned out, completely interruptible environment and one in which all the different kinds of real time control for, that was the first __ system, the OS9 __ system.
+
+It really was well designed to behave gracefully in interrupt type environment, where the events can come in totally asynchronously.  You have to figure out what those damn events are and respond appropriately.  It squeezes down to some incredibly small real time kernel.  It had some very nice software and a very nice assembler on top of that.  The assembler came with a debugger and so forth, and a way of interrupting code.  The other interesting thing is Worth had written a P-compiler interpreter for this, for the Pascal, later on modular too.  The so-called M-Code or P-Code type machine was an interpreted machine.  What it did is pack into a form __ was executed by a Pascal interpreter.
+
+These are the things that were around it at that time.  It was really intriguing, just at the very time that the OS9 came out for the 6809.  A company called Omega Software, like the Greek letter omega, wrote a true compiler for this machine, the 6809.  It was a true compiler from Pascal, complete Pascal with every feature including byte packing, manipulation structure, everything. Every piece of the language was sorted.  The little byte mapping stuff was also __ which meant that you could type in at the lowest level on the machine where it was a true compiler, and a very efficient pure compiler.
+
+*And a nice language.
+
+It fit, of all things, in the same space.
+
+We were going like you just can’t believe and so I said we should put this company up to be sold.  And __ looked at me like I was going crazy __ I said you know, we have a once __ and everything and let’s talk about it, where everybody that’s involved in the company including the wives of the other three founders would be.  So what I said was I have something really important to say.  Sell Graphon, sell Graphon, sell Graphon. It took me about 3 times to say it before anybody started to catch on and they couldn’t believe what I was saying.
+
+And then one thing, what price should we sell?  Well at that point I was more __ and they were doing about $20 million in business and our stuff was totally unique __.  We were going so fast it just blew your mind.  Also graphic terminal __ happened to be the most valued, high-tech commodity in the entire world.  This is because all UNIX depended on them, all the main frame systems, and all the rest of the universe depended on them and boy were that, and we were __ graphics __.
+
+*At that time, there wasn’t anything out there.  There wasn’t much out there that was supportable.
+
+Yeah, or you had to pay, and even if you paid a lot, the __ was very cumbersome to use like I was just describing story to Techtronics.  So they just, ok, some __ were fully delighted we should continue the company to be sold.  Then, what’s the price?  They wanted to go through __ and I wanted to sell it right then.  So that was the only argument I ever had with the founders in the entire existence of the company.  So life goes and goes and goes and goes.
+
+It turned out that the first cuts __ 68000 __ sitting around, nothing to do.  Just mindblowing how fast and easy it went.  Of course it had all been put in __ really than a good __ but the anticipating the 6800 coming, the 68000 coming, there was still the 6800 __ controller chip.  It was the group that did that design to encourage them all psychology, that did the 6507.  We did it right.  Then the key people in that were bought up and scattered.  __ chip at all.  __ received the first chip that you could do clean graphics on after the 6801 but any way, that’s how that went.
+
+*This is probably a good place to stop and eat.
+
+Let me just see if there are any other things I want to say about that.  What happened was finally the company was __ and everything.  A Korean company __.  At any rate, they worked and they improved __ hardware and then we provided __ various graphics on top of that.  We did our own color things and everything.  It was based instead on—what’s the color printer I have in there?  It’s by, produced our own color terminals and made the color __ maker was to keep for old times, it was the first application of microprocessors.  But at any rate, so __ of a fee, the worldwide mark-up and worldwide design.
+
+We were just phasing in the next generation of software, the next __ and the 91 recession hit and then everyone in 1991 recession, it was bad news in California and high tech especially.  It was bad news for all, for the United States __.  So that was the end of the company in 91, went bankrupt.  You have to sell to people to be able to stay in the business.  That’s another story, the next time.
+
+*Well that fills in a lot of pieces there.  That’s good.  So let’s stop.
+
+Dave Baasch
+
+He was down there working with another group.  He and I had been pretty good friends.  By the time he had been down there a year I had done a couple things up here.  I was a part of the start-up, so this would have been in the early 80s, 81 or 82.  He went off with one of the guys from Synertech and some others to start Graphon.  There were only 4 or 5 of them originally.
+
+At that point he was calling me and asking me for basic business advice.  How do you do this, how do you do that, you know, or more likely what don’t you do here, don’t you do here, because we’d already made a lot of not very good decisions and had to rescind them, back peddle, so.  Besides having been friends and thinking a lot of him, we were, actually of this whole group, the only two that ever bailed out of academia and got into industry.  So that generated a lot of camaraderie.
+
+I believe that I give the Graphon group a lot of good advice and ended up going down there several times to consult with the whole group.  No charge.  That was a lot of fun.  At this point, Bland was living up on Skyline in Stewart Brand’s place.  I was in a destitute start-up up here.  We’d go down and visit and I’d stay with him.  Just crash with him there.  We’d go on sales calls down there and I’d stay at Bland’s because $50 for a hotel was a lot.  I’ll stay with Bland to save money besides being fun.  
+
+We had a couple of really interesting experiences there.  One time we walked just across the road and were walking in the woods across from Stewart Brand’s place.  There was a cougar sunning himself on a rock out there.  It was like we’re 100 yards off Skyline.  What is this wild animal doing here?  It’s a pretty wild area.  Obviously.  Stewart Brand had gone on to do other things by then.  It was sort of weird staying there.  I don’t remember much about it.
+
+I remember it had an old-growth redwood stump.  The tree had been cut 50 or 60 years before and there was a lot of root sucker redwoods coming up around it.  The single stump was used as a deck because I remember it being 20 feet across.  I don’t think they really were that big, but this stump on top was flat enough that there were lots of chairs and plenty of people seated there and you were surrounded by this fence of sucker redwoods which were at that point merely 18 inches in diameter.  Again it was pretty, there were a few experiences from up there that were pretty amazing.  I couldn’t find it again if I had to.  You know, probably I could if I had to but.
+
+The whole Graphon scene was pretty interesting.  They started out doing a Tektronics terminal emulator and I’m up here in Tektronics country.  At that point many of my friends were either Tektronics engineers or ex-Tek engineers.  Half the people in Portland are ex-Tek engineers.  It was during a period when Tek went from having a staff of 25,000 to a staff of 12,000 so there were a lot of ex-Tek engineers, employees, around.
+
+Bland actually made a reputation here in Portland because of the stuff at Graphon.  For whatever reason, I ended up having the original prototype Graphon terminal, I believe it was Serial No. 1 but it may have been 2.  It was one of the few of the first version that got out of the factory.  I used to hang out at the country store up here where Tek sold off their surplus and at one point Graphon didn’t have the money to go out and buy a 4012 or a 4014 or whatever they were emulating.  I saw a brand-new one come out of the country store here and called them and said, `Hey, can you afford $200 for a brand-new one in the box to use to verify your designs?’  And of course they couldn’t actually.  But they said they’d pay me back if I bought it.  So I bought it and shipped it down to them and they paid me back for it.  Anyway, that was what they ended up using for validation for all their testing.
+
+I ended up getting one of the original terminals.  Datricon, the company I founded up here, was the one that bought it and we hooked it up to the PDP 11, but it ended up in my living room eventually.  When it originally showed up up here, I’d made a few reasonably high-powered acquaintances or people I respected a lot.  One who ended up going down to Waytech(?) and working on their bit-blit algorithms for them.  A couple of others were just really respectful engineers who worked on the 4010 and 4012, 4014 series.  When the original Graphon tube came up here, it was not only for me to use but because I had Tek engineers who were friends who could play with it and basically throw rocks at it and find out where it would break.  Everybody just loved it.
+
+This was complicated because of course the Graphon tube was done as a Raster tube and the Tek tubes were all vector.  So even though the Tek tubes had a 1024 horizontal address space, you could start a vector anywhere in that including on the last line that would draw outside the space.  So when Graphon came up with this emulator they had to actually, instead of having 1024 positions, have 1080 or something like that to allow for the strokes that went outside the vector space.  This just boggled the Tech engineers that somebody had actually done the detail work at that level to do the emulation that well.  Well, that was good.
+
+I mean that’s just a sign of the persistence and perfection that the Graphon crew as a whole, not just Bland, but as a whole, insisted on in the product.  The amazing thing was that nobody could believe almost was that they could do this with just a 68000.  There’s a story sort of behind that.  I believe that these Graphon terminals were the first ones where software engineers and hardware engineers actually truly worked together on the design in terms of defining the system and what had to happen.  This involved sitting down and looking at the algorithms that needed to be done with the hardware and the software and working them out, making trade-offs between what you do in software and what you do in hardware at the internal to the algorithm level.
+
+Maybe the Graphon crew remembers it.  I don’t remember the details but a software person (i.e., Bland) writes down the algorithms, sort of the standard software way of doing it.  Any algorithm contains anything doing with byte operation graphics has multiple nested loops.  You know, you do this and then you do this and then you do this and then you go back.  If you just write the algorithm, not knowing what goes fast and what goes slow, you can write a total algorithm that has to happen.  Say you write it top-down and it ends up with 8 levels of loops.  Given these 8 levels of loops you could actually cut it several different ways.  I mean you can switch and change parameters or you can scan horizontally, you can scan vertically, you can scan in depth, etc.  It all has to happen but like in any of them, there are different ways of arriving at the end result.
+
+These guys ended up looking at what things happen fast in hardware and what things happen fast in software.   They rearranged the structure of the loops so that all the hardware stuff that happened real fast got moved to the innermost loops.  Although the algorithms didn’t end up being the way you might think about doing them, it was much like the APL trick.  You end up looking at the total required solution and then saying well what can happen fast in hardware.  OK, let’s make sure we do that in hardware and then do the other parts that we can’t do fast or very extensive in hardware in software.
+
+By doing this, they came up with some things that looked very counter-intuitive in terms of the way you think about solving the problem, but allowed them to use just a 68000 and relatively cheap hardware to achieve something nobody had done before.  It was one of the first examples that I’d had of really doing a system design and really dividing the hardware and the software based on what happened fast.  This is as opposed to some software guy saying OK, you know, do this, or some hardware guy saying hey I can build this, now write some algorithms for it.  I can’t say I’ve known anybody that’s done it since then although I’ve been mostly in small companies that are not all that well disciplined.  Who knows, it may happen.
+
+It was the combination of such perfect emulation and the ability to do it with such limited hardware and telling the story of how the algorithms got developed and showing some examples of it.  This gave Graphon an incredible reputation in Portland, at least with a small select group of engineers that I got to talk to, and for several years it was a great commercial success.
+
+They missed a market window to sell the company and of course the external market sort of collapsed.  I don’t think that was Bland’s fault or responsibility or anything else.  I mean the only thing that happened is eventually the year of the network happened, and ethernet connectivity became more important than serial port connectivity.  Basically, the market shifted away from that part of their architecture because for years after that Tek still sold X terminals pretty successfully.
+
+But hey, you know.  Datricon, the company I was at, went public and 8 months later had blown all its money and was broke.  It ended up getting sold to somebody for less than half of the legal fees it cost just to go public.  So I’m not throwing any rocks.  You know, I was a paper millionaire before Bland was and I was also broke before he was.
+
+*Yeah, he said he was worth $5 million at one point on paper.
+
+Yeah.  Yeah, he beat me on that, too, but that was OK.
+
+*So one thing that Bland talked about was when he showed this terminal at, I think it was this terminal, when he was first starting Graphon or maybe when he was still at Synertech.  I’m now a little bit confused.
+
+No, this was Graphon.  Yeah, Synertech did chips, they did demo boards, and they had something, they had a single board computer that was basically a demo system for their chips.  Besides the processor chips they also made peripheral chips, so they had parallel ports and serial ports.  They made good chips.  We used their peripheral stuff for years after that at Datricon.
+
+*Till Honeywell took them under.
+
+Yeah, well, actually other people took the designs and continued with compatible designs.
+
+*Bland talked about taking his terminal to one of these computer fairs, and having fractals on the screen.
+
+Oh yeah.
+
+*And made quite a sensation.
+
+Yeah, well I’ve got Bland to thank for a lot of things.  At Berkeley he introduced many of us to fractals and the chaos therein and a lot of other stuff.  
+
+*Yeah, I know I learned.
+
+Weird modeling, right?  Things that you haven’t thought of before.  I wonder, that feel right but I don’t know what to do with.  Anyway.
+
+*People are only now figuring out what to do with them.
+
+Right.  And yeah, he had Mandelbrodt’s original book.  I don’t know if I ever found a copy of that or not.  Actually the book changed, the second edition of the book changed title and a whole bunch of other stuff.
+
+*Yeah, I’ve got both versions.
+
+Anyway.  So yeah, I can see him, I mean this was when Mandelbrodt sets and fractals in general were really hot new stuff.  Yeah, I’m sure he used them.  That was probably at SIGGraph.
+
+*It was somewhere around 1982.
+
+Yeah, special interest group on graphics and yeah, I mean they were always SIGGraph people because they did graphics terminals.  I don’t know what I was doing at the time but it wasn’t graphics terminals.  The one I had I used basically as a VT 100 emulator more than anything else.  I had some nice software that ran fractals on it but when you got a PDP 11/02 it doesn’t do fractals very fast.  Sorry.  I don’t care how good the algorithms are.  But yeah, they always got great acclaim at SIGGraph because they always had stuff that was faster and ahead of everyone else in the graphics __ stuff but other than that I can’t add that much to it.  What was the other great book?  Bland was always into visualizing stuff.
+
+This continues to be a high priority for me.  I just have, it’s just been challenging.  Oh, one other thing.  I did, you know I went up to see Dave Baasch and I got a good session on tape with him about his recollection of the microcomputer era, the 80s, and how your work at Graphon and emulating  a Tektronics work station.  You know, how that affected him and affected the people around him.  So I got a good piece on that.  He didn’t want to do it at first but once he started he did a real nice job.
+
+Yeah, it’s __ places that are hard to __ to go back into because both pleasure and pain.
+
+*Yes, exactly.  But we had a really good visit.
+
+That’s great.  Intriguing too.
+
+*Yeah, I may go out there again next year in the spring.  I haven’t decided yet, but they invited me out.
+
+Great.  Well that’s good news on that __ rather intriguing because __ I was sort of the first pioneer __ with those kinds of things.
+
+*Yeah, I gather that.  That’s quite impressive.
+
+And again, he pointed me at some of the best software and best __ where just might be able to do it or wouldn’t get sucked into __ subsidiary problem.  Boy did he ever nail those things __.  He was the one that picked the 6809 processor as the ideal processor and this OS9 operating system as the ideal unix-like system that could actually run a microprocessor without killing it.  
+
+Random Number Generators
+
+I had worked out the random number generators at Graphon.  That’s what all of those graphics were up on. I actually had an additive random number generator that was incredibly fast.  It was integer additive on the 6809 processor that I did all my original work on.  Actually it had a multiply hard-wired in it. Incredibly enough it was the first of the intermediate ones, halfway between 8 byte and 16 byte.  It was like the 68000, which was another hybrid halfway between 16 byte and 32 byte architecture. I ended up doing essentially all of my pieces of work on two hybrid machines bridging between what had gone before. It was really interesting that I had created an additve random number generator base on the feedback shift register technique. I took the length that would be up around a few million. It really is a different way from the one in Knuth. He had something like 50 digits of zeroes. You could have been just right at the edge of going into a series of 50 zeroes.  How likely are youin  the universe to have 50 zeroes? It’s those kind of patterns you’ve got to stay away from too.  That’s one reason pseudo-random number generators are too damn good.
+
+Graphon and Apple
+
+Actually the current operating system OS8 on that Apple in here __ still hasn’t come up with that one.  Still hasn’t come up with it.  And that’s why sometimes I get so frustrated that I get in there __ environment because still __ and they still haven’t made it to a real time system.  They’re about a year away from it I think, hopefully, to keep a schedule this time.
+
+We were full developer for Apple because we were already there long before they were, long before Lisa even, and __.  So but both of the machines that we were using as, because we got a really special price because we were developer from Apple and so, and they provide a beautiful programming environment. And also the hooks were there to go to either the Mac for doing __ I system which was all kind of __ total graphical system could do all development work by that time.
+
+It was only just now, just now, they’re passing from system 8.5 which still isn’t able to do what I just described to 10 in Apple which is supposed to do it but hasn’t done it yet.  How do you like?  Still hasn’t done it, what I just described, that many years ago.  And Apple still hasn’t made a real time system and they’re still fucking around and I kind of grew up in __ done anything.  They __ had Apple Script in it.  Gee __ strong language, you can do two things at once. __ still have it, that original OS9 system that I just described. Apple has __ 6, 7, 8, but not 9.  They’ve had to skip that and go to 10 because that name is already given for operating system and copyrighted so, because another company has that __so guess what?  It goes from 8.5 to 10 and 10 is supposed to have these features I described.  Hopefully.
+
+I’m crying again.  It’s very frustrating. All these things zig and zag.  The iMac, when I look at the iMac, Jobs did it again.  He did __ iMac and he did it on the original Mac. And of course I was a co-developer, I was one of the first co-developers and it was me and Kawasaki that used to talk back and forth. It was Kawasaki that was my main hook into Apple.  And we would __, we were developers for Apple.  First the Lisa, even before Mac, and then for every Mac that came along.  And Kawasaki used to be my main interface with Apple.  Boy is he a neat guy.  Do you remember his name?  Kawasaki?
+
+*I’m sure I’ve heard it but I’m not familiar with it.
+
+He used to refer to himself as an Apple enthusiast.  Because he referred to himself as an Apple enthusiast, he always figured his job was to sell Apple to other people, and he was really good at it.  And so, anyway, this __ it’s only with this new generation of stuff, they’ve come full circle back to sort of their original thing.  And having a long sequence of people that was specialized in selling colored soda water wasn’t really very good management.  It just barely, fortunately they hired __ to sell the incredible __ software and hardware interface because they __ programming into their environment and they were botching everything they were doing and going way behind and not doing what they were supposed to do.  And they were just about ready to go down the tubes anyway.  One more screw up and they were done as a company.  Bad __.  
+
+They hired Jobs to bring his next computer structure type thing that he had developed for the next computer, they designed the next computer originally, and that was the first colored object oriented program for graphics, and operating system, and the whole schmear.  So what do you know?  From this point on, they’ve hit every schedule that they’ve made.  All the way down.  The guy then threw this thing out, well how they were going to be in the black and blah blah.  They wrote all this stuff, but you can’t give all your innermost secrets to all your competitors and all the people out there and then stay viable a company.  Boy was he wrong.  Fortunately Steve Jobs was able to be hired in. He wrote a lot of open letters to __ which she had also found incredibly successful __ there and he wrote an open letter, he __ what is it the management and also what do you call the head person that does the?
+
+*CEO?
+
+CEO, and then the other one, they had, when you got to have a whole bunch of extra people, then they bring in?
+
+*The Board?
+
+The Board, yeah.  The Chairman of the Board.  __ offered both CEO and Chairman of the Board which he had refused in an open letter back to __.
+
+*So Steve Jobs started laying in structure.
+
+So the thing is that what he did was very interesting because as he pointed out __ needed to be carefully handled so what he did was went back out to the original advertising agency that he had __ for that 1984 advertisement that blew everybody away.  It was fun and neat.  Do you remember that one?  Did you ever see it?  The 1984 where he had a person, you have all these people singing like robots and __ and IBM and then this gal comes in and swings this thing through and it crashes through the singing __ everyone.  You’ve never seen it?
+
+*No.
+
+That’s too bad.  But at any rate, that was, back in my day the main person to go was IBM and somehow you had to make the impression that you had something different.  It wasn’t a __ just a line oriented, text oriented type system.  Have you ever tried to edit things in a __ environment with what’s it called, I can’t remember.
+
+*Awk or Sed.
+
+No, damn it.  I can’t even remember that.  But at any rate, there’s some Unix type environments.  They used to be the most incredibly __ things because you never knew what you were going to get.  You had __ page layout __.
+
+*Nroff, troff.
+
+Right, troff, things like that, and nroff.  Nroff, troff stuff.  That’s what I meant.  So that was an incredible environment.  __ so this was totally, the window environment was totally a different way of doing at that time and __ uniquely different way of doing.  So it was also very fun to have been present at the building of the first windowing __ these days you can’t imagine even the smallest computer, even the smallest __, even the smallest __ now comes the complete touch screen __, complete touch screen __.  Far it was from then.
+
+That’s also been the other interesting thing was the __ environments where __ really was much more fun than nroff or troff type environments to try to keep those things __ if you tried to do any complex page layout.  And then later on things like, first postscript came along and that really was neat for low-level stuff because it interpreted language that was open-ended.  It also gave you formally a defining postscript for laying out __ and then from there it was __ PageMaker, and then soon after the more oriented __ was the, what was it?  Nroff, troff, that’s what I just done, what I meant was, it was __ the page layout.  But any rate, that just provided a totally different way for people to work __ bring stuff up by hand.  Also, at the same time the spread sheet type thing had come along.  __ spreadsheet in an nroff or troff environment, a spreadsheet.
+
+*It’s hard to do it even now.
+
+How would you do a spreadsheet in nroff or troff environment?
+
+*Well you can’t do it in that but in a UNIX environment it’s still a challenge.
+
+Also the whole thing of, is the whole thing is moving so fast, it’s very frustrating.  __ I just noticed there that the Jobs and __ now they’re both back there __.  And Jobs __ do his crazy magic again and __ but I noticed he’s very sophisticated, this newer version is called 10 __ real time system with __ production and so on.  Of course, that’s __ from __ altogether but they’re going through a million iterations of things and __ but they __ free of charge.  So, and yet they still have __ out of their real time system first thing.
+
+It’s only just the very last system that they did multiple __ on so that if you held on, say pulled on a thing and hold it down, you do __ machine that it solves the whole machine __ processing and this makes it very __ for a processor in a system __ not doing this part of the work.  So the other whole issue __ that even this current system does not have memory __, does not have real time process, __ have a __ the OS9 __ had my original __ graphic system up and running that Graphon had with the OS9 system.
+
+Completely the old time system with a very small __ all the 6809 processor sharing two people and not blowing it down.  And when you consider how much more processing power the 68000 __ 6802, and so on.  So it, this is __ but makes me incredibly angry and incredibly frustrated at the same time. So that’s the kind of dimension this has though.  It’s not a whole lot of fun sometimes.  It’s very frustrating.
+
+*Well you know too much.  You know too much about what’s possible.
+
+And it really is, you know, funny.  The first time like I, before I got __ in separate processes. You just assume you have the units.  And even __ system for the 6809 processor had for the system __ development part.  That was a nice system.  I had a lot of fun with it.  So __ people and groups and supplies that other people have brought in that interaction with other people that just didn’t need.  Also __ companies that really stick that to you.  It isn’t fair.  Enough said.  Please echo back from __ what a __ was life.  __ in there but I __ sort of personal anyway, very individual anyway, but very important.  I never __ but I sure would have a hard time describing it __.  But I am very much a believer too in God and all things like that.
+
+*Very spiritual.
+
+But it makes it very frustrating sometimes __ and describe it.  I very much, I’ve always, I’ve loved things that were funny.  I loved __ and joyful, and all of life isn’t that and can’t be that.  It’s like you can’t just, I like chocolate  ice cream occasionally __ and coffee ice cream too.  So it’s a bit like just settling in on just chocolate ice cream because I happen to like it.  Well, for how many days.  It has that quality too.
+
+*Yeah, well life is a pretty rich mix, ups and downs.  It’s important to honor all of it, the good and the, the fun and the sad, the easy and the hard.
+
+*I’m unclear about what your connection was with Apple, with the early development of the Apple.  My impression was when you were at Synertech that.
+
+It’s absolutely parallel to my, parallel with skunk works at Lockheed, and yet I was in the group that actually built the first Explorer satellites.  __ later on and __.  So Apple, Graphon was one of the regional developers for Apple, and we also were the original developer for the first Lisa and then the Macintosh.  We were the developers for the Lisa and then the Macintosh and actually our hardware anticipated both machines and I used to joke, boy if they hadn’t ripped us off __.
+
+But partly just convergence of the best.  If you try to design the best __ with the best process from the best __ to a surprising degree.  But then it was our own data and it was partly __ because you had to be part of.  You couldn’t scroll with bit blit or a bitmap terminal.  Bit blit was __ so even though I had bit blit __ they were always running all the high speed individual character.  This let me run proportional characters with low glitch __ running them off __ bit blit operation.
+
+There was no way in hell that you could get two bits deep of often numeric for a true emulation of a VT, what was it 101 or 102 we were doing.  Exact emulate.  Exact to the last glitch and there was no way that we could do exact emulation of the Tektronic storage thing. It was a 4012 and 4013 and then the 4014 and 4015 eventually.  The whole __ and that is how we did it and we did an exact emulation of both and __.  We sold really cheap to people and that outperformed both __ way cheaper.  So that was our __ for a while __.
+
+It was an interesting thing but there was no way because of the generalities of bit blit software that I used to __ all the graphics and the __ all the graphics part.  There was no way that you could do that actually to scroll continuously 2000 characters, and not have it go jump, jump, jump, which is very unpleasant to people.  In fact when they found __ going jump jump jump, then you had people have seizures and all __ in the middle of the __ people from where was it, during the __ thing.
+
+*Iran.
+
+Yeah, Iran.  They found after the fact that part of the problem was the fact that displays flickered and they flickered at a rate the Iraqi people __ visual processing.  So, that was also one of the things that I absolutely insisted on regardless of __ we had to have a minimum of late 60 as I remember, flicker.  And actually when Xerox came out with their __ they have a 55 hertz thing.  Boy, you got that near a bright window and __ boy, it was terrible.  It made you sick.  It blinked at you so badly.  55 that just __ range you can see it, under some conditions.  So I just totally __ they had the 60 and you just have.
+
+### Macintosh iMac/G3
+
+Amazingly enough, if there was an architecture designed for the model, it would be the so-called Apple G3. This architecture puts things directly into memory and hangs onto small bits of code that you’d just written. That means all the advantages of using, say, addition and subtraction and small algorithms, instead of writing things in floating point and regular trigonometric function, or even taking square roots, are radically faster on the G3 machine. It’s funny how some things like that speak of an open-ended question and an open-ended problem even in this day and age. 
+
+Thanks again for the computer.  It’s a lovely present.  Truly lovely.
+
+*So you can do more than just think about the G3.  You can actually play with it.
+
+Yeah, already have.
+
+*It’s great, I’m glad.
+
+it’s interesting, it’s got the third version of the iMac.  Each time Apple does a little better job.  It also has the third version of the keyboard and mouse. The keyboard and mouse have gotten some of the worst reviews you’re ever going to hear out of any of the professional writers and people that are big-handed.  My problem has always been using the standard mouse, especially the older Mac-Plus machine that I still use occasionally.  Even the ADB mouse was better for me to use than the one like on Carmen’s computer, easier to use and coordinate. What I find is that this newer generation of mouse that people hate so much fits my hands perfectly. I’ve been practicing on it and even gone through the Apple things on how to do clicking and things in the new environment.  Igot part-way through even the letter-writing thing. It’s actually allowing me to train in some of these areas that I need to coordinate more.  It’s an incredibly pleasant environment to do that in.  It fits my hand so well.
+
+*Great.  Oh good, I was concerned about that. Bill Peart and I talked about that, so I’m glad that that is working.
+
+In fact, they even have a little device that they put on that little round mouse, to make it have the same shape as the older Macs.  It’s a major selling item right now. I always had a problem with the damn mouse being too big for me. This is the first one I’ve had that really fits my hand. They’ve done as nice a job with the third version of the keyboard and mouse as they did with the whole iMac which is now in its third version, interestingly.  Talk about a rapidly evolving world out there.  A few months, half a year, less than a year, already three versions.  How’s that?
+
+*That’s pretty neat.
+
+Let me thank you and Jim Barbieri, Dave Baasch, and everybody else involved in getting that stuff for me and for Carmen. Thanks again for matching things for Carmen and I so that we can do exactly the same thing without having to constantly deal with radically different machines.
+
+*That was Bill Peart’s idea to get the same machines.
+
+That’s great. Please when you see Bill Peart, tell me what I just told you too.  Tell him that the terrible, terrible keyboard, that all the professional writers hate, and the terrible, terrible mouse that all the professional writers also hate is the first one that actually fits my hand.  So life does change.
+
+Jobs, Kawasaki and Wozniak
+
+*When you were doing that work on the 6809 in some of this early work, you had a lot of contact with the people at Apple, is that right?  With Kawasaki?
+
+Some very briefly. I just crossed over very briefly with Woz a few times, and Steve a few times.
+
+*Wozniak and Jobs?
+
+Yeah, Steve Jobs. It was very confusing to call him Steve because both Jobs and Wozniak were named Steve. Woz and I actually crossed over a couple of times clear back in the Apple 2 era. I wanted to build my own computer.  Woz showed me how he had mapped the damn color, the damn Apple 2 was a color computer, incredibly enough.  Can you remember that?
+
+*Yes I do, I saw them at the time.
+
+It was an Apple, it was a color computer yet.
+
+*Not bad for that era.
+
+It was surprisingly fast even.  Surprisingly fast.  It also had a hard drive that was very reliable and also fast for that time, and reliable. Those first drives were 5.25 inch floppy.
+
+*Yeah.
+
+This was a generation before the 3.5 inch floppy that IBM had designed, and that the Macintosh ended up with. 
+
+That’s why I went there to Apple. I was going to build my own computer. He helped me build a couple of them. I think you came by once while I was still on the 6502 processor.
+
+*Right, up in Kensington.
+
+The 6502 was a pure 8-byte machine. You could get 16 bytes by concatenating the address space for the 8 bytes. It just had some very simple things.  It could add, it could subtract, it could shift one position in either direction and that’s it. It also had 16 bytes worth, two 8-bit registers that could be concatenated to get a full 65,000 address space, which is great because it let me play around with the first graphic algorithms from Don Lancaster (wrote the secret money machine book). Most of the stuff I learned off of him.
+
+I went to Apple a number of different times. Woz had borrowed a few chips and channels and other things at the level where he needed to build some pieces of the floppy disk reading. He used every inch of whatever was in that machine to beat on it. He produced this weird mix of colors to get the illusion of coloring to the eye. He wrote a basic program that accessed this coloring, with some color mapping that was unique to the way he had borrowed and mixed up stuff. He borrowed in ways the eye wouldn’t notice that much. A television does all sorts of really weird things with color. The yellowish part of the spectrum gets smeared out a quarter of an inch, but the blue part gets smeared almost an inch on a color television. You’d never know though. The underlying band has that kind of thing. At the same time when you are trying to write pixels you put about 2000 bits to the screen. Woz re-enacted the entire universe on the assumption that anybody using their computer to get at colors would go through basic programming that he build right into the ROM.
+
+Can you believe what that did with my color algorithms?  You just can’t believe it.  After three different trips to Apple, I just gave up totally.  For a while I just gave up on making progress at all my next step. I moved out to Stinson Beach and wacked shrubs for a living for a while. I did gardening and helped other people put up antennas and things like that.
+
+Then I came across the circle algorithm at Rockwell. Rockwell had created its own development system based on the 6502 and a little board that was just like the Kim board. I could buy the Kim board and I could then do my program arbitrarily using the ideas of Don Lancaster.
+
+Woz and  Steve would be wondering around. Apple was very small at that time too, barely out of the garage stage at that time. I asked them where they had gotten their supplies from for building their computer. The company MOS Technology had been bought out by ___ and the original staff had dispersed.  Those who had done the original design work on the microprocessor were scattered to the winds.
+
+I found out that Synertech was actually Apple’s supplier for the chips that they built the first Apple 2 with.  They had gone to them and Synertech had licensed all of the pieces that you saw on my table later on one time when I was building my own computer.
+
+At that time I bought the Rockwell development system. It was a pure development system that did not put anything between you and the 6502 environment. I bought the necessary ROMS and readers and display devices in hex.   I got tired of binary real quick. It had hex display. I could observe what was going on in memory and dumping and all that stuff.
+
+I met both Woz a lot and Steve Jobs some. They were barely at the initial production, putting together the first Apple 2.  I didn’t see them at the time when they were still doing Apple 1.  It was Apple 2 that got me interested and actually showed me just how much power that can be stored on that damn chip. It was a wonderful system for persons using it for education, a person wanting to learn basic programming and so on.  And it couldn’t have been a worse design for what I needed.
+
+I got the Rockwell development system. I would have loved to have gotten the floppy disks that also went with it to complete the whole system, but there was no way I could afford that. At least I could afford the board and display and keyboard and things like that. It was only hex so I didn’t have to bang bit any more.
+
+The next thing that happened is I started looking for work. As I said, Apple had been supplied in the process from Synertech. I headed down to Synertech. They were looking for people to work on big main frame computers.  I said no way.  That’s just where I came from.  But I left my calling card and things.  One day I got this call from them that their new systems group had built an ICE system, in circuit emulator, to work across all the different systems on a board-oriented system that was like the Kim. I think it was called Sim.  Sim rather than Kim because it was different but similar, pretty much a direct rip-off of the original Kim.  But by Synertech, Sim for Synertech. I went down, after they called me.  Whoa, there was the same Rockwell machine that they were using for their early development that I had wanted to buy myself.  I told the engineers there that were in charge of the project about my system.  I couldn’t afford it but at least I could do all the programming and the board that goes inside.
+
+I showed them the board and I showed them the circles I was drawing and things like that.  Totally blew him away.  He had never seen anything like it.  He had never seen the circle algorithm by Bresenham.  I had had the line algorithms going long before that.  I even had the circle algorithm going by that time. Totally blew him away.  He asked me to meet with Metelese(?). He was the head of the Systems Group for Synertech, rather than Synertech, Inc. 
+
+That place appealed to me because they were trying to develop boards and develop ways of applying all the bank of processes that were on the market at that time, which included the 6809. That was my first contact with the 6809 processor because we were developing an ICE system for in-circuit emulation.  Also, it had Z8 which is one of the most gruesome things I have ever seen in my entire life. It had literally hundreds of all sorts of specialized things. You couldn’t bring the state of the machine out so you couldn’t tell what the thing was doing, even in an ICE environment.  The only way you could do it is by doing certain kinds of interrupts and setting certain things up to go.
+
+At that time he showed me the Hewlett Packard stuff. I thought whoa, that’s the ICE system that Hewlett Packard had for the first graphics system out there ever. The first in-circuit emulators plugged a card in place of the chip. It keeps track of the state of the machine and let’s you do emulation in it. We were only running software.  You are also running new software that hadn’t been debugged and you were trying to create far more rounds.  All simultaneously on an equally un-debugged system.  You needed a little bit of help to go anywhere at all. In part you had ROM design, and in part you had problems with the software that was designed to sit on top and around the hardware. In part you just had problems with hardware and some of the hardware problems were really serious ones and underlying logic.
+
+Bill Peart and Apple Support
+
+Bill Peart is really competent and really into learning the Apple type computers. 
+
+*Yeah. It sounds like he’s getting some attention in Apple. They’re aware of what he’s doing up here.
+
+Yeah, and there’s a massive hole. The two connecting Apple companies went under in this area.  They just couldn’t make it any longer, finally went under.  One was in Chico and the other was in Redwood City.  The one from Redwood City, essentially took the state north, and the Chico one took this whole northern part of this state.  Talk about a big hole. About the same time Apple decided to change its policy on how it would handle things like customer service, especially for people that are increasingly with no background in buying computers, which creates a different kind of market.  Sort of the enthusiasm type market. It’s always been quite distinct from the Bill Gates, Microsoft, and the Intel world with the IBM PC.  And then the Unix world, very different, yeah.
+
+Because I have the blue color iMac, it’s also the third generation of keyboard and mouse, interestingly enough. I love the feel and touch of it because I just heard nothing but bad reviews.  Bad reviews about how bad it is and how they had to put in special oversize things so it would fit the hand and there was even a small industry being developed to make it fit.  This really is the first mouse and keyboard that I’ve enjoyed using.  I’ve already gone through the basic things for a keyboard and tried the one on learning to do text, to get myself typing again.  It’s beautiful.  Just beautiful.
+
+**I’m glad you like it.  It looks like I interrupted your afternoon siesta here, Bland.
+
+*Well this is our usual arrangement.  You know he’ll lie back, I’ve got the tape running.  I hope that’s ok.
+
+**That’s fine.  I don’t care.
+
+*So Bland sits back there and professes.
+
+I was just launching into where I had originally met Woz and Steve. It was very confusing wandering around Apple when it was still making the Apple 2. I was trying to map the color and all that good stuff and found that Woz had borrowed all the underlying hardware in such a way and then the color remapped it in weird ways with basic, because it was a color computer interestingly enough. Boy, did they ever foul up my computer algorithms.
+
+I was telling the story about switching away from that one into the big defense manufacturer Rockwell.  Switched to Rockwell development and then finally went to Synertech to start building the first system.  That’s what I was telling about.  Reminiscing about old times.  And some things just straight out of the machine you just gave me.
+
+**They’ve come a long way and they’ve had a lot of pitfalls.  They’ve overcome a lot of obstacles and they tried to make Apple into Pepsi although we all know where that went Bland.
+
+There is a difference, hopefully.
+
+**However, things are looking up.
+
+That’s great.
+
+**I didn’t mean to interrupt you.
+
+*No, that’s ok.
+
+Why don’t I try to finish what I’m doing because I would like to record this history for the next.
+
+*Let’s continue, sure.
+
+**Let me just ask you a real quick question.  Is your sister home?  Is Carmen home?
+
+Yeah.
+
+*Yeah she was home earlier.
+
+**Well I’ve got her computer, the Mac 2/SI, in the back of my car so let me go set that up.  I’ll come back over in 15 minutes or so.
+
+Wonderful, thanks.  And very much thanks for setting this up, with the hard drive.  Bye.
+
+*Nice man.
+
+As life goes, huh?
+
+### Adobe, PostScript and Splines
+
+I actually talked with Warnick about his design for his Adobe.  It was Adobe and postscript language because I was interested in how you could ___ languages because I had already looked at so-called LL-I partial languages ___ fully partial language, the LL-I’s languages were fascinating, there were only 4 of them out there ___ I was going to make the fifth one ___ leveraging off the work that ___ first on Pascal and then module too where he made, basically made Pascal real timing and then there was fourth which also assumed that it was the stack type environment, stack type environment that you didn’t mess with, but you ___ machine and boy was that ever an ideal type environment if you’ve got to do real type syndrome, and then guess what ___ 
+
+The guy John Warnick who was setting up Adobe at that time didn’t come on the market with anything.  We talked about the underlying mathematics of structured the language that he was setting up, and he was very taken with the mathematics of the stuff that the French were using ___ splines and I told him, does he really want to inflect ___ because you have to put in so many control ___ well I hadn’t heard of any complaints from the technical people that were doing the drafting to lay of, what’s the company over in France that makes little cars, little funny cars, weird cars.
+
+*Renault?
+
+Yeah.  So he was a mathematician that the company had hired so they could begin to get their designs out of computers, and he __ design but the thing is by that time I had read the stuff on splines and using splines was sort of my off to the side other secret weapon and the damn ___ because they were always blowing up ___.  Totally unstable polynomials when you try to get beyond the ___ third or fourth ___ to about ___.  It was only a few very ___ situations where they wouldn’t explode ___ I’d gotten to think about ___ where you went through things exactly but then I realized that that really didn’t work if you were looking at ___ data or sample data and ___.  Any sample ___ the people would insist on it, there were data being shoved through things exactly, it didn’t make any sense, so what’s ___ and so my first step were B splines, remember, and then I had just hit the fact that B splines were generalizable to non-uniform ___ nerbs.
+
+*Nodes?
+
+No, nerbs, nerbs.  N-e-r-b-s.  They generalized to nerbs and it was another one of those research papers around IBM’s eastern group, the same group that made, Hydrosin group ___ from IBM, it was the same group that produced APL and stuff ___ research into ___.  The guy was ___ a B spline and he said man, these things are generalizable and you make them non-uniform and you make them rational, non-uniform, rational, B-splines, you then could do circles exactly.  Not approximately, in fact all your first-degree hyperbolas, parabola, circles, ellipses all fell exactly, not approximately and also you could linear transformation even shear on, and not have to recalculate points.  Mindboggling, then in terms of labor, so it was the nerbs that already had you introduce there ___ for everybody to look at as a very ___ I did at Cal-Berkeley because I had already gotten into B splines ___ splines one before.
+
+But it was nerbs that I had talked to the group about, well where do we go from here?  What a neat paper ___ to be true, and it turned out to be true.  So it was from that point of view that I had ___ over half an hour ___ the guy that was outside said I’d never heard any ___ how the guts on the language should be.  I said it’s got to be a completely ___ language and my wish was that you crossed Pascal with Modula II for real time with nerbs, and then you could have a real __ graphic programming and you wouldn’t have to touch anything when you were doing closings for graphics because you could precalculate stuff and then you could do ___ even shear and all the linear transformations with ___ calculations and so it would be exactly, not approximate, exactly for the first, the second degree equations.  The hyperbola, parabola, ellipse and circles, in case __ exact.  So that’s where all that chunk of stuff came along.  So it was interesting too __ interact with Jim __ came up with ___ Pascal.
+
+___ why the people that weren’t, you know hearing the people say ___ his types and bit by people, and other people like that came out and said that ___ has all the math and he’s already done this stuff with the armed forces for encryption work, and he already knows all the algorithms for the ___ scrambling stuff  in real times ___.  But kind of, you can know the method but if you don’t have the key, it would take you nearly ___.  DOD got off of their butt and let people use their things that were really reasonable.
+
+Also __ stuff could never, he always ___ 350 or 60 or 70 ___ ask for postscript, that’s how much they used to cost, on a single ___ and so they’re beautiful __ but nobody ever wrote for it because before that happened, you see he would encode the ___ they’d give you one number and you could pop one ___, you would precalculate and that would bring the whole ___.  Take a fair amount of computation ahead of time and you were never hit with it again.  You could ___ have the actual, final busy  spline form, busy ___.  OK, there’s the last few echoes of my life.
+
+Crash
+
+C: Meanwhile, in 1986, Bland’s in the Bay Area with Graphon and Graphon’s having its problems because it tried to go into change, do some color when they shouldn’t have, and do management things that were not real sensible and Bland tried to talk them out of it and, but he got outvoted.
+
+Graphon lasted for 9 years before they went under in the 91 depression that took out all technical jobs in California. Graphon didn’t have an incredibly deep pocket, didn’t make it through that recession.  ___ came out of that called all over the state, all over the state for Cobol or anything called programming. I didn’t get a single hit from the entire state in 91. It was a national depression, but California was singled out like you can’t believe, and high tech was singled out of the singling out. You just can’t believe how impossible.
+
+I said my Graphon up to be sold and saleable right from the beginning. They couldn’t understand me. I said, “Some day, some time, there’s going to be a shutting down so bad, a depression, sort of a mini-depression. Graphon had better be part of another bigger company with deeper pockets or it won’t make it through.”  Guess what happened?
+
+*Yeah.
+
+But also it was very interesting at least on the ___ part of the company to be worth over $5 million at least on paper.  So 
+
+Another time they wanted him to come down there and they flew him.  They flew him out of Chico to Sacramento from Sacramento to San Jose.  That’s when Graphon was still hanging on by the skin of its teeth.  Early in 1992 when Graphon failed, like in January of 1991, they called him and said that they were going to have to lay him off.  We went on his unemployment insurance, or the things when you’re unemployed.  He really did try to go out there and look for a job.  He really did.  He’d go down there and he’d research it with the computer and whatever, and there wasn’t anything.  That was just when things started to really flatten out again for electronics.
+
+*Yeah, did it have to do with work at Graphon or?
+
+You didn’t happen ___ Graphon, OK? And ___ agreed afterwards, there was a whole group of them and they wonder, ____ that I wouldn’t come back to them ___, that they owed me ___.  And I said why?  I won’t, so ___ paycheck for ___, I paid bills and some other ___ things that, like never put in for the declaration of that, OK, that’s how things go.  A lot of twists and turns of life.  So, where, I think it had to do, it was some piece, or something I was trying to describe where or how there was some other ___ I hadn’t ___.  No, I guess we’ll leave it for.
+
+Present Time
+
+*It’s probably the place to stop.
+
+That gets you through all the technical stuff and all the different things that happened across just my whole life.
+
+*Yeah, and Carmen talked, well you were part of it, but she talked about what happened after Graphon folded and you moved up here and moved to Grass Valley and then moved up here, so she went over a lot of that history.
+
+Difficult time.
+
+*Yes, yes, so I won’t ask you to repeat that.
+
+Good.  Thank you very very much Brian.
+
+Computers
+
+20. Computers        computers.1-15
+
+        Snow White and the Seven Dwarfs        computers.1
+
+        Computer Evolution        computers.5
+
+        Computer Languages        computers.7
+
+        Power Computing        computers.9
+
+        IMac        computers.9
+
+Because there seemed to be this tension between people that were into mathematics and people that were into computers, and the ___ might be very ___ the mathematician might be, well recently very good with computers.  Well I could show you some neat programs done by mathematicians that are finding their way into computer graphics and very specific___ but it’s only happening just now.  Sort of like the arts is that way too.  The arts are finally shifting over onto computers and found that with sophistication and subtlety, but before this stuff is gross, really gross, gross, gross, gross.  So it’s always been this weird, I’ve always had almost a schizo zany relationship with importance and people __ going on because I always had this split personality across these different things, partly art, partly ___, partly graphics, partly things like that, partly computer stuff, and as I said, it just blew my mind that ___ wasn’t.
+
+I can’t even remember the name of the computer that I taught myself to program on.  I think I already mentioned the fact that it had paper tape reader and writer and then it had electric in it to actually interact with the computer.  It was something, boy, at that point they had finally developed core type ___ so that core intermediate ___ take up a whole building ___ and to the computer, damn why won’t this thing come to me?  It was a business computer.  It was a minicomputer produced by IBM for business application, but I can’t pop the name of it.
+
+*It’s not Varian?
+
+No.  Varian was another whole company.  It wasn’t, Snow White and the Seven Dwarfs used to refer to them as IBM Snow White.
+
+*That’s right.
+
+Snow White and the Seven Dwarfs.
+
+*That’s right.  My first computer was a Varian.  The switch is to put in the boot.
+
+Yeah, that’s exactly the same way the thing was organized on the computer I learned on, the switches I had to set, paper tape ___ programs too.  It could punch paper tape ___, paper tape punch, ___ punch.  Boy was that a system that was totally unforgiving to error.  The only thing you could do was punch all zeros to a blank that was ___ you could shift the thing to __ nonsense, all zeros, or all punch.  It was the only thing you could do with the damn tape ___ but you remembered that.  And the switches and all that good stuff, and they were also, so it was Snow White and the Seven Dwarfs and I went with the Snow White system ___ an SPS and it was a P, it would be ___ desk top.  But it was a minicomputer.  It was an IBM minicomputer to completely trans___ and it worked on base ten which is interesting because it let the person that was working in theoretical mathematics, Haymond, do things that he couldn’t do otherwise because people don’t realize that when you search ___ you have to do on a ___ computation, if you’re not going to lose your precision, that end up being a ___ part ___ the machine.  Base switching.  So trying to go between base one and base ten is time consuming ___ if you’re playing with some of the factors that are tied to base ten and you aren’t, have to switch, you’ve got some real problems ___.  Either direction is a hard job and so people pretty much stay out of ___ friction is getting easier and easier, faster and faster, and more and more transparent, people are using computers.
+
+I can believe that because you __ many things and many shifts in your responsibilities.  Also other things, and I just have to __ how fast the world is changing now. Did you notice that the hottest new topic in computer science is nonlinear dynamics?  It’s the hottest topic now in computer science.  They like to call it nonlinear dynamics because it stands for __ chaos, where most other people would call it chaos but they’re calling it nonlinear dynamics.
+
+They’re finding __ with hardware or software based on that.  First it makes things very simple to do.  Another thing they find that they get frequencies that are, they certainly aren’t uniform __ and they certainly aren’t random either.  They’re halfway between uniform and random.  So you end up with these crazy things to do.  Sort of harmonic meanings __ music __ halfway between the two extremes that most people have been dealing with, and then when they throw these things in __ pull out information __ calculate systems and completely decode stuff that they thought was linear.  Have you seen any of that stuff around?
+
+*No, but I haven’t been looking.
+
+But do you realize how quickly that was __ the stuff we used __.
+
+*Yeah.
+
+And also, do you realize the other implications of that in terms of if that becomes the cheap, easy way, how do you break that code by the way?  If you don’t have exact __, it has to be very exact to know where to pick it up. __ you know sort of fractal harmonic noise __ and there is not any synchronization thing, you can’t break that code as far as I can see.  That’s an unbreakable code __ enough.
+
+And also, if they throw in more than one pieces __ super computer __ so far in __ computer it just blows your mind because all the new machines are __ just at the very minimum, at least can grab you know 64 byte __.  Even Intel, at least 64 bytes deep for the next generation.  But also __ their next generation are going to heavily use vector __ so the thing __ it started to develop super computers, super vector machines, that __ could do fast __ and the kind of problems __ when you’re doing the kind of, you know, the kind of things that, what’s it called?  The algebra that that involves.
+
+*Afine geometry.
+
+Well anyway, what’s the whole general area, when you run a machine this you, instead of machine they are just numbers.  You can see their whole programs and everything like that.
+
+*Finite elements.
+
+Well, it won’t come.
+
+*Genetic algorithms.
+
+Well any rate, the whole area is just a broad, you know a broad.
+
+*Object-oriented programming?
+
+The kind of programming where you’re working with structures, where you’re laying up all your, laying mathematics into __.  What was the something algebra course I once.  It’s a very beginning __.
+
+*Abstract algebra?
+
+No, that’s the one I never was any good in.  Matrix type.
+
+*Linear algebra.
+
+Linear algebra, ok.  Linear algebra and matrix operations.  Now you can just throw __ into the machine with this new generation of vector arrangement and stuff.  So __ the problem, it just, on the next generation of machines it was just __.  So I was mention, even the IBM copper based machines for all the lines, copper wiring instead of aluminum.  It’s just been __.  Again, they’ve now switched to copper.
+
+*Yeah, I saw that announcement.
+
+*He had one of the first TI hand-held calculators.  You know, when they were like $500 or something like that.
+
+He didn’t have an HP?  I thought he was an HP guy.
+
+*Maybe you’re right.  Yeah I guess you’re right.  He had an HP, reverse polish notation.
+
+There is no equal.
+
+*Yes, that’s true.
+
+Yeah, I actually, Bob Luck got one right after Bland did and this was probably in 72 or 73.
+
+*Yeah, 72 sounds about right.
+
+When they were $400 or $500.  I still have it upstairs.  It still works.  You’ve got to leave it plugged in because the batteries, you can’t get an __ pack for it now.  It’s still the only one I use.  I’m so corrupted.  I can’t use, if it isn’t RPN I can’t use it.  My brain doesn’t work that way.  I’m not that smart.  I’ve got to have RPN.  I don’t even like the calculator.  If somebody had an RPN calculator for the Mac, I’d use it but probably somebody does.
+
+*I’m sure there is one out on a public domain bulletin board.
+
+Why not.  It’s easier than doing the other kind.  
+
+*So, anything else?  Well I just wanted to get down your thoughts and particularly some of the connection, stuff in the 80s because I know more about the stuff in the 70s because I was involved with that.  I’ve got a lot of stuff from Bland this last trip, or you know on Wednesday.  He talked about stuff at Synertech and Graphon and filled in a lot of the blanks.  You’re adding a little bit to that too.
+
+Yeah, it isn’t stuff I’ve thought about much, and for me it wasn’t as important a part of things.
+
+*Well you had other fish to fry at that point.
+
+Yeah.
+
+*Company going under.
+
+The first computers I used, say the CDC machines were so beautifully designed, the name won’t pop into my—
+
+*Seymour Cray.
+
+Yeah, Seymour Cray.  __ first machine actually didn’t even have a true fixed point for integer operation.  They were, you had to __ a floating point __ so it actually took you as long to do an integer calculation as it did a floating point calculation.  Also, the thing is it has an incredibly large dynamic range of floating points.  I kept moving back to floating point as the basis, partly because the machine I kept using __ were designed to be floating point machines.  The integer was sort of stuck on __.  What I found was that in terms of anything that I’d look at, especially the time scale, floating point environment you would think by __. The next thing in the exponential part of __ scale was totally different on the part that you’re working and boy does that ever screw up __ and make it very vague __ really were happening.
+
+So what I ended up doing is instead try to find some way of working with the numbers __ be a little more __ biology you were collecting, be a little more efficient.  Well they actually ended up settling on this 32 bit integer __ precision.  What they found was that boy, did that ever come true later on __ back then microprocessors were later on in the 80s and those first machines were all first 8 byte, then 16 byte.  The integer part wasn’t even there and not all the __ operations were even there for integer so it was a bitch to try to do this kind of thing on.
+
+*Well now it numbers real fast.
+
+It actually, what was it that Apple called it?  They called it the same routines.  I think they finally got it even to run back onto the Apple Plus and certainly all of the 68000.  Really they ran so slow it probably should have been called the insane routine.  It was just mindbogglingly slow.  But what it did do, it did finite, brought together in one place carefully corrected algorithms for everything. It went up to the 80 percentage intermedian(?) calculation and then __ to 64 for 40 point, 32, and it put all the same, code the same functions, trigonometric functions, log functions, and so on, exponential.
+
+What you found is that that was really a very useful __ if you were trying to figure out how some numerical logarithm worked because __ a number of different times when I say __.  Later on Graphon, even before at Synertech I was using that technique to be able to, compared to a person doing that calculation, even if they were running Apple II was incredibly fast.  It also gave you a set of tables then you could __.  It finally went to second evolution but we cleaned that one up and that really was __ the numerical __ really got cleaned up __.  
+
+Before that time it was the most __ garbage you could imagine, with every piece of hardware doing __.  So insane was a good name for it.  Poked fun at it because it was so abysmally slow but compared to a person it was incredibly fast.  It had the incredible virtue was that every major function it had been optimized to be maximum precision.  So uses the basis of testing your other functions which I always found myself had anything to do out there in the real world after I got this thing running __ for a while could go back and check it by generating numbers this way.  So that was another whole issue and __ numerical __ ongoing work.
+
+### Silicon Valley / Computer Evolution
+
++Bland we’ve got to get our picture taken.  Again.  We’ve got a picture of him and us at, like this.  There was a period of time after Bland went to Graphon.  I think I visited Bland, I visited Bland once down in Cupertino when he was living.
+
+Up in the mountains.
+
++No, you were down at Cupertino and your sister was there and you had just gotten ahold of a Macintosh computer.  It was one of the first Macintosh with the mouse and the whole nine yards.  I can remember Bland saying to me this is what we needed 10 years ago because it was an interactive system and the biological system, as you see in here, is an interactive system.  Biologists make measurements dah dah dah, we’d have a tool that maybe we could use.
+
++At that particular time I think, Bland was involved with the Graphon Corporation. I had no idea what happened to the modelling effort.  Well, I knew you were gone to Wisconsin. I got together with Bob Luck to discuss a problem here, but that was the point in time where I basically said I can’t look at this stuff any more.  I’m going to have to wait a few more years before I come back to it.   Those ideas were just kind of sitting there and every vehicle that we came up with, the tools that we needed to do what we wanted to do were inappropriate.  That was 10 years ago, Bland?  Probably 80s that the last time I, when I saw you down there.
+
+Yeah.
+
++And the tools just weren’t there.  I mean it was still the days of the minicomputer, the VAXes, the 780, 7800 series, but that’s not the tools that we needed.  The computer languages were not the computer languages that we needed.
+
+Highly interactive but ___ actually ___ because they were too expensive for what they did for you.  So they deserved to die because they just couldn’t do much ___ hard-earned bucks, not enough return ___.  ___ tell me just now, in terms of just the general biologist, and in terms of ___ for example ___.  I really liked that ___ a very high speed system, the whole thing, essentially coming together at this point ___ basically told us to do this work for general biology ___.  
+
++One of the things that we really needed was graphical techniques.  We didn’t have any, I mean as you were well aware of in plotting off the points.
+
+*It was so painful.
+
++Plotting off the points to the random, you know, now.
+
+*Try to make those graphics.  Bland would sort of give a rough sketch as the program and here make this work.
+
++Yeah, and the point is that if the data conked, it was wrong.  That was the problem.  If it looked like it was.
+
+*Just getting a system where you could even do XY plots, I mean there wasn’t any software for that ___.
+
++And if there’s one thing that the biologist needs, he needs an interactive tool that’s easy to use.
+
+*And graphical.
+
++Yeah, and graphics.
+
+*It’s got to be graphic.
+
++The thing is is that it was 10 years ago when I talked to Bland when he was down at Graphon.   He was down living with his sister in Cupertino.   At that particular point I basically took these reports or the copies that I had and I put them on a shelf.  I said I’m not going to look at this.
+
+*And I sent you my copies about that time.
+
++Yeah, and I put them on the same shelf.  I put them all on one shelf and I said some day this is going to be important but it’s not today.  It’s going to be 10 years down the road before the computer tools are available.  I knew what you had gone through in plotting off a thousand points.  I knew what would happen if I tried to do any of that kind of stuff anywhere.  Now I can make the new G3 computer from Apple do all of this without any problem at all.  And not only that, I can.
+
+They’re not ___ expensive ___.
+
++But what’s even more important is I can email all this shit to Bland and he can say you’re full of shit and send it back to me in the amount of time that it took you to carry your cards in and load them into the card ___.
+
+*That’s right.  It’s so amazing.
+
++And if you ever want to have some fun, take a card out of his deck.
+
+*I don’t think I’ve got any more left.
+
+-We used to save boxes of those.
+
+ACL at the beginning, there’s only maybe 2 or 3 people in the entire computing center would know, am I right.   Just hooked on things ___ all the data ___ computer ___.  If somebody changed either the hardware or the operating system or even the computer ___ there would be anything from a few card changes to virtually of the cards ___ and the machine would bomb and then you’d get all of ___ incredible ___ super computer especially ___ things.
+
+*There’s days you’d spend hundreds of dollars and not too hard to spend thousands of dollars.
+
+You’re right, on a ridiculous ___.
+
++That was never a problem.  $300 a minute.  I’d screw up for a half hour, I’d just.  I had something on the order of $10,000 when I was done.  Oops.
+
+What’s interesting we both taught ourselves to ___.  Brian and I ___ the program using punch paper tape reader and punch paper tape writer where it’s some kind of a, sort of a minicomputer type and the range and in between, and was that ever a.  Talk about ___ cards ___ in some ways ___.  That was the only ___ of blanks, you know.  Obliterates ___.
+
++Yeah it  was.
+
+*The paper was yellow.
+
+-The paper was yellow ___.
+
+Everybody has their own favorite linear distribution for numbers.  There used to be a blood issue a long time ago.
+
+*Yeah, I think it still is for some people.  I think the computing power has.
+
+Made it totally silly.
+
+*Yeah.
+
+Totally silly.  __ there was always this group of mathematicians, __ they could find any place that their work could be applied, they’d immediately leave that field and go to some other where nobody could find any way application, but that is becoming an increasingly ridiculous point of view in this day and age.  At least that’s my own biased view.
+
+*Well, we’ve now got laptops that can do what super computers could do 20 years ago.
+
+Yeah.  Then the next generation of laptops is going to make that look all silly.  Life goes.  Keeps changing.  __ do change.  OK, what was the other thing I wanted to ask about the theories?
+
+At this time it seems that the rate that computers can gather information, especially information related to position and time, time keeps getting split finer and finer and finer, now with a global positioning, even location can be specified in a very __ated way.  Also many things can be measured in a fairly automated way with the course of that going down every year because the events of computer every year.
+
+The other aspect of this is what, the ease of computation compared to what it used to be is also radically different and the things that people __.  When I look at all, some of those punch cards, sort cards, needle cards, sorting stuff, that the first stuff was put on.  You had to figure out what was going on, like sticking a needle in a hole and lifting it up and seeing what came along with it.  Huge, __ a sure lot better at that than people __.  And every year they get faster and cheaper and every year it gets better and easier to make the conversionals.
+
+### Computer Languages
+
+Well, I mean I had all the programming computer science books, you know, but you know all the classics.  I think I still have the Bell Labs Journal that describes Unix and a couple others like that but I keep them for posterity because nobody wants them any more anyway. 
+
+*I had a bunch of stuff about the Simula language but I think I finally threw those out.
+
+Good old Simula 7.  Well, I still have all my old Pascal and what did Bland get into after?  Oh, he got really excited about Logo for a while.
+
+*I remember you talking about that.
+
+That was in probably 85 or 86 and I got it, read the book, didn’t see what it was useful for, and off trying to keep companies __.   So I think I’ve still got Logo for the Macintosh.  Probably runs on, doesn’t run on anything that’s been done in 10 years but maybe my son will be ready for some Logo programming in a few years.  Maybe it will be one of those things like hula hoops, comes back periodically.
+
+*It might.  Well, augmented, cuz I don’t know much about Logo but my impression is it’s a visual language but that it’s not quite as rich as you would like it to be.
+
+Well, yeah.
+
+*But it’s something that is easy for even kids to pick up.
+
+Yeah, I think Bland liked it because it was visual and it was, it was a graphics language.  It was for doing graphics so it was what was called Turtle Graphics.  It was almost vector because basically it was like you were this turtle.  You said, go forward, go left, or go right, or how much to trace.  I don’t know if it was drag your tail or leave your tail up so you leave a track or not.  I don’t remember enough about it, but in a lot of ways it was this nice visual graphics language.  It was understandable at a very basic level.  It lacked some richness—poop here or poop there, or whatever.  I’m not sure how they did the different colors, but who knows?  Maybe it will come back.
+
+*I came across a visual language for doing population dynamics where you basically connect together components.  It’s a compartmental model basically and you can set up feedback to sigmoid type growth or exponential decay.  You could put several things together and get combinations of exponential decay.  I was thinking that this would be kind of neat as a visual language for graphics, for this kind of modeling. But as I looked into it—there may be something more that I’m missing—it seems to be a population-based modeling as opposed to individual modeling.
+
+I don’t think anybody has ever tried to do individual modeling, I mean, except the program you were talking about.  I don’t think people think of the world that way.
+
+*Yeah.  Well I know one wildlife ecologist is doing some individual modeling and I want to talk with him about details about what he’s doing.  He’s in Madison, and people aren’t really listening to him.
+
+Yeah, the more things change, the more they stay the same.  Let’s see, what else do I remember about this character?
+
+Power Computing
+
+Potentially a really nice computer ___ something totally wrong where you had interacted with them ___ the problem and ___ we can’t do anything for you.
+
+*I bet that was frustrating.
+
+Yeah.
+
++Well I need to tell you this.  We got rid of all of our power computing equipment.  We had 30 of them, for the same reason that you had the seizure.  We couldn’t get any support, nothing, and the government is pretty archaic.  If the government gets upset, you know you got a problem.  
+
+IMac
+
+It’s also why I don’t have any email addresses at that point either cuz the machine is so sick without the correct software on it, it won’t run anyway, and I got tired of upgrading it and they still haven’t done what they originally said __ done at this point.  So life goes.
+
+*That’s a tough one.
+
+So it’s frustrating in another way that machine actually, that was the one __ somebody had to __ was it direct marketing __ directly, how to make machines, some had crippled any more at the bottom end there is the iMac.  That’s not a semi-crippled machine any more.  But up to this time, every __ line machine had been designed in such a way it was crippled in terms of expanded graphics.  You couldn’t expand the cards, you couldn’t expand the space, you couldn’t, it didn’t have a brand __ hardware.
+
+*Well, do you want an IMac?
+
+I suppose that would be the one I’d ever be willing to do.  If I ever did them, I would need to give this machine to Carmen.  I would need __ also this machine is crippled as it is.  __.  It needs the upgrades and they’re incredibly cheap now.  I think the added memory is something like $30 or something, and so on.  But if I was to go to the IMac, it also means that I would need to full upgrade this one so I’m not handing Carmen a crippled machine either.  And __ than she would.
+
+*Yeah, but maybe we can get some help on that.
+
+That would be fine.
+
+*Like get Bill Peart or something.  Is it ok to get Bill Peart involved?
+
+Yeah, sure, he’s quite knowledgeable and reasonable.
+
+*So have him come and fix that machine for Carmen, and get you an iMac.
+
+That would be neat.  Eventually, you see one of the other things that I did, it was very interesting, there’s only one direction it turns out that when you’re working with a RGB systems, you have a very different set of algorithms.  If you’re working with an RGB system, then CMYK systems you’re working with the complement of the __ and of course you’re, if you’re working on your terminal, if you are scanning something in, if you are sending something to a web site to be displayed, all of those are RGB.  All RGB.  Where the CMYK system, I’ve got a piece of paper here, I __ use white paper because I started putting down __ things from me compliments of course, and because you don’t get a clean 3-mix for your __ gee, you’re going to need black too.  Real black __, real black.  So a lot of color machines __ real black or you have black and no color __.
+
+It also __ gotten water proof ink so they don’t come right back off on you too and all over the damn place __.  Finally water proof ink.  And everybody’s gone that route now.  But the interesting thing was that it was only __ the Danish, the Danes were the ones who got into the RGB __.  It’s a huge, it’s a giant company, much __ optics and everything else.  Very huge.  They finally got into Apples and color standard thing just this last month, this last time around.  In fact interestingly enough the system __ gives AppleScript actually written in the system as a piece of operating system so you can skip everything now and not, or Apple __ but it’s the first one that lets you AGFA.  Huge Danish company, __ everything.  There’s optics, and they’re one of the big print manufacturers in the entire world, has also been __.  They just brought in this __ version of 8.5 to the __ Apple color standard of their, of the color standards that everybody is going with.
+
+*Now you have an AGFA scanner in there, right?
+
+Yeah, that’s right.  So it contract, so that potentially I get in it without ever moving from RGB, without screwing everything up.  And they’ve now gotten it down to $250, and their newest ones are actually hooked into this new, going with, why won’t that pop in my head.  The color thing of Apple.
+
+*Firewire?
+
+No, that’s a high speed thing that replaces everything.  Eventually they replace __ stuff, so all that garbage __ back there is replaced but __ incredibly enough, eventually, and that’s the way it’s been designed so it can be used in any kind of environment and things like that, but also super fast.  Firewire is the name for it, and it also realized that you need to be, you need a power, so it’s got power, and it puts the, and it has __ down the center.  Then guess what?  It talks in either, Firewire talks in both directions simultaneously and then guess what? It __ phase information within each direction simultaneously, separately, so when you’re going to the left you’ve got one set of phase, when you’re going to the right, you’ve got another set of face.  How many things does that up to? 1, 2, 3, 4, 5, 6, so it’s a six-cable system and guess what?  All of a sudden you can do __ synchronization, do fractals like I __ before which is crucial in timing.  You can’t __ it means it has to have fireworks in both directions, so that’s __ boy is it ever.
+
+*Well, we got off on a tangent there, but let me just come back to this iMac.  If you had an iMac, could you hook up your scanner to it?
+
+Yes, totally compatible.
+
+*And your printer?
+
+And the printer, yes.  Or even better, what I really need is, what I really, a computer isn’t worth much without a scanner these days.  Or a printer these days.  All of these things here are very compatible with the generation of, what was it called, what was the name of the company that pioneered all that?
+
+*Power Computing?
+
+Power Computing, thank you.  Power Computing.  It’s very upgradeable.  It was designed to be so upgradable, why even a __ machine, if you updated it all the way would meet the mid-range of Apple’s, so __ but they also, that whole group of things has to go together.  Now a scanner is completely compatible.  The __ look about moving it over onto her other machine so at least she can sketch into the machine from her own stuff.  It just won’t fit.  Our machine is too slow and I can’t expand, it’s too slow and I can’t expand it.  It’s already been expanded in every dimension.  I have expanded it to the max.
+
+*So her stuff.
+
+That machine over there is maxed out but by line glitch made it to be able to go to internet. Barely.  But it’s maxed out and the scanner won’t work on it,  it’s overload.
+
+*Ok, and she doesn’t have a scanner there now?
+
+No.
+
+*But she needs a scanner?
+
+Badly.
+
+*And you would want a scanner too?
+
+Yeah.  They’re down to about $150 for a much fancier one than I got. I paid about $310 for mine.  Because that was, actually that was the first one that knocked down the price and also included their top rate software.  Top rate software.
+
+*Ok, so how do I?  So how can I figure out what exactly you need?  And then I’ll figure out how to get it.  Ok?
+
+Windowing all of a sudden made that kind of thing incredibly easy and practical and that also took off too.  And now, at this point __ is frustrating.  RGB is the true underpinning and __ try to convert things with a __ system __.  __ that you really can do is __ stuff up between the couple __ systems and the RGB system.  So this is why you always got these __ coming on.  You have all sorts of runs that people often had to make, it takes a lot of experience and things to finally get a printout on something.  Only now they’re finally getting to the point where __ so much experience __ that it’s beginning to not give you __.
+
+What I wanted to do is to stay totally away from that __ environment of __ and I found that almost impossible to do.  The only company that I could find that has a scanner was truly RGB orient and a full set of __ to the program to let you do a full range of the image manipulations.  If you do a good scan, you’re going to have to, you’re not supposed to be able.  If you do it with scan __ right, depending on what you’re doing __ or any __ color __ get rid of cracks down.  This is supposed to happen __ scanner __.  This is where it’s really happening, that’s where it should happen before it’s passed one zip along the way.
+
+If  you’re finding __ newly made scan to Photoshop to fix it, it means you’ve done a totally incompetent job of the scan in the first place. Right?  But that also means that there is an incredible distance between the scanners that have been calibrated and set up for RGB from scanners that are calibrated and set up for CMYK.  Cuz there also is, you can send your picture to some place and they’ll put in a set of __ you know they have this photo electric __ resolution of all the optic __.  Then __ then it will do magenta, then they will do.
+
+*Yellow?
+
+White, yellow.  Yellow, then they’ll do black, you see, and they’ll make a completely separate pass __ and they’ll be all calibrated there.  Then the good scanner will mimic that process so they will have done something that behaves almost the same.  If you indeed go to many __ like Umax and lots of, and interestingly enough, especially if they appear the Epson.  The Epson scanners are tweaked to the nth degree to be CMYK.  So that’s the last thing I want in the world.  Such a thing would drive me up the wall.
+
+*So what kind of printer do you want?  Agfa printer?
+
+Yeah, an Epson printer for the final printer.  An Epson printer but not a scanner.
+
+*Ok, so an Epson printer and an Afga scanner?
+
+Yeah.  Right, Agfa and the __ Agfa which is __ to about $150.
+
+*Then, any particular Epson printer?
+
+I’m not quite sure but what I want is, I’m getting a I-Mac and what I want __ USB printer.
+
+*USB.  That’s a brand from Epson?
+
+No, no.  It’s a universal serial bus, USB, universal serial bus.  It’s a hardware company who manufactures everything.  The Epson __ so if Microsoft can, what’s the other one?  Microsoft.
+
+*Intel?
+
+Intel, thank you.
+
+*So that’s from Intel?
+
+Bus, yeah. And also the one, Imac.
+
+*Ok, so you want that kind of a bus, but the printer is an Epson printer?
+
+Epson printer with that bus.
+
+*Ok, with a USB bus.  And the Agfa scanner also with a USB bus, right?
+
+If they’ve done it, yeah.
+
+*Anyway, it’s got to be able to connect to the I-Mac.
+
+Yeah.  And I-Mac only talks in the new bus.  It’s super cheap too.  20 things out there __ only a few on that thing for the Apple.  Otherwise 127 devices out there, 127 devices, and you have __ connected.  And it’s super fast.  So fast that it also can support directly a CRT.  So boy is that what the new, super cheap, super reliable, super, up to 128 devices, so __ and USB is where the future is __.
+
+*Do you need storage as well?
+
+Probably graphic, __ storage __ gone out of business.  So you would always buy them, so when this is fixed, I need 32 bytes, I mean 32 megs added to it.  I need the highest speed __ devise too for that one.
+
+*Ok, can you talk to Bell Pert about this?
+
+Yeah, I could, and I would also have to do is cycle, because this thing is changing and so forth, on a day by day basis.
+
+*Yeah, but I’m wondering, you know if I just go with this, I might make some mistakes and so maybe the thing is for.
+
+What I’m trying to say is what’s basic, I’ll tell you basically what I needed but also.
+
+*Specifics have to be worked out.
+
+But the thing is that that would also, looping in somebody __ most Bill Peart and Dave Baasch.  Dave Baasch is also up for this whole area, but he has to.  It’s his business.
+
+*I definitely will talk to Dave.  Hopefully he would help out with this too.  Well, cuz it seems like you’re just having one problem after another and.
+
+You can’t believe the things.  You just can’t believe.
+
+*And I think that.
+
+__ senses giving out.
+
+*Yeah, and if that system was, if Carmen had that system.
+
+She could do gang busters.
+
+*Right.  
+
+But again, it has to be upgraded because graphics(?) does things like it’s incredible.  Cathy Gessel, the graphic friend __ also she __.  It turned out that actually a friend of hers who is also very, very wealthy and also loved her very much decided to buy her a thing.  What did she do is run out and they bought the newest one that has __ has the newest, all the newest for DVD stuff already filled in.  And also has USB certain multiple __.  Am I saying it right?  Universe serial bus of Intel. That’s where one future thing __ designed by Apple is for the other.  It’s interesting.  Two different __ right now in __ feature.  __ my talks.  Anyway.
+
+*Well, I think we can do this Bland.  I think we can do this.
+
+But I can’t do it with my __ money and __.
+
+*I know that.  I know that.
+
+__ I can’t do it now.
+
+*I mean what we wanted all along was something that would be fun to work with, rather than something which would be a struggle.  Let me talk to Dave and I’ll go talk to Carmen before I go, about Bill Peart, get him into the loop.  I don’t know when this will happen, but say over the next couple of months we’ll sort this out.  Does that sound good?
+
+Yeah, I just, for it seems to me that __ if this __ because I want to share ideas back and forth with Carmen and I want to see what happens and how she __.  I don’t want to give her a crippled machine again.
+
+*Right, but I don’t want you.
+
+But also, but it did get up and running and it does have a word processor and was able to just barely get on Internet.  It was able to do all that stuff but I was able to __ to make that happen for all that stuff.  But I’m done with kind of thing.  Done like you can’t believe.  You just can’t believe how done I am with that.
+
+*I don’t want to put you in that position.  I don’t want you to be in that position.
+
+But I’m also finding it very intriguing __ at the last moment and did it right. There’s a whole new line they’re coming out with beautifully designed, beautifully designed, beautifully __ and also mindboggling I-Mac is a very __ machine, __ machine.
+
+*Yeah, under $1300.
+
+And it’s not a crippled machine by no means.  And it’s an elegant machine.  It also buys into __ because as I said __ so it can __ each __ to go to 127 devices and you don’t have to shut the whole system down each time you disconnect or connect something.  Also __ grabs the keyboard of the scanner and __ and disconnects it on this machine.  It potentially can kill your __.  Only 1 time in 15 or 20 will kill your __, but that’s not the way you want to shift the machine or do things like that because you have zero __ disconnect.
+
+*I’ve been very careful since I learned that from you.  I’ve been very careful about disconnecting.  I make sure everything is turned off.
+
+But with this new USB bus and __ probably the same way.  And also the __ completely foolproof connector.  Anybody can do it and you __.  How about that?
+
+*Way to go.
+
+It also was supposed to replace this entire zoo of RCA cables and I only have 2 cables in it.  I don’t even have __ and yet look at that mess.  Do you realize what that would be if I tried to open up to full __ type environment?
+
+*I have that.  I have that and I have cables all over the place.
+
+So, anyway.  Firewire was supposed to replace all of that with a single __.  It talks in both directions at the same time. At the current speed it will perhaps handle this but in the year 2000 speed of microprocessor will __ room.  By 2001 it will take your entire house.  So you can probably wire your entire house by 2001. __ glitch because of the way it’s been designed.  It talks both ways at the same time so keep that in mind too.  Don’t throw all that money into RCA cables and all that mess because firewire is going to replace it all in the next few years.
+
+*Ok.  Is this a good place to stop?
+
+And USB bus of Intel has all the __ wire talks in both directions synchronization type thing, which is crucial for making the __.  You got to have phase information pass these directions so any __ delay.  Do you realize how long it takes even a few __ but now you’re talking about micro, gigaseconds, __ seconds or whatever?
+
+*Well, I didn’t realize it until I bought the wrong cable for my printer.  I got a 6 foot cable and I was supposed to have a 3 foot cable.
+
+It was enough to blow the thing so it wouldn’t talk right.
+
+*That’s right.  Epson printer.
+
+So that’s what I’m trying to say to you.  So that problem will be completely solved by this new firewire and USB __.  Completely solved, and so the thing is I also obviously to a degree that is practical would like to fire wire __ and it’s for the next glitch along the way.
+
+*You’d be happy with USB?
+
+Yup.
+
+*Well, let me see what I can do. Let me see what I can do.
+
+Buy USB everything, ok?
+
+*Right.
+
+It means, because I’m not only __, I’m sure that the __ is already __.  They are very good about __ those things, but it also means though that the Agfa RGV scanner has got to be connectable directly __.
+
+*Right.
+
+By way of this USB fork.
+
+
+## Grass Valley: the Crash of '92
+
+        3-4: Carmen’s tale
+
+<leaving Carmen's story out for privacy>
+
+<ties back to Huntington's Chorea>
+
+<see also Crash>
+
+

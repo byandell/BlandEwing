@@ -1,0 +1,25 @@
+--- 
+title: "Bland Ewing Story"
+author: "Brian S. Yandell"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "A narrative history and research compilation for the Bland Ewing project."
+---
+
+# Preface {-}
+
+This book represents the ongoing documentation and storytelling of the Bland Ewing project, a narrative history and research compilation focusing on the life and work of Bland Ewing (1931–2006).
+
+The content has been transformed from historical transcripts and notes to record the multi-faceted journey from JPL's early satellite programs to the frontiers of mathematical ecology and Silicon Valley innovation.
+
+## Structure of the Book {-}
+
+The book is organized into thematic chapters covering Bland's personal history, his mentors at Caltech, his scientific contributions in aerospace and ecology, and his later years in Silicon Valley.
+
+## Acknowledgments {-}
+
+Special thanks to all participants and researchers involved in the project.

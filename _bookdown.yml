@@ -1,0 +1,13 @@
+rmd_files: [
+  "index.Rmd",
+  "01-photos-eulogy.Rmd",
+  "02-papers.Rmd",
+  "03-early-life.Rmd",
+  "04-caltech.Rmd",
+  "05-personal-challenges.Rmd",
+  "06-aerospace.Rmd",
+  "07-uc-campuses.Rmd",
+  "08-silicon-valley.Rmd",
+  "09-scientific-musings.Rmd",
+  "10-computation.Rmd"
+]

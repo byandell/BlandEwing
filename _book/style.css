@@ -1,0 +1,60 @@
+p.caption {
+  font-style: italic;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.15;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+p {
+    text-indent: 2.5em; /* Approximately 1/2 inch */
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* Source Reference Blocks */
+.source-block {
+    margin-left: 3em;
+    margin-top: 0;
+    margin-bottom: 1em;
+    font-size: 0.9em;
+    line-height: 1.0;
+    color: #555;
+}
+
+.source-block p {
+    text-indent: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Don't indent the first paragraph after a heading */
+h1 + p, h2 + p, h3 + p, .author + p, .date + p {
+    text-indent: 0;
+}
+
+/* Header Styling */
+h1, h2, h3 {
+    margin-top: 1.5em;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+h1.title {
+    font-size: 3em;
+    color: #2c3e50;
+    text-align: center;
+}
+
+h1 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 50px;
+}

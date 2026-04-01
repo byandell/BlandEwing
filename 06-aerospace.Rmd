@@ -1872,51 +1872,198 @@ with those transistors as the transmitter tubes
 if you want to call them, ersatz tubes they used to call them.
 And now of course they make them like peanuts."
 
-An Antenna Group formed in 1951 with Robertson (Bob) Stevens and {Karl Linnes?} as engineers plus two technicians; later called Communications Elements Research Section.  By 1960 about 12 people involved in four groups: Karl Linnes (followed by Phillip D. Potter) after 1957 directed an Antenna and Microwave Group on passive antennas; New Circuit Elements Group directed by William Pilkington (killed in 1960 air accident) and then Walter Higa.  William Merrick directed Antenna Structures and Optics Group.  Harold 'Hap' Richards led the Servo and Control Group.  Loki, Corporal, and Sergeant work used radar beacon telemetry and doppler antennas; JPL antenna people went to White Sands and got field experience.  After satellite proposed in 1955 phase coherent receivers worked with.  Transistors needed for lighter transcievers; application of transistors to rf circuits meant that: September 20, 1956 a JPL Microlock station successfully tracked a ten milliwatt radar beacon on the first Jupiter-C re-entry vehicle to 3000 miles down range.  This kind of transceiver modified for Explorer I.
+An Antenna Group formed in 1951 with Robertson (Bob) Stevens and {Karl Linnes?}
+as engineers plus two technicians; later called Communications Elements Research Section.
+By 1960 about 12 people involved in four groups: Karl Linnes (followed by Phillip D. Potter)
+after 1957 directed an Antenna and Microwave Group on passive antennas;
+New Circuit Elements Group directed by William Pilkington (killed in 1960 air accident)
+and then Walter Higa.
+William Merrick directed Antenna Structures and Optics Group.
+Harold 'Hap' Richards led the Servo and Control Group.
+Loki, Corporal, and Sergeant work used radar beacon telemetry and doppler antennas;
+JPL antenna people went to White Sands and got field experience.
+After satellite proposed in 1955 phase coherent receivers worked with.
+Transistors needed for lighter transcievers;
+application of transistors to rf circuits meant that:
+September 20, 1956 a JPL Microlock station successfully tracked a ten milliwatt radar beacon
+on the first Jupiter-C re-entry vehicle to 3000 miles down range.
+This kind of transceiver modified for Explorer I.
 
 Notes on Explorer I, John Bluth, JPL Archives, June 1998 (slightly edited)
 
-Sputnik 1 launched October 4, 1957: Sputnik syndrome (humiliation, wounded pride, an international challenge, a domestic political weapon, self promotion of institution). On October 11, 1957, James Hagerty, White House Press Secretary, stated US would launch a Vanguard satellite in near future (therefore not seen as test vehicle). JPL responds to Sputnik with Project Red Socks (proposal on October 21, 1957 in 13-page report in a binder with an embossed title, copy Number 1 at HC 2-581B, bound item shelf): a series of nine launches around the Moon to look at the backside using Re-entry Test Vehicle (RTV) rockets, the first by June, 1958.  This proposal was not supported in Washington.
+Sputnik 1 launched October 4, 1957: Sputnik syndrome
+(humiliation, wounded pride, an international challenge, a domestic political weapon,
+self promotion of institution). On October 11, 1957, James Hagerty,
+White House Press Secretary, stated US would launch a Vanguard satellite in near future
+(therefore not seen as test vehicle). JPL responds to Sputnik with Project Red Socks
+(proposal on October 21, 1957 in 13-page report in a binder with an embossed title,
+copy Number 1 at HC 2-581B, bound item shelf): a series of nine launches around the Moon
+to look at the backside using Re-entry Test Vehicle (RTV) rockets, the first by June, 1958.
+This proposal was not supported in Washington.
 
-        In October, 1957, the Department of Defense asked the Army (specifically the Army Ballistic Missile Agency [ABMA] at Huntsville, Von Braun's group) to make a new proposal for an Army satellite.  On October 29, 1957 Pickering met with Richard Porter, the chair of the IGY (International Geophysical Year) satellite panel and proposed the James Van Allen instrument package scheduled for the Vanguard be transferred to the JPL/ABMA satellite proposal.  On November 6, 1957 the Porter Committee agreed to the transfer.
+In October, 1957, the Department of Defense asked the Army
+(specifically the Army Ballistic Missile Agency [ABMA] at Huntsville,
+Von Braun's group) to make a new proposal for an Army satellite.
+On October 29, 1957 Pickering met with Richard Porter,
+chair of the IGY (International Geophysical Year) satellite panel
+and proposed the James Van Allen instrument package scheduled for the Vanguard
+be transferred to the JPL/ABMA satellite proposal.
+On November 6, 1957 the Porter Committee agreed to the transfer.
 
-Sputnik 2 with the dog Laika aboard was launched November 3, 1957. On November 7, a meeting was called by the Navy at the Pentagon (with JPL'ers Pickering, Al Hibbs, and "a young, very junior JPL scientist" in attendance) to squelch in-fighting between Navy and Army.  The young scientist, to Pickering's chagrin, confronted the Navy with the Army's readiness to launch a satellite versus the Navy's problems with Vanguard and its resultant stalling (Chew article). On November 8, Eisenhower showed on national TV a recovered Jupiter-C re-entry nose cone from the ABMA-JPL RTV test of August 8 (first object recovered from outer space, ablative nose cone feasibility proved). On the same day the DoD authorized preparation by Pickering and John Medaris of the ABMA of the ABMA-JPL satellite (prior to the December 6 Vanguard failure of Viking first stage engine).  At Medaris' request the Explorer Project was given a SECRET security classification.
+Sputnik 2 with the dog Laika aboard was launched November 3, 1957.
+On November 7, a meeting was called by the Navy at the Pentagon
+(with JPL'ers Pickering, Al Hibbs, and "a young, very junior JPL scientist"
+in attendance) to squelch in-fighting between Navy and Army.
+The young scientist, to Pickering's chagrin, confronted the Navy
+with the Army's readiness to launch a satellite versus the Navy's problems
+with Vanguard and its resultant stalling (Chew article).
+On November 8, Eisenhower showed on national TV a recovered Jupiter-C
+re-entry nose cone from the ABMA-JPL RTV test of August 8
+(first object recovered from outer space, ablative nose cone feasibility proved).
+On the same day the DoD authorized preparation by Pickering and John Medaris
+of the ABMA of the ABMA-JPL satellite (prior to the December 6 Vanguard
+failure of Viking first stage engine).  At Medaris' request the Explorer Project
+was given a SECRET security classification.
 
-        By December 1957 Jack E. Froehlich, a division director at JPL, had "Project Deal" (Washington Evening Star, 2-5-59, p. B-12: "'When a big pot is won, the winner sits around and cracks bad jokes and the loser cries, "Deal!"'") organized for satellite launch using the Army's Redstone missile as the first stage booster from the re-entry test vehicle program.  JPL had built the satellite prior to the Army being given the go ahead; the working Explorer I was sitting in a cabinet at JPL and in the 80 Days to launch was only given a final check out. Koppes reports Pickering's pre-meeting {on 11-8-57?} negotiations with Army General Bruce Medaris to get the satellite role assigned to JPL and not to ABMA [Huntsville].  Koppes calls this "momentous" in shaping the future JPL role as satellite/probe maker.  Medaris wanted the project completed in 80 days, Jack James suggests, because of Verne's "Around the World in 80 Days".
+By December 1957 Jack E. Froehlich, a division director at JPL, had "Project Deal"
+(Washington Evening Star, 2-5-59, p. B-12: "'When a big pot is won, the winner sits
+around and cracks bad jokes and the loser cries, "Deal!"'") organized for satellite
+launch using the Army's Redstone missile as the first stage booster from the re-entry
+test vehicle program.  JPL had built the satellite prior to the Army being given the go
+ahead; the working Explorer I was sitting in a cabinet at JPL and in the 80 Days to launch
+was only given a final check out. Koppes reports Pickering's pre-meeting {on 11-8-57?}
+negotiations with Army General Bruce Medaris to get the satellite role assigned to JPL
+and not to ABMA [Huntsville].  Koppes calls this "momentous" in shaping the future
+JPL role as satellite/probe maker.  Medaris wanted the project completed in 80 days,
+Jack James suggests, because of Verne's "Around the World in 80 Days".
 
-        Capitalizing on his electronic communication experience, Van Allen was able to get the new transistors for Explorer I's electronics. ABMA built the launch vehicle and transported it by air to the Cape on December 20.  JPL built an additional Microlock station in Ibadan, Nigeria. Microlock equipment (developed for tracking the RTV nosecone vehicles) was flown to Cape Canaveral; this equipment used the existing Microlock logo. In late 1957 two other Microlock stations were deployed, one in Earthquake Valley, CA, (located in San Diego County--the receiver that confirmed that Explorer I had in fact achieved orbit) and one at the University of Malaya in Singapore.
+Capitalizing on his electronic communication experience, Van Allen was able to get the
+new transistors for Explorer I's electronics. ABMA built the launch vehicle and transported
+it by air to the Cape on December 20.  JPL built an additional Microlock station in Ibadan,
+Nigeria. Microlock equipment (developed for tracking the RTV nosecone vehicles) was
+flown to Cape Canaveral; this equipment used the existing Microlock logo. In late 1957
+two other Microlock stations were deployed, one in Earthquake Valley, CA, (located in
+San Diego County--the receiver that confirmed that Explorer I had in fact achieved orbit)
+and one at the University of Malaya in Singapore.
 
-        A "spin facility" was built at Patrick AFB, FL, to test the spinning of the clustered scale-Sergeant solid fuel motors.  These motors, built by Grand Central Rocket Company for JPL, formed the second, third and fourth stages that launched Explorer I. Explorer 1 was launched 1-29-58 with a Juno I rocket first stage (re-enters atmosphere over South Pacific 3-31-70). Vanguard 1 launched 3-17-58 (tracked by Minitrack system, initially developed by Navel Research Laboratories (NRL) at White Sands and now enlarged and installed by Bendix).  Explorer 3 was launched 3-26-58; Explorer 4 was launched: 7-26-58. And a modified Red Socks plan: Pioneer 4 (JPL and ABMA project) launched 3-3-59 with 13.4 lbs to the vicinity of the Moon (within 37,300 miles) with Geiger counter, an "optical scanning device," a "germanium diode," and dead batteries.
+A "spin facility" was built at Patrick AFB, FL, to test the spinning of the
+clustered scale-Sergeant solid fuel motors.  These motors, built by Grand Central
+Rocket Company for JPL, formed the second, third and fourth stages that launched
+Explorer I. Explorer 1 was launched 1-29-58 with a Juno I rocket first stage
+(re-enters atmosphere over South Pacific 3-31-70). Vanguard 1 launched 3-17-58
+(tracked by Minitrack system, initially developed by Navel Research Laboratories
+(NRL) at White Sands and now enlarged and installed by Bendix).  Explorer 3 was
+launched 3-26-58; Explorer 4 was launched: 7-26-58. And a modified Red Socks plan:
+Pioneer 4 (JPL and ABMA project) launched 3-3-59 with 13.4 lbs to the vicinity
+of the Moon (within 37,300 miles) with Geiger counter, an "optical scanning device,"
+a "germanium diode," and dead batteries.
 
 Early Computers at JPL
 
-And so even those first computers that were the ___ the vacuum tubes, we had to precalculate everything to make it work right and the thing was mostly, most of the things that were done are real time, or had to be done graphically.  At that time I was engulfed both __ with trying to get the stuff in and out of the computer as I mentioned before.   There also was a thing of getting involved, I was, several years.  I think it was around 55 __ math, and so two years, within two years we had all the Explorer satellite built ___.
+And so even those first computers that were the ___ the vacuum tubes,
+we had to precalculate everything to make it work right and the thing was mostly,
+most of the things that were done are real time, or had to be done graphically.
+At that time I was engulfed both __ with trying to get the stuff in
+and out of the computer as I mentioned before.
+There also was a thing of getting involved, I was, several years.
+I think it was around 55 __ math, and so two years, within two years
+we had all the Explorer satellite built ___.
 
-I did all the graphics on the first computer that was there at JPL.  I liked that machine and it was a 709 IBM machine.  709 if I remember the number right.  It was a vacuum tube monster that filled an entire floor.  They had another floor just with air conditioning above it, and then another whole floor underneath it of just millions, it seemed like millions, actually it was only a few dozen, scurrying engineers that were running around replacing tubes everywhere as they burned out.  And some big machine shops everywhere.  So that was the first computer I ever learned on, actually, it was a vacuum tube 709 and I guess each time I sort of got shoved into it. 
+I did all the graphics on the first computer that was there at JPL.
+I liked that machine and it was a 709 IBM machine.
+709 if I remember the number right.
+It was a vacuum tube monster that filled an entire floor.
+They had another floor
+just with air conditioning above it, and then another whole floor underneath it
+of just millions, it seemed like millions, actually it was only a few dozen,
+scurrying engineers that were running around replacing tubes everywhere as they burned out.
+And some big machine shops everywhere.  So that was the first computer I ever learned on,
+actually, it was a vacuum tube 709 and I guess each time I sort of got shoved into it.
 
-What I ended up doing is laying out the mathematics for stuff, you know I would lay out the—What was it?  I had to teach myself.  Is it trigonometry that involves the projections of, for three dimensions of the space things like that?
+What I ended up doing is laying out the mathematics for stuff, you know I would lay out the—What was it?
+I had to teach myself.  Is it trigonometry that involves the projections of, for three dimensions of the space things like that?
 
 *Yeah, OK.
 
-I also did the transformation that would map things between what actual orbits were and the display of stuff around the world.  I did computations and then put them out to slide around so that they would go on these big Mercater maps.  Those Mercater maps were a beast because depending on where you put it, it would produce different kinds of distortion.  So I would have to have different overlays depending on where the proposed location of the receiving dish would be.  This had been going on already for a couple of years in parallel so we actually had all the listening stuff in place, interesting enough, by the time the Sputnik went up.  
+I also did the transformation that would map things between
+what actual orbits were and the display of stuff around the world.
+I did computations and then put them out to slide around so that they would go on these big Mercater maps.
+Those Mercater maps were a beast because depending on where you put it,
+it would produce different kinds of distortion.
+So I would have to have different overlays depending on where the proposed location
+of the receiving dish would be.
+This had been going on already for a couple of years in parallel
+so we actually had all the listening stuff in place, interesting enough,
+by the time the Sputnik went up.
 
-I was using rather crude tube-based software.  The 7090 became the place that sort of won for the real transistors at that time.  Well, the reliability and power and size and all those good things—refrigeration—wow, what a difference.  And so the other job was to help build all sorts of things.
+I was using rather crude tube-based software.
+The 7090 became the place that sort of won for the real transistors at that time.
+Well, the reliability and power and size and all those good things—refrigeration—wow, what a difference.
+And so the other job was to help build all sorts of things.
 
-That old 709 computer was mind-bogglingly fast compared to anything that you could do on a desk calculator.  You used to have to hire rooms filled up with women that did nothing, all day long but pound out numbers.  The calculations used to be based on a room filled with manual calculators.  And the thing is that one computer was equivalent to the entire women population of Pasadena pounding on Monroe calculators ___.  But man, it was a long way from where things were up to that moment in time.  But it meant that we had to solve everything graphically ahead of time and lay out kinds of graphs and other things because there was no way that that computer in real time could stay on top of what was going on.  But on the other hand, it was unloading incredible amounts of work in terms of the math thing and other things like that.
+That old 709 computer was mind-bogglingly fast compared to anything that you could do on a desk calculator.
+You used to have to hire rooms filled up with women that did nothing,
+all day long but pound out numbers.
+The calculations used to be based on a room filled with manual calculators.
+And the thing is that one computer was equivalent
+to the entire women population of Pasadena pounding on Monroe calculators ___.
+But man, it was a long way from where things were up to that moment in time.
+But it meant that we had to solve everything graphically ahead of time
+and lay out kinds of graphs and other things
+because there was no way that that computer in real time
+could stay on top of what was going on.
+But on the other hand, it was unloading incredible amounts of work
+in terms of the math thing and other things like that.
 
-I ended up being what would be called today a systems analyst in terms of the computing software.  I worked as a system analyst but never really programmed the computer, and every time they tried to cut it, I’d just say no thanks.  Too much of a beast, too hard to use, but what I did do was I would lay out all of the mathematics, then I would take them through all the first calculation, top right down to the final sets that could be directly programmed.  They would generate miles and miles of tables.  Printout, printout, printout, on the high-speed printers.  That’s one thing they got to work pretty well, some super line printer, high-speed line printers.  So back would come all this reams and reams of paper.  Guess who got to plot it all?  I remember one time writing this huge line integral across the end of the page, generating reams of stuff and saying “I quit!”  Cuz I had had it with doing that kind of work. I had to plot so many numbers and I had plotted all the stuff and put all the stuff up on the boards for all the visiting firemen to come by with their old fancy epulets and stuff from the Army or the Navy or whatever.  And so things went.
+I ended up being what would be called today a systems analyst
+in terms of the computing software.  I worked as a system analyst
+but never really programmed the computer, and every time they tried to cut it,
+I’d just say no thanks.  Too much of a beast, too hard to use,
+but what I did do was I would lay out all of the mathematics,
+then I would take them through all the first calculation, top right down
+to the final sets that could be directly programmed.
+They would generate miles and miles of tables.
+Printout, printout, printout, on the high-speed printers.
+That’s one thing they got to work pretty well, some super line printer,
+high-speed line printers.  So back would come all this reams and reams of paper.
+Guess who got to plot it all?  I remember one time writing this huge line integral
+across the end of the page, generating reams of stuff and saying “I quit!”
+Cuz I had had it with doing that kind of work. I had to plot so many numbers
+and I had plotted all the stuff and put all the stuff up on the boards
+for all the visiting firemen to come by with their old fancy epulets and stuff
+from the Army or the Navy or whatever.  And so things went.
 
-The thing that was fascination was that just 40 years ago, was also the invention of FORTRAN interestingly enough.  FORTRAN was in ‘57 and was put on that machine and they told me what, they asked me if I had learned FORTRAN and I looked at it and it was too difficult an environment for it.
+The thing that was fascination was that just 40 years ago,
+was also the invention of FORTRAN interestingly enough.
+FORTRAN was in ‘57 and was put on that machine
+and they told me what, they asked me if I had learned FORTRAN
+and I looked at it and it was too difficult an environment for it.
 
 Mathematics
 
-Another thing was that summer, I had taught myself statistics using Feller’s book on finite statistics when I was in high school.  All through say, oh I would say about eleventh and twelfth grade mainly, I got off onto wanting to study mathematics, statistics, and I found Feller’s book on finite math to be the only thing that was really useful.
+Another thing was that summer, I had taught myself statistics
+using Feller’s book on finite statistics when I was in high school.
+All through say, oh I would say about eleventh and twelfth grade mainly,
+I got off onto wanting to study mathematics, statistics,
+and I found Feller’s book on finite math to be the only thing
+that was really useful.
 
-[Am I thinking in the right power and the right name and all that jazz?  Cuz I was just pulling that out of nowhere, see one of my other things I used to use.  I used to keep a library of stuff that I would just point to books and other things to jog my memory that___. ]
+[Am I thinking in the right power and the right name and all that jazz?
+Cuz I was just pulling that out of nowhere, see one of my other things
+I used to use.  I used to keep a library of stuff that I would just point
+to books and other things to jog my memory that___. ]
 
-But the thing is, I looked at his book on continuous processes.  Hah!  Later on, I was part of my way through measure theory and I still couldn’t get to zip in that book.  So it’s a continuous thing for statistics.  Boy, what a difference, and here I was able to teach myself something useful in statistics out of Feller’s finite one because he put such a beautiful set of test problems and examples together.  He leveraged it right out of finite mathematics that you could go get Schaumm’s ouline and teach yourself the right math to go for it.
+But the thing is, I looked at his book on continuous processes.  Hah!
+Later on, I was part of my way through measure theory and I still couldn’t get to zip in that book.
+So it’s a continuous thing for statistics.
+Boy, what a difference,
+and here I was able to teach myself something useful in statistics
+out of Feller’s finite one because he put such a beautiful set of test problems
+and examples together.  He leveraged it right out of finite mathematics
+that you could go get Schaumm’s ouline and teach yourself the right math to go for it.
 
-*Yeah, I think the second, the continuous book was actually written in haste, that he was very sick.
+*Yeah, I think the second, the continuous book was actually written in haste,
+that he was very sick.
 
 Oh, I didn’t realize that.
 
@@ -1926,13 +2073,39 @@ I thought that was the third version of the finite one.
 
 *Well, maybe you’re right, maybe you’re right.
 
-The third version, the final one, came out with, he had loaded with problems.  He made all sorts of errors.
+The third version, the final one, came out with, he had loaded with problems.
+He made all sorts of errors.
 
 *OK, well maybe that’s what it is.  I know he was very ill when.
 
-No that couldn’t be right, because they were almost in parallel over my entire history.  I just remember I’m sure that, I’m almost sure that either at the very end of the 50s or the very beginning of the 60s is when the continuous one came out.  The first edition of the continuous one.  What a bear that was.  I couldn’t get anywhere, so there have been all sorts of things all through my life where there are some books that people did that were such an incredible help and there were other ones that I just couldn’t work with.
+No that couldn’t be right, because they were almost in parallel over my entire history.
+I just remember I’m sure that,
+I’m almost sure that either at the very end of the 50s or the very beginning of the 60s
+is when the continuous one came out.
+The first edition of the continuous one.
+What a bear that was.
+I couldn’t get anywhere,
+so there have been all sorts of things all through my life
+where there are some books that people did that were such an incredible help
+and there were other ones that I just couldn’t work with.
 
-But the thing is that was really amazing is it was in also 57, with Sputnik and the invention of FORTRAN, that he came out with the second edition and in the second edition of his book he decides to do some coin flipping experiments with his students.  These were done with coin flipping.  So you can remember that you can get into trouble when you generate pseudo-random numbers on a machine because you’re playing games.  You never really know what properties are inherent in the method of generation you’ve chosen with a vengeance.  Remember the little things we used to do showing graphically that generators in the literature sucked in various ways?  And remember that that pattern actually corresponded, that if you worked with a dimensional problem that matched what that was say 15 or something like that.
+But the thing is that was really amazing is it was in also 57,
+with Sputnik and the invention of FORTRAN,
+that he came out with the second edition
+and in the second edition of his book
+he decides to do some coin flipping experiments with his students.
+These were done with coin flipping.
+So you can remember that you can get into trouble
+when you generate pseudo-random numbers on a machine
+because you’re playing games.
+
+You never really know what properties are inherent
+in the method of generation you’ve chosen with a vengeance.
+Remember the little things we used to do showing graphically
+that generators in the literature sucked in various ways?
+And remember that that pattern actually corresponded,
+that if you worked with a dimensional problem
+that matched what that was say 15 or something like that.
 
 *17, I think it was 17.
 
@@ -1940,39 +2113,102 @@ But the thing is that was really amazing is it was in also 57, with Sputnik and 
 
 Running
 
-Bill P and I both loved long distance running, so we loved to run.  We’d go up behind his house and run in the mountains, and run and run and run.  Which is neat.  His wife and kids were just truly wonderful.  One time we went up there to Gold Stone and we were climbing all around.  He showed me all the different ways the thing was—but that’s leading ahead.  What happened was that he and I became best friends, the best friend I ever had in my whole life, and we participated in building those first Explorer satellites.  It was so crazy to have that honor.  You just can’t believe what an honor that was.  Mind-boggling honor to have been in the group. 
+Bill P and I both loved long distance running, so we loved to run.
+We’d go up behind his house and run in the mountains,
+and run and run and run.
+Which is neat.
+His wife and kids were just truly wonderful.
+One time we went up there to Gold Stone
+and we were climbing all around.
+He showed me all the different ways the thing was—
+but that’s leading ahead.
+What happened was that he and I became best friends,
+the best friend I ever had in my whole life,
+and we participated in building those first Explorer satellites.
+It was so crazy to have that honor.
 
-The other fascinating thing that happened to me at this time in my life would be Bland is dearly.  I’m dearly indebted to Bland for is he at that point was still jogging and he’d go up in what he called the Open Space Preserve __ San Antonio above Cupertino and jog.
+You just can’t believe what an honor that was.
+Mind-boggling honor to have been in the group.
+
+The other fascinating thing that happened to me
+at this time in my life would be Bland is dearly.
+I’m dearly indebted to Bland for is he at that point
+was still jogging and he’d go up in what he called
+the Open Space Preserve __ San Antonio above Cupertino and jog.
 
 -No, run and walk.  I could never jog because it tore up my knees and ankles.
 
 OK, well, whatever you were still doing at that point.
 
--And all the young friends of mine that jogged, I had to stop doing it with them because if I went that pace it fouled me up so bad.  Either I ran or I walked.  I ___ I wanted to walk, both uphill and down, found it was a good exercise.
+-And all the young friends of mine that jogged,
+I had to stop doing it with them because if I went that pace it fouled me up so bad.
+Either I ran or I walked.
+I ___ I wanted to walk, both uphill and down, found it was a good exercise.
 
-And where I could run and walk long distances. I developed a funny running-walk with my friend Loren James first and then I gave it to Latti Lamb.  When Loren James was training for the pentathlon and going into the Olympics and all that stuff, we developed a way of running, half-running and half-walking, and doing a stride that was sort of.  We copied the Black Feet Indian because we were using Black Feet moccasins a good deal of the time.  It was the only way to develop the muscles and the coordination and everything so it wouldn’t damage your feet over a hard rock and stuff, or for long distances.  But it turns out that you could run and do a half-run, half-walk, half-shuffle thing __ so if you hit a little piece of ice, you __ upright and you just slid in position upright.  
+And where I could run and walk long distances.
+I developed a funny running-walk with my friend Loren James
+first and then I gave it to Latti Lamb.
+When Loren James was training for the pentathlon
+and going into the Olympics and all that stuff,
+we developed a way of running, half-running and half-walking,
+and doing a stride that was sort of.
+We copied the Black Feet Indian
+because we were using Black Feet moccasins
+a good deal of the time.
+It was the only way to develop the muscles
+and the coordination and everything
+so it wouldn’t damage your feet over a hard rock and stuff,
+or for long distances.
+But it turns out that you could run and do a half-run, half-walk, half-shuffle thing __
+so if you hit a little piece of ice, you __ upright and you just slid in position upright.
 
-All my friends took up jogging and I found that when I started to jog with my friends, my knees would immediately go or my ankles would immediately go with that pace. I could run OK or I could walk OK or I could do a marriage, a half-marriage of a run-walk.  I never could jog.  Tore a whole huge chunk of the __.  I was supposed to go out and do my thing with the, I never did.
+All my friends took up jogging
+and I found that when I started to jog with my friends,
+my knees would immediately go or my ankles would immediately go
+with that pace.
+I could run OK or I could walk OK
+or I could do a marriage, a half-marriage of a run-walk.
+I never could jog.
+Tore a whole huge chunk of the __.
+I was supposed to go out and do my thing with the,
+I never did.
 
 *Had your own pace.
 
-A couple of times, what’s his name, that became a model there at Cal-Berkeley who was the engineer?  Dave?
+A couple of times, what’s his name, that became a model
+there at Cal-Berkeley who was the engineer?  Dave?
 
 *Engineer or the entomologist?
 
-He ended up in the entomology department but was a mathematician with engineering background.  He’s the person that got very much into the same theory.
+He ended up in the entomology department but was a mathematician
+with engineering background.
+He’s the person that got very much into the same theory.
 
 *George Oster?
 
-Oster, right.  Oster.  He jogged a lot and wanted me to go along with him.  I started to a few times and just found that I couldn’t.  Just couldn’t jog.  It would kill me.  So when I said there were three forms of recreation that I did.
+Oster, right.  Oster.  He jogged a lot and wanted me to go along with him.
+I started to a few times and just found that I couldn’t.
+Just couldn’t jog.
+It would kill me.
+So when I said there were three forms of recreation that I did.
 
 *As escapes.
 
-One was mathematics, one was biology, and one was a hybrid of running and walking.  And preferably in some areas that I wouldn’t be killed by oxidant air pollution or the other grass pollen I finally became really allergic to was the oat grass that was so common now, and the hoop grass.  Just a few things like that but fortunately I had no, still have no allergy even to, tree pollen here can be laying on a __ and I have no reaction to it fortunately.
+One was mathematics, one was biology, and one was a hybrid of running and walking.
+And preferably in some areas that I wouldn’t be killed by oxidant air pollution
+or the other grass pollen I finally became really allergic to
+was the oat grass that was so common now,
+and the hoop grass.
+Just a few things like that but fortunately I had no,
+still have no allergy even to,
+tree pollen here can be laying on a __ and I have no reaction to it fortunately.
 
 *That’s good.
 
-But oxidant air pollution just would eat my lungs out so, and it was doing it again down in Chico, so I moved first up to McGill __ Paradise meant higher altitudes I’m really out of it, no problem.  Is that the kind __ that you wanted?
+But oxidant air pollution just would eat my lungs out so,
+and it was doing it again down in Chico, so I moved first up to
+McGill __ Paradise meant higher altitudes I’m really out of it, no problem.
+Is that the kind __ that you wanted?
 
 *Well, whatever you want to.
 
@@ -1980,11 +2216,19 @@ No, but I’m really kind of, is that?
 
 *Yeah.
 
-I tell you __ brute force __ things to.  It has to be able to ___ fit with what I can reasonably say and then my own things of value system ___ I tend to be brutally honest.
+I tell you __ brute force __ things to.
+It has to be able to ___ fit with what I can reasonably say
+and then my own things of value system ___ I tend to be brutally honest.
 
 *Right, yeah.
 
-So even though I keep my __ will I ever say it?  And boy that got me into deep, deep shit if you will excuse the expression.  I never say the word shit, but boy did that get me in deep shit a few times in the university, speaking my piece straight out.  So there were some kinds of learning that I never really learned very well.  Even to keep my own, boy.
+So even though I keep my __ will I ever say it?
+And boy that got me into deep, deep shit
+if you will excuse the expression.
+I never say the word shit, but boy did that get me in deep shit
+a few times in the university, speaking my piece straight out.
+So there were some kinds of learning that I never really learned very well.
+Even to keep my own, boy.
 
 *So full throttle or, so you’re either running or you’re walking.  No in between for you.
 
@@ -1992,59 +2236,159 @@ That’s an interesting analogy, isn’t it?
 
 *Yeah, that seems to go for a lot of aspects of your life.
 
-That’s very intriguing.  Boy, you made me cry.  That’s an incredible insight.
+That’s very intriguing.  Boy, you made me cry.
+That’s an incredible insight.
 
-*One comment that Hillary said yesterday morning was that you would either be incredibly involved in a project for days and just going incredibly fast or you might be sitting in a chair and just staring at a wall.
+*One comment that Hillary said yesterday morning was
+that you would either be incredibly involved in a project for days
+and just going incredibly fast or you might be sitting in a chair
+and just staring at a wall.
 
 True.
 
 *And there wasn’t a whole lot, you know, there was a pretty strong shift in between those.
 
-That’s the truth though __.  Yeah, never learned to hold my piece ever.  So I don’t know, it’s wise thing to devote the time and effort and things to make it work or you can go well.  I would really go for it and sometimes for months, sometimes for years.  It was either fired up pace or flat out running or it would be bringing back into a walk, but I never could jog.
+That’s the truth though __.  Yeah, never learned to hold my piece ever.
+So I don’t know, it’s wise thing to devote the time and effort
+and things to make it work or you can go well.
+I would really go for it and sometimes for months, sometimes for years.
+It was either fired up pace or flat out running
+or it would be bringing back into a walk, but I never could jog.
 
 *Interesting.
 
 It’s true.
 
-The loneliness of the long distance runner.  Wasn’t there a movie about that kind of a title, the loneliness of the long distance runner?
+The loneliness of the long distance runner.
+Wasn’t there a movie about that kind of a title,
+the loneliness of the long distance runner?
 
 *I don’t know.
 
-But at any rate, but I was saying that __ was captain of the long distance team there at Caltech.  I’m almost certain that he was captain.  That’s really a mind-blowing thing.  He was the captain of the team that did long distance running.  So then later on __ and then one of the things that we used to do was to run long miles on the days that weren’t as smoggy you could still breathe in the mountains behind JPL itself in the afternoon.  Behind JPL right __ where JPL is.  
+But at any rate, but I was saying that __ was captain
+of the long distance team there at Caltech.
+I’m almost certain that he was captain.
+That’s really a mind-blowing thing.
+He was the captain of the team that did long distance running.
+So then later on __ and then one of the things that we used to do
+was to run long miles on the days that weren’t as smoggy
+you could still breathe in the mountains behind JPL itself
+in the afternoon.  Behind JPL right __ where JPL is.  
 
-And a light plane crashed in that area, right at that more or less at that time. It was along the same road where a friend used to run.  We actually went up there to the plane and he wanted to talk to __.  He found where the guy had died upside down in a light plane crash in the bush.  He was really spooked by it.  It really bothered him and yet a little, just a few, __ was in just a couple of years when he was caught in a __.
+And a light plane crashed in that area, right at that more or less at that time.
+It was along the same road where a friend used to run.
+We actually went up there to the plane and he wanted to talk to __.
+He found where the guy had died upside down in a light plane crash in the bush.
+He was really spooked by it.  It really bothered him
+and yet a little, just a few, __ was in just a couple of years
+when he was caught in a __.
 
-And the thing is is that now __ they had a commercial program of plane, what was it?  DC-something got into a cat type situation and they had to, it took all the __ smashed, shattered the windows for the pilot to see __.  Did you see that one?
+And the thing is is that now __ they had a commercial program of plane,
+what was it?  DC-something got into a cat type situation
+and they had to, it took all the __ smashed, shattered the windows
+for the pilot to see __.  Did you see that one?
 
 *No.
 
-At any rate, when the pilot finally got back, he had to land with absolutely no instruments, no __ or anything, just be talked down to the ground.  Nothing was left together with the wind blowing in the side window that had been popped and blown completely out of the plane, and totally shattered windows that he just couldn’t see.  He landed that plane successfully and then described it.  Later on he took another plane that other passengers were offered and he was offered to make a __ flight by because they had to fly.  It turned out that he had been shot down twice in Vietnam.  They said that that __ was severe beyond anything of being shot down in the military plane.  So __ that happened to him twice and he got off to the ground successfully.  But that was another, that was a cat again.  Here it comes.  They dismantled the commercial plane from mid-air.  That happened just a few months ago.
+At any rate, when the pilot finally got back,
+he had to land with absolutely no instruments,
+no __ or anything, just be talked down to the ground.
+Nothing was left together with the wind blowing in the side window
+that had been popped and blown completely out of the plane,
+and totally shattered windows that he just couldn’t see.
+He landed that plane successfully and then described it.
+Later on he took another plane that other passengers were offered
+and he was offered to make a __ flight by because they had to fly.
+It turned out that he had been shot down twice in Vietnam.
+They said that that __ was severe beyond anything of being shot down
+in the military plane.
+So __ that happened to him twice and he got off to the ground successfully.
+But that was another, that was a cat again.
+Here it comes.  They dismantled the commercial plane from mid-air.
+That happened just a few months ago.
 
-*Just before I left, I got a copy of the Science News and the cover of it is about air tremors, so it’s about this very topic.
+*Just before I left, I got a copy of the Science News
+and the cover of it is about air tremors, so it’s about this very topic.
 
-You know it was Science News that used to go up and into the thing, Scientific American, Science News.  I used to really love them but it’s overload so I just can’t do that any more.  It was really neat to follow the kind of articles.  Science News used to produce the summary articles to stay on top.  The broad sweep of things __ science summary thing that I ever had.
+You know it was Science News that used to go up and into the thing,
+Scientific American, Science News.  I used to really love them
+but it’s overload so I just can’t do that any more.
+It was really neat to follow the kind of articles.
+Science News used to produce the summary articles to stay on top.
+The broad sweep of things __ science summary thing that I ever had.
 
 *Yeah, I like it a lot.
 
 Tragedy
 
-My good friend, Bill Pilkington, who was my boss in building Explorer satellites.  At the end of the 60s, he decided to fly his family and brother.  He decided to rent a light plane because he was a pilot.  He always seemed to keep some hours going.  Because he had his family and kids and wife and brother, he was being super careful.  He was the kind of guy that sometimes sort of pushed the limits of what he could maybe do just for excitement. But this time he was playing everything by the rules, and he was flying into O’Hare Airport in Chicago.
+My good friend, Bill Pilkington, who was my boss in building Explorer satellites.
+At the end of the 60s, he decided to fly his family and brother.
+He decided to rent a light plane because he was a pilot.
+He always seemed to keep some hours going.
+Because he had his family and kids and wife and brother,
+he was being super careful.
+He was the kind of guy that sometimes sort of pushed the limits
+of what he could maybe do just for excitement.
+But this time he was playing everything by the rules,
+and he was flying into O’Hare Airport in Chicago.
 
-There had been some thunderstorms that had just cleared.  A large jumbo jet had just taken off.   Bill went between the two places, the thunderstorm and in the wake of the jumbo jet, and hit a clear turbulence.  The witnesses on the ground said they thought the plane just totally dismantled in mid-air, turned to shreds in mid-air.  Sometimes clear turbulence can be dangerous, where you’re playing everything by the rules.  He was just 10 minutes behind the take-off of a big jumbo jet at the time and was cleared to come in behind it.  And he was doing the thing of staying away from the building thunderclouds.
+There had been some thunderstorms that had just cleared.
+A large jumbo jet had just taken off.
+Bill went between the two places, the thunderstorm and in the wake
+of the jumbo jet, and hit a clear turbulence.
+The witnesses on the ground said they thought the plane just totally
+dismantled in mid-air, turned to shreds in mid-air.
+Sometimes clear turbulence can be dangerous,
+where you’re playing everything by the rules.
+He was just 10 minutes behind the take-off of a big jumbo jet
+at the time and was cleared to come in behind it.
+And he was doing the thing of staying away from the building thunderclouds.
 
-There was very unstable air, where you just pop up and go to 40,000 feet instantly.  Clear turbulence just dismantled his plane in mid-air completely, came down in shreds.  His wife—who was neat—his children, who I used to love to crawl back and forth—three children, a girl and a newborn, and his brother—all killed.  What a mind-boggling loss to his family.  Just mind-boggling to everybody.  I just decided I couldn’t deal with my grief.  I broke up, I thought I had a disease.  I just broke out with this nervous type thing where your nerves interact with your skin, and it just fell off in chunks.  It was incredibly painful and everything.  I’ve never known such pain in my entire life.  That was the end of JPL.
+There was very unstable air, where you just pop up and go to 40,000 feet instantly.
+Clear turbulence just dismantled his plane in mid-air completely,
+came down in shreds.
+His wife—who was neat—his children, who I used to love to crawl back
+and forth—three children, a girl and a newborn, and his brother—all killed.
+What a mind-boggling loss to his family.
+Just mind-boggling to everybody.
+I just decided I couldn’t deal with my grief.
+I broke up, I thought I had a disease.
+I just broke out with this nervous type thing
+where your nerves interact with your skin,
+and it just fell off in chunks.
+It was incredibly painful and everything.
+I’ve never known such pain in my entire life.
+That was the end of JPL.
 
-Talk about ___ ever, ever, with anybody like if I described the satellite things ___.  The other thing is Bill Pilkington’s death that ___ go through in my life.  It is really important and helpful to talk about him, and it’s real nice to have this stuff documented somewhere.  He was such an incredibly neat guy.
+Talk about ___ ever, ever, with anybody like if I described the satellite things ___.
+The other thing is Bill Pilkington’s death that ___ go through in my life.
+It is really important and helpful to talk about him,
+and it’s real nice to have this stuff documented somewhere.
+He was such an incredibly neat guy.
 
-OK, actually I talked about before, and now what I talked about it, and usually I have to re-emphasize the fact that Bill Pilkington who was my boss there, and I won’t do any more than just to mention the fact that I described the situations ___ before.  But it also meant that, that was the end of JPL, his death, and never did return, never did.
+OK, actually I talked about before, and now what I talked about it,
+and usually I have to re-emphasize the fact that Bill Pilkington
+who was my boss there, and I won’t do any more than just to mention
+the fact that I described the situations ___ before.
+But it also meant that, that was the end of JPL, his death,
+and never did return, never did.
 
-They were nice enough to send on to me various and varied things that I had written and classwork type things that I did.  JPL sent me a number of those from the lab later on, as sort of a keepsake.  They didn’t make ___ where essentially I knew ___ skyline into Silicon Valley at that time.
+They were nice enough to send on to me various and varied things
+that I had written and classwork type things that I did.
+JPL sent me a number of those from the lab later on,
+as sort of a keepsake.
+They didn’t make ___ where essentially I knew ___ skyline
+into Silicon Valley at that time.
 
-As I said repeatedly, Bill Pilkington was the best friend I ever had in my life.  His death and his family, kids, wife, daughter, everybody, was the most mindblowing experience I’ve ever had in my life.  Boy that hurt and it’s funny.  We had so much in common.
+As I said repeatedly, Bill Pilkington was the best friend I ever had in my life.
+His death and his family, kids, wife, daughter, everybody,
+was the most mindblowing experience I’ve ever had in my life.
+Boy that hurt and it’s funny.  We had so much in common.
 
 Present Time
 
-And so live goes.  And goes, and goes, and goes number on my toes.  Did you ever read any of the books?
+And so live goes.  And goes, and goes, and goes number on my toes.
+Did you ever read any of the books?
 
 *By Feller?
 
@@ -2058,4 +2402,5 @@ Pooh Corner and things like that.
 
 Pooh Corner?
 
-*But I don’t remember the words.  My brothers would know, because they’ve been reading them over and over in the past few years.
+*But I don’t remember the words.  My brothers would know,
+because they’ve been reading them over and over in the past few years.

@@ -2,27 +2,105 @@
 
 ## Computation and Biological Issues
 
-What I found was the 32 byte was just about the ideal dynamic range.  By the time that __ work, it __ made more sense to split the problem into more dimensions.  Consider for example a bark beetle flying between trees in the forest.  Let’s say you are finding one 32-byte integer for __ dimension, another 32-byte integer for a wide dimension.  Guess what?  __ but when you look at that particular problem you see the __ very different from the two-dimensional __.
+What I found was the 32 byte was just about the ideal dynamic range.
+By the time that __ work, it __ made more sense to split the problem into more dimensions.
+Consider for example a bark beetle flying between trees in the forest.
+Let’s say you are finding one 32-byte integer for __ dimension,
+another 32-byte integer for a wide dimension.
+Guess what?
+__ but when you look at that particular problem you see
+the __ very different from the two-dimensional __.
 
-It makes a __ the actual biology, where the trees are spaced __ the beetles were flying out of diseased, moving between the roots and __.  Consequently it made all sorts of sense to start adding other dimensions.  32-byte set __.  For example, in that case you would be adding a 32-byte number __ X __ Y __.  Many things would be approximate directions or approximate areas that you would need to be able to resolve.
+It makes a __ the actual biology, where the trees are spaced
+__ the beetles were flying out of diseased, moving between the roots and __.
+Consequently it made all sorts of sense to start adding other dimensions.
+32-byte set __.
+For example, in that case you would be adding a 32-byte number __ X __ Y __.
+Many things would be approximate directions or approximate areas
+that you would need to be able to resolve.
 
-It turned out that a better way of making use of that was simply to __ decide hexagonal system that was fit to be by biologists or the geologists or whatever.  It was picked by them to be appropriate.  You always __ well did they really need to be that small.  __ the precision in this direction or that direction and then you finally arrive at a reasonable value because __ they’ll say oh gee, a millimeter when it could have been a square meter.  There’s a big difference between a square millimeter and a square meter.  Man, do you have to do a lot of other calculations to __ what that does to the computer load.  This is again part of a value __ modeling and the person that is actually __ experience with problems in the real field, as a real biologist or a real geologist or a real chemist.  Real one.  Not theory ones.
+It turned out that a better way of making use of that was simply to __ decide hexagonal system
+that was fit to be by biologists or the geologists or whatever.
+It was picked by them to be appropriate.
 
-What you want to do then is use the __ just picking approximate.  This is just by the __ technique that we work off.  You can’t just tell it any old thing.  There are only certain things that biology do __ format __ and so that __ it’s almost a circle.  It’s __ circle than a square is and __ circles so then __ see where the roots are running underneath the tree.  Now __ of a circle than the damn roots are.  So again, it’s a choice.  Trying to get the maximum kickback in value in terms of ease of computation but in a very interactive process with actual biologists running real problems and with __ had a problem to come up in __ probably were different but could be attacked in a similar way. The same class of __ the problem down there than there was up here __ Mt. Shasta.  That’s the point I want to make very clear.  It’s very general in its approach.
+You always __ well did they really need to be that small.
+__ the precision in this direction or that direction
+and then you finally arrive at a reasonable value
+because __ they’ll say oh gee, a millimeter when it could have been a square meter.
+There’s a big difference between a square millimeter and a square meter.
+Man, do you have to do a lot of other calculations to __ what that does to the computer load.
+This is again part of a value __ modeling and the person that is actually __ experience
+with problems in the real field, as a real biologist or a real geologist or a real chemist.
+Real one.  Not theory ones.
 
-Myself in loops like that __ still have to get through __ and so on.  Along these lines was the fact that there was an incredibly large __ metric __ numerical process on our machine.  That’s why I got into the hexagons for approximate direction by just comparing magnitude which machines could do incredibly fast, even simple machines can do them incredibly fast.
+What you want to do then is use the __ just picking approximate.
+This is just by the __ technique that we work off.
+
+You can’t just tell it any old thing.
+There are only certain things that biology do __ format __ and so that __
+it’s almost a circle.
+It’s __ circle than a square is and __ circles so then __ see
+where the roots are running underneath the tree.
+Now __ of a circle than the damn roots are.
+So again, it’s a choice.
+Trying to get the maximum kickback in value in terms of ease of computation
+but in a very interactive process with actual biologists running real problems
+and with __ had a problem to come up in __ probably were different
+but could be attacked in a similar way.
+
+The same class of __ the problem down there than there was up here __ Mt. Shasta.
+That’s the point I want to make very clear.
+It’s very general in its approach.
+
+Myself in loops like that __ still have to get through __ and so on.
+Along these lines was the fact that there was an incredibly large
+__ metric __ numerical process on our machine.
+That’s why I got into the hexagons for approximate direction
+by just comparing magnitude which machines could do incredibly fast,
+
+even simple machines can do them incredibly fast.
 
 Holling
 
-That was also why Holling was so interested in that technique because he was just dying to have __ the process of trying to actually move real animals in real world.  From taking a hit, it was just incredible. 
+That was also why Holling was so interested in that technique
+because he was just dying to have __ the process of trying to actually
+move real animals in real world.
+From taking a hit, it was just incredible.
 
-The __ was really interested because it was hitting him the hardest right about instant in time.  It really is important on the one hand there would be some computational simplification to machine __ like that and yet tied into inaccuracy __ that’s really there in the real model.  It wasn’t until __ and other people like him came along much later.  That stuff was really neat, the fact that he began to look at the problem.
+The __ was really interested because it was hitting him the hardest
+right about instant in time.  It really is important on the one hand
+there would be some computational simplification to machine __ like that
+and yet tied into inaccuracy __ that’s really there in the real model.
+It wasn’t until __ and other people like him came along much later.
+That stuff was really neat, the fact that he began to look at the problem.
 
-We were __ by culling which again kills __ his detailed model that talks of the model of organisms.  As soon as he tried __ animals moving in real space, boy, and he was using trigonometric type functions __ and then plotting the results back onto a a 42 __ Tektronic storage tube.  Using APL to help him program some __ 4013 __.
+We were __ by culling which again kills __ his detailed model
+that talks of the model of organisms.
+As soon as he tried __ animals moving in real space, boy,
+and he was using trigonometric type functions __ and then plotting the results
+back onto a a 42 __ Tektronic storage tube.
+Using APL to help him program some __ 4013 __.
 
 *4013 or 4015?
 
-13--it was a smaller scale, not a big one.  That was already outrageously expensive enough for him at first __ of any graphics.  That was a small screen 13.  I was watching some of the grass grow.  As far as plots, that was really the first __ to actually try and model the actual movement __ behavior.  It was killing him.  That was sort of amusing.  Of all the pieces of model I __ the one that really appealed to him was the one with hexagonal __ approximation.  __ was very expensive and just a few simple addition, direction to comparison.  He didn’t need any more precision than we did.  Here __ having idea of __ open-ended __ mathematics, took me about __ functions.  He didn’t need that sort of precision any more than we did for the bark beetle thing.
+13--it was a smaller scale, not a big one.
+That was already outrageously expensive enough for him
+at first __ of any graphics.
+That was a small screen 13.
+I was watching some of the grass grow.
+As far as plots, that was really the first __ to actually try
+and model the actual movement __ behavior.
+It was killing him.
+That was sort of amusing.
+Of all the pieces of model I __ the one that really appealed to him
+was the one with hexagonal __ approximation.
+__ was very expensive and just a few simple addition,
+direction to comparison.
+He didn’t need any more precision than we did.
+Here __ having idea of __ open-ended __ mathematics,
+took me about __ functions.
+He didn’t need that sort of precision any more than we did
+for the bark beetle thing.
 
 *I’d be curious to find out if he’s still using that now.
 
@@ -34,43 +112,80 @@ No, he wanted to.
 
 *Oh, he wanted to.
 
-He wanted to because he was being killed too much by that regular thing __ costing __ algorithms actually running on some of the stuff.  No, he never moved out of the __.  Sort of like all the people that haven’t moved on from a normal distribution.  In some of the parts where I was describing __.  They were doing __ curves that just had sort of a bump in it.  Didn’t go to __, didn’t go to, especially didn’t go to, __ plus and minus __.
+He wanted to because he was being killed too much by
+that regular thing __ costing __ algorithms actually running on some of the stuff.
+No, he never moved out of the __.
+Sort of like all the people that haven’t moved on from a normal distribution.
+In some of the parts where I was describing __.
+They were doing __ curves that just had sort of a bump in it.
+Didn’t go to __, didn’t go to, especially didn’t go to, __ plus and minus __.
 
-There might be a bump from 0 to 10 or something.  At Riverside for a map __.  The problem __ generates that kind so fast __.
+There might be a bump from 0 to 10 or something.
+At Riverside for a map __.
+The problem __ generates that kind so fast __.
 
-Oh, another comment.  All this stuff at different times have been put on just about any machine in any computer language that was ever around, just any high level language __ to science and numerical type things.
+Oh, another comment.  All this stuff at different times have been put on
+just about any machine in any computer language that was ever around,
+just any high level language __ to science and numerical type things.
 
 ### Random Numbers
 
-Going back a ways to the Berkeley days, one of the critical things was the quality of the random number generators we used.  We spent a lot of time investigating random number generators.
+Going back a ways to the Berkeley days, one of the critical things
+was the quality of the random number generators we used.
+We spent a lot of time investigating random number generators.
 
 *I spent a lot of time investigating.
 
-OK, well, a lot of time was spent investigating random number generators and boy I remember we found some scary stuff.
+OK, well, a lot of time was spent investigating random number generators
+and boy I remember we found some scary stuff.
 
 *Like the Lawrence Livermore Lab one?
 
-Yeah, like the Lawrence Livermore Lab random number generator that was marginally the worst we discovered anywhere except for a couple of the algorithms Knuth had for random number generator that converged on a single number in three cycles.
+Yeah, like the Lawrence Livermore Lab random number generator
+that was marginally the worst we discovered anywhere
+except for a couple of the algorithms Knuth had for random number generator
+that converged on a single number in three cycles.
 
 *Yeah, but Knuth knew that already.
 
-Yeah, but he actually investigated and found that out.  He didn’t just use it arbitrarily.
+Yeah, but he actually investigated and found that out.
+He didn’t just use it arbitrarily.
 
 *Yeah, right.
 
-Yeah, that was some interesting work and I’ve talked to people about that since then and most of them sort of go, Huh?
+Yeah, that was some interesting work
+and I’ve talked to people about that since then
+and most of them sort of go, Huh?
 
-*Yeah, we never published that stuff.  Actually most of this stuff was never published.
+*Yeah, we never published that stuff.
+Actually most of this stuff was never published.
 
 That stuff I think is still publishable.
 
 *I think so too.
 
-I bet if you went out today, I mean if nobody said anything, I mean random number generators are like spread sheets, you know, computers.  You plug this stuff in, you believe the number you get out of it.  There’s a function, and it says it’s a sine function.  You expect to get back the real value of it.  When was the last time you checked the accuracy of the sine function coming out of your Pentium processor or your Power PC or you know your SPSS package.  You don’t check these things.  When was the last time you actually went and verified the numbers that came out of one of your statistical packages?  You don’t have time to.
+I bet if you went out today, I mean if nobody said anything,
+I mean random number generators are like spread sheets, you know, computers.
+You plug this stuff in, you believe the number you get out of it.
+There’s a function, and it says it’s a sine function.
+
+You expect to get back the real value of it.
+When was the last time you checked the accuracy of the sine function
+coming out of your Pentium processor or your Power PC
+or you know your SPSS package.
+
+You don’t check these things.
+When was the last time you actually went and verified the numbers
+that came out of one of your statistical packages?
+
+You don’t have time to.
 
 *I do graphical checks.
 
-Yeah, well you learned that from doing.  I mean at least you can look at it and say does this make sense, and you have some feel for it.  But things like the random number generators you can’t do that.
+Yeah, well you learned that from doing.
+I mean at least you can look at it and say does this make sense,
+and you have some feel for it.
+But things like the random number generators you can’t do that.
 
 *Bland taught me about looking at a number of points that are near each other and see what’s the next point generated from there which is really a smart way to do it because it’s not so much the series that gets developed.  It’s whether, if you end up near, if you end up in some region, how predictable is the next point?  Yeah, do you get dispersion from there?  Which it didn’t with the Livermore.
 
@@ -82,85 +197,235 @@ Yeah, and we were predicting, I mean they’re using something this bad to predi
 
 *Fallout.
 
-Fallout, or actually internals and nuclear reactions.  Do I believe the results of this?  And nobody has ever questioned it.  I’m not sure anybody really wanted to know the answer but that may be a different problem.  Fortunately we’ve never had to test most of these I guess, but I mean that kind of stuff would just.  He looked into everything.
+Fallout, or actually internals and nuclear reactions.
+Do I believe the results of this?
+And nobody has ever questioned it.
+I’m not sure anybody really wanted to know the answer
+but that may be a different problem.
+Fortunately we’ve never had to test most of these I guess,
+but I mean that kind of stuff would just.
+He looked into everything.
 
-*Yeah, sometimes it seems like he looked in, like he was too much of a perfectionist on this stuff.
+*Yeah, sometimes it seems like he looked in,
+like he was too much of a perfectionist on this stuff.
 
 Yeah, except that for the kind of modeling he wanted to do.
 
 *Well, you needed to have a large number.
 
-You needed to know that that was going to work.  I mean really all he was doing was sensitivity analysis on his models.
+You needed to know that that was going to work.
+I mean really all he was doing was sensitivity analysis on his models.
 
 *That’s true.
 
-I mean he was smart enough to ask, is my model sensitive to the quality of the random number generator?  You know, what does that mean?  What is a good one?  What isn’t a good one?  Because it would have been very sensitive to that.
+I mean he was smart enough to ask,
+"is my model sensitive to the quality of the random number generator?"
+
+You know, what does that mean?
+What is a good one?
+What isn’t a good one?
+Because it would have been very sensitive to that.
 
 *Yeah, and you wouldn’t know it.
 
-And now it may well be that for, you know, Lawrence Berkeley Labs or for other people, their model isn’t sensitive to that, so it shouldn’t be somewhere you spend a lot of time on.  On the other hand, it was so easy to make it good that it’s like why don’t you make it good and then you don’t have to worry?  You know what I mean?
+And now it may well be that for, you know,
+Lawrence Berkeley Labs or for other people,
+their model isn’t sensitive to that,
+so it shouldn’t be somewhere you spend a lot of time on.
+On the other hand, it was so easy to make it good
+that it’s like why don’t you make it good
+and then you don’t have to worry?
+
+You know what I mean?
 
 *But then they couldn’t repeat the same stuff they’d done before.
 
-Yeah, but if it wasn’t done right, why would you want, yeah I know, I know.  I have a few books in my library that I’m proud of that were, that I basically took from Bland.  This is one of them.  It’s good.  You may not be able to find it.
+Yeah, but if it wasn’t done right, why would you want,
+yeah I know, I know.
+I have a few books in my library that I’m proud of
+that were, that I basically took from Bland.
+This is one of them.
+It’s good.
+You may not be able to find it.
 
 *If I can’t find it, I’ll let you know.
 
-But it’s certainly an interesting tome.  I actually had a couple of books on numerical algorithms and some other stuff that I had around for years when I was still programming.  I ended up passing on to Powells or whomever.
+But it’s certainly an interesting tome.
+I actually had a couple of books on numerical algorithms
+and some other stuff that I had around for years
+when I was still programming.
+I ended up passing on to Powells or whomever.
 
 *Nice book.
 
 ### Stereo Pairs
 
-*Yeah.  I remember you had some code to do stereo pairs in APL.  Remember that?  It was about 10 lines of code, maybe 15, to do stereo pairs.  Completely general.
+*Yeah.  I remember you had some code to do stereo pairs in APL.
+Remember that?
+It was about 10 lines of code, maybe 15, to do stereo pairs.
+Completely general.
 
-Yeah, and it took the data and bend it around and made it into a three-dimensional display and then you look under the ___ magnifying mirrors and it logged in three dimensions.  Just like their own, so it did.  And that’s where I found that it made a difference ___ true you know problems and errors in the mathematics and things ___ on a single ___ or doing this on ___ that have ___ same program and why did the projection all along’s a curve and they would, depending on their orientation, the ones that were vert, near vertical hardly curved at all and the ones that were horizontal would curve terribly.
+Yeah, and it took the data and bend it around and made it into a three-dimensional display
+and then you look under the ___ magnifying mirrors
+and it logged in three dimensions.
+Just like their own, so it did.
+And that’s where I found that it made a difference
+___ true you know problems and errors in the mathematics
+and things ___ on a single ___ or doing this on ___ that have ___ same program
+and why did the projection all along’s a curve
+and they would, depending on their orientation,
+ the ones that were vert, near vertical hardly curved at all
+and the ones that were horizontal would curve terribly.
 
-And so it turned out that, it turned out that the plotter actually was on a speck and one of the ___ was bent and because it was bent it was drawing curves rather than straight lines, and because of the fineness of the perception you’d never know that if it wasn’t in the midst of a three-dimensional deal, a two-dimensional data using the stereoscopic ability of the human eye and brain, which are only now being unravelled in any degree at all.  It was absolutely incredible to see this Rover thing up there.  This guy wearing these goggles so he could see it all in 3-D ___.
+And so it turned out that, it turned out that the plotter actually was on a speck
+and one of the ___ was bent
+and because it was bent it was drawing curves rather than straight lines,
+and because of the fineness of the perception
+you’d never know that if it wasn’t in the midst of a three-dimensional deal,
+a two-dimensional data using the stereoscopic ability of the human eye and brain,
+which are only now being unravelled in any degree at all.
+It was absolutely incredible to see this Rover thing up there.
+This guy wearing these goggles so he could see it all in 3-D ___.
 
 *That’s pretty wild.
 
-So there were things like that also that you look back into and actually ___ innocence, just a few lines of code if you get the right __ and the right math could do incredible things for you, and almost all the program was preprocessing data to get it from the old Hollerist cards that everything was punched on at that time into a form that could be ___, the actual transformation as I remember it was a single line of APL code and that had to be modified to rescale and then it finally had to be reworked so it talked into the language of a Hewlett Packard printer, to the outside world.  Those are the last lines.  So maybe the testing lines a codal ___ but only ___ did the transformation.  So one way ___ half a dozen lines, to get the forestry type data form from the Hollerist cards in and what would be read on the super computer and others from Hollerist cards and they’re key punched up, which all of the ___ data was recorded and perhaps 10 lines to control the plotter on the outside.  That was it.
+So there were things like that also that you look back into and actually ___ innocence,
+just a few lines of code if you get the right __ and the right math
+could do incredible things for you,
+and almost all the program was preprocessing data
+to get it from the old Hollerist cards that everything was punched on at that time
+into a form that could be ___, the actual transformation as I remember it
+was a single line of APL code
+and that had to be modified to rescale
+and then it finally had to be reworked so it talked
+into the language of a Hewlett Packard printer,
+to the outside world.  Those are the last lines.
+So maybe the testing lines a codal ___ but only ___ did the transformation.
+So one way ___ half a dozen lines, to get the forestry type data form
+from the Hollerist cards in and what would be read on the super computer
+and others from Hollerist cards and they’re key punched up,
+which all of the ___ data was recorded
+and perhaps 10 lines to control the plotter on the outside.
+That was it.
 
 *Very elegant.
 
-The thing is that these little scales that were necessary to recalibrate the tension of the cables that were in the plotter, they were curved, and all of the curves going, if you look at the data just ___ or its isolated data, was absolutely fine.  It was only just a little bit off back because ___ Hewlett-Packard made the changes for free but those I would need to be able to correct myself, all the changes inside the plotter __ right so the lines looked straight and they did, and everything worked perfectly afterwards.  If you remember that that __ groups of data like something that was floating inside a cube faced, you know, it was just like two random things yet the stuff was, the problems went away.  So Peter sent me that ___.
+The thing is that these little scales that were necessary to recalibrate
+the tension of the cables that were in the plotter,
+they were curved,
+and all of the curves going, if you look at the data just ___ or its isolated data,
+was absolutely fine.
+It was only just a little bit off back because ___ Hewlett-Packard made the changes for free
+but those I would need to be able to correct myself,
+all the changes inside the plotter __ right so the lines looked straight
+and they did, and everything worked perfectly afterwards.
+If you remember that that __ groups of data
+like something that was floating inside a cube faced, you know,
+it was just like two random things
+yet the stuff was, the problems went away.
+So Peter sent me that ___.
 
 *Peter Rausch?
 
-Yeah, because he said nobody else is going to be using this stuff, and we’re dumping all the last, the very last of the stuff, from that project in __, that was ___.  What was the name of the Blodgett Forest research area, partly?
+Yeah, because he said nobody else is going to be using this stuff,
+and we’re dumping all the last, the very last of the stuff,
+from that project in __, that was ___.
+What was the name of the Blodgett Forest research area, partly?
 
 *Pacific Southwest.  The PSW, Pacific Southwest Forest Service.
 
 Yeah, this is all the stuff I did for the forest service.
 
-Now he went off on a lot of tangents.  He did in terms of data representation.  I mean he was always amazing me with what he was trying to do.  I had never seen stereo photography before.  He used stereo glasses to look at aerial imaging and played with that.
+Now he went off on a lot of tangents.
+He did in terms of data representation.
+I mean he was always amazing me with what he was trying to do.
+I had never seen stereo photography before.
+He used stereo glasses to look at aerial imaging and played with that.
 
-Given that I went off into computing directly and got out of biology, that was a whole different very good tangent for me.  Bland was doing things like taking stereo imaging, taking these aerial photographs, looking at them with stereo viewers and then figuring out how to take experimental data and plot it as bar graphs but they’re three-dimensional.  Positioning the images as overlays so you could look through the stereo glasses and see the data for a site growing out of the location where the site was as an overlay.
+Given that I went off into computing directly and got out of biology,
+that was a whole different very good tangent for me.
+Bland was doing things like taking stereo imaging,
+taking these aerial photographs, looking at them with stereo viewers
+and then figuring out how to take experimental data and plot it as bar graphs
+but they’re three-dimensional.
+Positioning the images as overlays so you could look through the stereo glasses
+and see the data for a site growing out of the location where the site was as an overlay.
 
-This was, I was absolutely boggled.  I mean intellectually I could say, yeah, you can do this computation.  But of course Bland was doing his three lines of APL or something like that.
+This was, I was absolutely boggled.
+I mean intellectually I could say, yeah, you can do this computation.
+But of course Bland was doing his three lines of APL or something like that.
 
 *Yeah, I wish I could find that APL.  I think it’s lost.
 
-The amazing thing about it to me is he’s the only person I ever knew that thought in APL.  All the other languages were a challenge for him because they just wasn’t the way he worked on the world.  He probably thought in something better, actually a lot cleaner than APL but that was the closest anybody’s ever come to a notation that he worked with.  I’d taken an APL class or two before that but he was really the first one that ever demonstrated to me the relevance or the power of it.  Now I don’t have APL on my Mac now.  I believe it’s available but I think that’s one of those languages, one of those notations that can be used effectively by a hundredth of a percent of the people in the world because they’re the only ones that think that way.  And for them there’s nothing better.
+The amazing thing about it to me is he’s the only person I ever knew that thought in APL.
+All the other languages were a challenge for him
+because they just wasn’t the way he worked on the world.
+He probably thought in something better, actually a lot cleaner than APL
+but that was the closest anybody’s ever come to a notation that he worked with.
+I’d taken an APL class or two before that
+but he was really the first one that ever demonstrated to me the relevance or the power of it.
+Now I don’t have APL on my Mac now.
+I believe it’s available
+but I think that’s one of those languages, one of those notations
+that can be used effectively by a hundredth of a percent of the people in the world
+because they’re the only ones that think that way.
+And for them there’s nothing better.
 
-It was actually a complicated process of getting the stereo images, being able to digitize the locations on them to the point where you could put the data down in the right spot and then overlay it appropriately.  Digitizing the images even just to get an XY coordinate for the location was a mess.  All in all it was a great idea and it was feasible.  It just didn’t pan out because of logistics is my guess. I don’t even know who else would have seen it except for people in Wood’s lab.
+It was actually a complicated process of getting the stereo images,
+being able to digitize the locations on them to the point where you could put the data down
+in the right spot and then overlay it appropriately.
+Digitizing the images even just to get an XY coordinate for the location was a mess.
+All in all it was a great idea and it was feasible.
+It just didn’t pan out because of logistics is my guess.
+I don’t even know who else would have seen it except for people in Wood’s lab.
 
 *Yeah, it didn’t get a whole lot of press.
 
-It didn’t get any press within the integrated pest management stuff, especially with the bark beetle stuff.  I’m sure that even in that group it didn’t get much press.
+It didn’t get any press within the integrated pest management stuff,
+especially with the bark beetle stuff.
+I’m sure that even in that group it didn’t get much press.
 
 *I saw it and you saw it.
 
 ### Zeiss Microscope / Optics / Stereo Pairs
 
-So what I want to clarify is that things like the measurement tools that I have in there that I showed you came much later on when Peter Rauch let me know that that stuff was the last pieces of that whole research project ___.  He was hanging onto that ___ the three dimensional graphics and that ___.  But they were finally getting rid of it.  He thought that I might be interested in having those because nobody had used them ___. It was sort of a momento, gee how do you fix the ___ even work ___ being done.  Because officially if you weren’t presenting ___ there was no such precision that was needed.
+So what I want to clarify is that things like the measurement tools
+that I have in there that I showed you came much later on
+when Peter Rauch let me know that that stuff was the last pieces
+of that whole research project ___.  He was hanging onto that
+___ the three dimensional graphics and that ___.  But they were finally
+getting rid of it.  He thought that I might be interested in having those
+because nobody had used them ___. It was sort of a momento,
+gee how do you fix the ___ even work ___ being done.
+Because officially if you weren’t presenting ___ there was no such precision
+that was needed.
 
-And here I thought you needed ___ where it was this piece of a visual system, of a human visual system for three-dimensional ___ sure be straight lines and ___ line for a curve and so on.  And that’s exactly the thing that happened.  ___ APL much later and so, but didn’t ___ and so on.  
+And here I thought you needed ___ where it was this piece of a visual system,
+of a human visual system for three-dimensional ___ sure be straight lines
+and ___ line for a curve and so on.  And that’s exactly the thing that happened.
+___ APL much later and so, but didn’t ___ and so on.
 
-At JPL, I developed techniques for doing class, going under a stereo microscope so I could build, by blowing under a ___ microscope ___ pieces of capillary tubing, tenth millimeter ___ where you laid in a connecting piece of silver that was ultrafused into a break in the capillary.  You had to ___ back under a flame and yet you have it come to the place where the thing would actually break and do the thing.  I used to be able to make, by doing it under a stereo microscope that I used to have.  I got the lab into using ___ because I loved them so much and it was. I was able to do ___ in tenth millimeter things where you’d run mercury down the thing.  It would pick up the connection, and yet no offset and with a good thing.
+At JPL, I developed techniques for doing class, going under a stereo microscope
+so I could build, by blowing under a ___ microscope ___ pieces of capillary tubing,
+tenth millimeter ___ where you laid in a connecting piece of silver
+that was ultrafused into a break in the capillary.  You had to ___ back under a flame
+and yet you have it come to the place where the thing would actually break
+and do the thing.  I used to be able to make, by doing it under a stereo microscope
+that I used to have.  I got the lab into using ___ because I loved them so much
+and it was. I was able to do ___ in tenth millimeter things
+where you’d run mercury down the thing.  It would pick up the connection,
+and yet no offset and with a good thing.
 
-JPL sent me a number of those from the lab later on, as sort of a keepsake.  They didn’t make ___ where essentially I knew ___ skyline into Silicon Valley at that time.  I dropped off all the past history ___.  I gave all my books to people like Hillary and things like that and ___. I gave my stereo microscope to Hillary too.  Before I used to help people like Nancy with her school and the maintenance of the stereo microscope. I sort of follow an optical that bent the things that I was working with where you should do repair work on stereo microscopes for people.  So I repaired her ones that were damaged in the fire at the school, got them back working again.
+JPL sent me a number of those from the lab later on, as sort of a keepsake.
+They didn’t make ___ where essentially I knew ___ skyline into Silicon Valley at that time.
+I dropped off all the past history ___.  I gave all my books to people like Hillary
+and things like that and ___. I gave my stereo microscope to Hillary too.
+Before I used to help people like Nancy with her school
+and the maintenance of the stereo microscope.
+I sort of follow an optical that bent the things that I was working with
+where you should do repair work on stereo microscopes for people.
+So I repaired her ones that were damaged in the fire at the school,
+got them back working again.
 
 *Nancy out of Bolinas?
 
@@ -168,39 +433,133 @@ Yeah.
 
 *Yeah, the Bolinas School, yeah.  So when did you spend time out in Stinson and Bolinas?
 
-*Can you describe that microscope because I didn’t get that on tape?  We were in the car last night.  So this is the Zeiss.
+*Can you describe that microscope because I didn’t get that on tape?
+We were in the car last night.  So this is the Zeiss.
 
-B:  Yeah, it was Zeiss stereo microscope, where Zeiss pioneered the idea.  Instead of using two separate objectives that were aimed sort of at the same plane, see I’ll point my fingers like this, with a complete separate optical system on each.  Which meant that you had two fields that were magnifying but when you looked at the place where the planes of sharpness really didn’t match because they were tipped to each other say 15 degrees or whatever.  Your stereo view.
+B:  Yeah, it was Zeiss stereo microscope, where Zeiss pioneered the idea.
+Instead of using two separate objectives that were aimed sort of at the same plane,
+see I’ll point my fingers like this, with a complete separate optical system on each.
+Which meant that you had two fields that were magnifying
+but when you looked at the place where the planes of sharpness
+really didn’t match because they were tipped to each other
+say 15 degrees or whatever.  Your stereo view.
 
-The Zeiss people—this was early on, the work was originally done just about the war time and then the group that got spun out, the group that formed the company that then fought __ Zeiss but in Germany, outside of Russia.  They figured that gee, if we could put the large objective, corrected for infinity and corrected so on one side __ infinity __ and it was a sharp focus, say 3 inches or 4 inches, but big.  Like 60 mm or 80 mm in diameter.  Then they could put parallel optics behind it and then by slipping the direction the optics would look through, they could change magnification, either smaller or larger depending, sort of like.  Have you ever turned a prism(?) box around backwards and looked through?
+The Zeiss people—this was early on, the work was originally done
+just about the war time and then the group that got spun out,
+the group that formed the company that then fought __ Zeiss
+but in Germany, outside of Russia.  They figured that gee,
+if we could put the large objective, corrected for infinity
+and corrected so on one side __ infinity __ and it was a sharp focus,
+say 3 inches or 4 inches, but big.  Like 60 mm or 80 mm in diameter.
+Then they could put parallel optics behind it
+and then by slipping the direction the optics would look through,
+they could change magnification, either smaller or larger depending,
+sort of like.  Have you ever turned a prism(?) box around backwards and looked through?
 
 *Yes.
 
-B:  You have an incredibly bright field and sharp, where everything is sharp and also has a very broad field.  They realized that you have used the single optics in the optical path, if you correct it for infinity and __ made it parallel __ by just slipping the end that you look at through.  So you use the same corrected optics in one direction and magnified the other direction it shrank the field, making things less magnified.  They found that if they did some very fancy—so that was the first company to ever do that kind of design.  It was copied later on up the zagitch, but that microscope was the first one that ever did that.  Ever.
+B:  You have an incredibly bright field and sharp,
+where everything is sharp and also has a very broad field.
+They realized that you have used the single optics in the optical path,
+if you correct it for infinity and __ made it parallel __
+by just slipping the end that you look at through.
+So you use the same corrected optics in one direction
+and magnified the other direction it shrank the field,
+making things less magnified.
+They found that if they did some very fancy—
+so that was the first company to ever do that kind of design.
+It was copied later on up the zagitch,
+but that microscope was the first one that ever did that.  Ever.
 
-The other thing they did is they realized that they needed to invert the image __ back up __ so you wouldn’t have a reverse image either.  If you did this to a bunch of optics, which is what people often did at that time, even the magnifying telescope in the other room that uses a whole section in the middle of it of optics where they just modify the way that the thing works.  But shifting the way the optics to flip image in the middle of the thing __ prism.  The only problem this meant that really foul up the image and it nearly __ but it had the advantage of being cheap.  And it doesn’t extend outside the edge.
+The other thing they did is they realized that they needed to invert the image __ back up __
+so you wouldn’t have a reverse image either.
+If you did this to a bunch of optics, which is what people often did at that time,
+even the magnifying telescope in the other room that uses a whole section in the middle of it of optics
+where they just modify the way that the thing works.
+But shifting the way the optics to flip image in the middle of the thing __ prism.
+The only problem this meant that really foul up the image and it nearly __
+but it had the advantage of being cheap.
+And it doesn’t extend outside the edge.
 
-What German Zeiss did was they shaded that __ for a very elaborate __ sort of like the __ single lens reflexes used today.  And in a path.  So they did both __ and do it all on one piece of glass and they wouldn’t even need two chunks of glass like power prisms.  So not only did they flip it by using one chunk of glass, it was one of the first __ sort of a __ prism like design for shifting.  And then what they did was they put in huge optics up the tube to keep all the wide field that the machine could potentially handle.  That was another thing.  You hang onto wide optics means you got a big optics and in the intermediate places to hold onto your whole field of view.
+What German Zeiss did was they shaded that __ for a very elaborate __
+sort of like the __ single lens reflexes used today.
+And in a path.
+So they did both __ and do it all on one piece of glass
+and they wouldn’t even need two chunks of glass like power prisms.
+So not only did they flip it by using one chunk of glass,
+it was one of the first __ sort of a __ prism like design for shifting.
+And then what they did was they put in huge optics up the tube
+to keep all the wide field that the machine could potentially handle.
+That was another thing.
 
-Only recently are companies going in that direction of very wide field view instruments with big optics in the middle.  But before things used to be real shrunk down.  That’s why optics used to be designed, you’d have very narrow field __ binocular.  So what they did was to keep everything wide view and then they put the final like 10 power magnifiers at the end.  Anyway, so they __ all of these areas __ microscope, that has a sort of __ people were __ about the I-neck and how it caught people’s eye because it was so uniquely designed.  This had the same kind of __ beautifully designed.  Every piece of it I thought was all thought out and done.  No shortcuts anywhere and pioneered every one of these __.
+You hang onto wide optics means you got a big optics
+and in the intermediate places to hold onto your whole field of view.
 
-It meant also that I could sit down at that instrument and use it hour after hour after hour.  I have a very stereo view in my head, very very stereoscopic view of the universe up there and I find that when I use a monocular microscope or a monocular telescope, I end up with really bad headaches.  I can’t trade eyes or anything and not get a really severe headache.  It’s like my whole __ really designed bottom level to be stereo.  It turns out that not only can __ generate patterns like that first thing.  What was that guy that did that work where they did that, stereograms that were totally randomized, displace it?
+Only recently are companies going in that direction
+of very wide field view instruments with big optics in the middle.
+But before things used to be real shrunk down.
+That’s why optics used to be designed,
+you’d have very narrow field __ binocular.
+So what they did was to keep everything wide view
+and then they put the final like 10 power magnifiers at the end.
+Anyway, so they __ all of these areas __ microscope,
+that has a sort of __ people were __ about the I-neck
+and how it caught people’s eye because it was so uniquely designed.
+This had the same kind of __ beautifully designed.
+Every piece of it I thought was all thought out and done.
+No shortcuts anywhere and pioneered every one of these __.
+
+It meant also that I could sit down at that instrument
+and use it hour after hour after hour.
+I have a very stereo view in my head,
+very very stereoscopic view of the universe up there
+and I find that when I use a monocular microscope
+or a monocular telescope, I end up with really bad headaches.
+I can’t trade eyes or anything and not get a really severe headache.
+It’s like my whole __ really designed bottom level to be stereo.
+It turns out that not only can __ generate patterns like that first thing.
+What was that guy that did that work
+where they did that, stereograms that were totally randomized, displace it?
 
 *Yeah.
 
-B:  I have the book in there.  That was pioneering work __ too.  He also had on the shelf for those stereograms that about 10% of the population doesn’t see stereoscopically, have no stereo vision at all, and it’s only until completely random patterns were available, computer __ control where the little dots end.  Boy, would that be a job to do by hand.  How would you ever?  Do you remember the number of things that we tried to pull it out by hand, and the places where we had finally got the computer __.  A bit of labor difference.  So can you imagine doing those stereograms in there by hand?
+B:  I have the book in there.  That was pioneering work __ too.
+He also had on the shelf for those stereograms
+that about 10% of the population doesn’t see stereoscopically,
+have no stereo vision at all, and it’s only until completely random patterns
+were available, computer __ control where the little dots end.
+Boy, would that be a job to do by hand.
+How would you ever?  Do you remember the number of things
+that we tried to pull it out by hand,
+and the places where we had finally got the computer __.
+A bit of labor difference.
+So can you imagine doing those stereograms in there by hand?
 
 *On on one of those Calcomp plotters.
 
-B:  Yeah, even that would be quite a job.  But can you imagine trying to plot those things out by hand like where our hand plotting for the __ system.
+B:  Yeah, even that would be quite a job.
+But can you imagine trying to plot those things out by hand
+like where our hand plotting for the __ system.
 
 *No way.
 
-B:  So in a way this computer graphics stuff and the computer __ do a very precise description of this stuff __ hey 10% of the population doesn’t see stereoscopically.  Maybe a few percent sort of marginal.  Other people have very good stereoscopic view.  For the other say 90% of the population, you will find them in jobs __ of doing photo interpretation work where they had to wear stereograms.  For meeting all sorts of people there at the photo service when we were doing those first plotting, other than, yeah that’s the whole job __ stereo projector.
+B:  So in a way this computer graphics stuff
+and the computer __ do a very precise description of this stuff
+__ hey 10% of the population doesn’t see stereoscopically.
+Maybe a few percent sort of marginal.
+Other people have very good stereoscopic view.
+For the other say 90% of the population,
+you will find them in jobs __ of doing photo interpretation work
+where they had to wear stereograms.
+For meeting all sorts of people there at the photo service
+when we were doing those first plotting,
+other than, yeah that’s the whole job __ stereo projector.
 
 *Right, I remember those machines.
 
-B:  At the same time, it was very interesting then to see if you could create our own stereograms and actually we got one up and running in APL.
+B:  At the same time, it was very interesting then to see
+if you could create our own stereograms
+and actually we got one up and running in APL.
 
 *Yeah, I remember that.  I wish I could find that code.
 
@@ -208,11 +567,26 @@ B:  I think all the stereogram part was about 3 lines of code.
 
 *That’s right.
 
-B:  All of the stereogram part was 3 lines of code.  And all the lead into it was preprocessing data and all that lead out of it was manual so you could tie it to the old Hewlett Packard plotter that we were going up to for plotting stuff.  So all the other lines either were grabbing data base stuff for us from our own files of data, or it was taking the stuff out to the plotter. But as I remember, it was 3 lines of code that did all that stereographic work.
+B:  All of the stereogram part was 3 lines of code.
+And all the lead into it was preprocessing data
+and all that lead out of it was manual
+so you could tie it to the old Hewlett Packard plotter
+that we were going up to for plotting stuff.
+So all the other lines either were grabbing data base stuff for us
+from our own files of data, or it was taking the stuff out to the plotter.
+But as I remember, it was 3 lines of code
+that did all that stereographic work.
 
 *Yeah, the whole thing was about half a page.
 
-B:  Yeah.  So that was also the sort of things that I always enjoyed doing.  It was kind of a trip.  But also so that gives you sort of the reason it was sort of fun to give, that’s what __ years ago I gave it to Hilary when we got the divorce because Hilary was such a neat person.  Love her so dearly.  And then when she finally, she __ directions.  At this point __ for the biology class over there at Bolinas.  I guess __ she took it over there that day.  So that’s fun to have things like that in places like.
+B:  Yeah.  So that was also the sort of things that I always enjoyed doing.
+It was kind of a trip.  But also so that gives you sort of the reason
+it was sort of fun to give, that’s what __ years ago I gave it to Hilary
+when we got the divorce because Hilary was such a neat person.
+Love her so dearly.  And then when she finally, she __ directions.
+At this point __ for the biology class over there at Bolinas.
+I guess __ she took it over there that day.
+So that’s fun to have things like that in places like.
 
 *So she took it over, she went over at 8:00 in the morning and.
 
@@ -220,47 +594,144 @@ B:  The whole class was there when they weren’t supposed to be there until 8:3
 
 *Good surprise.  That’s great.  That’s a nice story.
 
-B: Because of what I just described, they really were blown away.  That was the pioneering thing that single optic design of a parallel axis thing.  You got __ one plane that everything is looking in, and then you’re looking through it from the distance as if you were looking through an ordinary pair of really __ binoculars.  So it was just like using a high grade quality binoculars except you’re using a stereogram.
+B: Because of what I just described, they really were blown away.
+That was the pioneering thing that single optic design
+of a parallel axis thing.  You got __ one plane
+that everything is looking in, and then you’re looking through it
+from the distance as if you were looking through an ordinary pair
+of really __ binoculars.  So it was just like using a high grade
+quality binoculars except you’re using a stereogram.
 
 *So you get a 3-D sense.  I mean you can actually.
 
-B:  But a true 3-D.  Not with a distortion of the other, I forget the name, was it a Green__, I’ve forgotten.  But anyway, it just popped out of my head.  But anyway, so that was the first one that ever had that kind of design.  The thing is at the same time the stereogram that they had to generate to do the test ideas had, that was the first time they’d ever been done and then showing all sorts of __ the population that doesn’t have stereo view.  So that’s one of those places where the underlying theory wasn’t all that great and yet the technique that __ that he used to test his theory, his method of computer generating plots.
+B:  But a true 3-D.  Not with a distortion of the other,
+I forget the name, was it a Green__, I’ve forgotten.
+But anyway, it just popped out of my head.
+But anyway, so that was the first one that ever had that kind of design.
+The thing is at the same time the stereogram that they had to generate
+to do the test ideas had, that was the first time they’d ever been done
+and then showing all sorts of __ the population that doesn’t have stereo view.
+So that’s one of those places where the underlying theory wasn’t all that great
+and yet the technique that __ that he used to test his theory,
+his method of computer generating plots.
 
-I found that I seem to have pretty good stereo vision.  They found all sorts of ways of creating a random semi pattern colored dots to make __ pretend they used __ before __.  People could __ made it so you were about half better than you really were if you want to get drafted into a group that wouldn’t let you if you were going to be color blind.  And it’s also interesting, so that’s the sort of thing that has been __ computer graphics stuff.
+I found that I seem to have pretty good stereo vision.
+They found all sorts of ways of creating a random semi pattern colored dots
+to make __ pretend they used __ before __.
+People could __ made it so you were about half better than you really were
+if you want to get drafted into a group that wouldn’t let you
+if you were going to be color blind.
+And it’s also interesting, so that’s the sort of thing
+that has been __ computer graphics stuff.
 
-It was also __ some ways of devising tests that I can’t seem to __ doing it by hand.  It’s only with a computer thing that it’s practical at all.
+It was also __ some ways of devising tests
+that I can’t seem to __ doing it by hand.
+It’s only with a computer thing that it’s practical at all.
 
-Of course, if you look at the data that we were __ to plot there for the __ and things like that and things like that, it turned out that the underlying data might be within 10% or __ of error, huge error related to the numbers that were handling. And yet if you wanted to create a stereogram with that same data, so you used your view, that information 3-dimensionally, say superimposed say with map information and stuff like that, it was also had topology.  See that was just a time __ had solved that problem __ plot __ show you contours and other pictures in the pictures but it flattened it out optically.  So it made it really nicest __ then plot real data on top of stereographically and then use the equipment that everyone was just using anyway.
+Of course, if you look at the data that we were __ to plot there
+for the __ and things like that and things like that,
+it turned out that the underlying data might be within 10% or __ of error,
+huge error related to the numbers that were handling.
+And yet if you wanted to create a stereogram with that same data,
+so you used your view, that information 3-dimensionally,
+say superimposed say with map information and stuff like that,
+it was also had topology.  See that was just a time __ had solved
+that problem __ plot __ show you contours and other pictures
+in the pictures but it flattened it out optically.
+So it made it really nicest __ then plot real data on top of stereographically
+and then use the equipment that everyone was just using anyway.
 
-When you looked at it stereographically it was mindboggling how accurate that had to be to make it work right.  If the paired data __ to us was out by a few ten-thousandths of a __ it screwed things up.  It turned out that the Hewlett-Packard plotter that we were first using was just at the edge of being out.  It was actually slightly bent.  When we used the plots, the ones that were near the vertical y-axis were undistorted and when they were near the horizontal x-axis they were all bent, all curves were bent, perceptively bent, in the stereogram.  But you couldn’t see zip of that kind of problem in the __ plot.  It was only when you tried to do things stereoscopically that you realized you needed to plot things a lot more carefully if you’re going to get a good stereogram out of it.  
+When you looked at it stereographically it was mindboggling
+how accurate that had to be to make it work right.
+If the paired data __ to us was out by a few ten-thousandths of a __
+it screwed things up.
+It turned out that the Hewlett-Packard plotter that we were first using
+was just at the edge of being out.
+It was actually slightly bent.
+When we used the plots, the ones that were near the vertical y-axis
+were undistorted and when they were near the horizontal x-axis
+they were all bent, all curves were bent,
+perceptively bent, in the stereogram.
+But you couldn’t see zip of that kind of problem
+in the __ plot.
+It was only when you tried to do things stereoscopically
+that you realized you needed to plot things a lot more carefully
+if you’re going to get a good stereogram out of it.  
 
-So this was another kind of bizarre kind of interaction.  That’s why it would be really nice if Dave could find those original APL code things because they’re still, I’m sure that stuff was all in that chunk of data that he dug out of the cases down there at Cal-Berkeley.
+So this was another kind of bizarre kind of interaction.
+That’s why it would be really nice if Dave could find those original APL code things
+because they’re still, I’m sure that stuff was all in that chunk of data
+that he dug out of the cases down there at Cal-Berkeley.
 
-*Well I have some of the APL code from the Blodgett study.  I have that in my office in Wisconsin.  You sent me a big box of stuff but it’s all from the early 70s up through about 75.
+*Well I have some of the APL code from the Blodgett study.
+I have that in my office in Wisconsin.
+You sent me a big box of stuff
+but it’s all from the early 70s up through about 75.
 
-B:  Remember we did the problem on the plot and things like that for, the two of us together.
+B:  Remember we did the problem on the plot and things like that for,
+the two of us together.
 
 *Yeah, right.
 
 B:  Did you __ look like the stereogram stuff?
 
-*Yeah, I have a mental image of the stereograms that we created.  Sort of a grid, the points were about a centimeter apart so that, about 10 points across, something like that, 10 x 10 grid, something like that.
+*Yeah, I have a mental image of the stereograms that we created.
+Sort of a grid, the points were about a centimeter apart
+so that, about 10 points across, something like that,
+10 x 10 grid, something like that.
 
-B:  I think we plotted it into like a 1 x 1 __ cube that we put in about a dozen points that were connected randomly.  And when you plotted, looked at the stereogram, you couldn’t see any relationship to them at all.  They were just random lines but you put that into the stereo__ and whoa, look at that.  Those things are floating in __.  Remember that?
+B:  I think we plotted it into like a 1 x 1 __ cube
+that we put in about a dozen points that were connected randomly.
+And when you plotted, looked at the stereogram,
+you couldn’t see any relationship to them at all.
+They were just random lines but you put that into the stereo__
+and whoa, look at that.  Those things are floating in __.
+Remember that?
 
-*No, I don’t remember that one.  But there’s something like that in this book.  Anyway that’s one of the things that we were doing __ some stuff.  Get that kind of data so, or if it  gives them fifth dimension, they’ll play with to be able to.
+*No, I don’t remember that one.
+But there’s something like that in this book.
+Anyway that’s one of the things that we were doing __ some stuff.
+Get that kind of data so, or if it  gives them fifth dimension,
+they’ll play with to be able to.
 
-It would be really interesting if that __ stuff ever showed up again.  What that was designed to do is to actually make it so if you looked at that stuff it looked like projected __.  But it just looked like a bunch of random __ length if you just look at it.  The general theory of viewer that you’re using, interpreting using the photo interpretation __ it worked.  It popped on three-dimension.  When each line means __.  I had already done it in such a way that we didn’t have any coincident lines either.  It gave you a totally different view of the data when you viewed it stereographically.  This is why __.  Sometimes you think that there’s some piece of the data that you have to represent incredibly accurately to make things work at all.  The offset of the bringing, to be able to derive serial from __ was mind-blowing how detailed and fine that is.  So it’s always the brain(?) supposed to do the processing way down at the beginning of the path, before it’s passed on very far __ decision that does for a theory to viewing.
+It would be really interesting if that __ stuff ever showed up again.
+What that was designed to do is to actually make it so if you looked at that stuff
+it looked like projected __.  But it just looked like a bunch of random __ length
+if you just look at it.  The general theory of viewer that you’re using,
+interpreting using the photo interpretation __ it worked.
+It popped on three-dimension.  When each line means __.
+I had already done it in such a way that we didn’t have any coincident lines either.
+It gave you a totally different view of the data when you viewed it stereographically.
+This is why __.  Sometimes you think that there’s some piece of the data
+that you have to represent incredibly accurately to make things work at all.
+The offset of the bringing, to be able to derive serial from __
+was mind-blowing how detailed and fine that is.
+So it’s always the brain(?) supposed to do the processing way down
+at the beginning of the path, before it’s passed on very far __
+decision that does for a theory to viewing.
 
-*As you were talking about that, I was thinking about how even if you’ve got 1% error in two dimensions, that’s something that’s noticeable.  Or say you have an image, a black and white image, and it’s 1% white, you can have a lot of structure in that.  But in a one dimension, if you’re missing 1% you won’t even notice it.  When you go to stereo pairs, you’re talking about going from two dimensions to three dimensions.
+*As you were talking about that, I was thinking about how even if you’ve got 1% error
+in two dimensions, that’s something that’s noticeable.
+Or say you have an image, a black and white image,
+and it’s 1% white, you can have a lot of structure in that.
+But in a one dimension, if you’re missing 1% you won’t even notice it.
+When you go to stereo pairs, you’re talking about going from two dimensions to three dimensions.
 
-It just hits you between the eyes with a hatchet.  Yeah.  Of course many of the problems that were __ not only three—they got a second dimension—so they really are four-dimensional.  So life goes.
+It just hits you between the eyes with a hatchet.  Yeah.
+Of course many of the problems that were __ not only three—
+they got a second dimension—so they really are four-dimensional.
+So life goes.
 
 *A lot of structure.
 
 Sample Splitter
 
-Some of the designs that I first set up with some of the first things, but the Forest Service used ___ reverse sequential sampling to drop things out, but in a reverse ___ see the guy that was eventually, what was the guy, the other fellow that was the heavy hitter for the Forest Service?  He eventually came on the department later on.  I can’t think of his name.
+Some of the designs that I first set up with some of the first things,
+but the Forest Service used ___ reverse sequential sampling
+to drop things out, but in a reverse ___ see the guy that was eventually,
+what was the guy, the other fellow that was the heavy hitter
+for the Forest Service?  He eventually came on the department later on.
+I can’t think of his name.
 
 *Who was at the Forest Service?
 
@@ -276,16 +747,37 @@ He ended up being the head of the department there for a while.
 
 *Bill Waters?
 
-Yeah, Bill Waters, yeah.  So Bill Waters back in ___ was some of the first cuts out of putting a sequential sampling, see if you could reduce the amount of labor put into the sampling aspect actually, interestingly enough.  So he was more than interested in reverse sequential sampling ___ at the time and then with the layout that was symmetric, that maybe analysis of the experiment ever so much easier.
+Yeah, Bill Waters, yeah.
+So Bill Waters back in ___ was some of the first cuts out of putting
+a sequential sampling, see if you could reduce the amount of labor
+put into the sampling aspect actually, interestingly enough.
+So he was more than interested in reverse sequential sampling
+___ at the time and then with the layout that was symmetric,
+that maybe analysis of the experiment ever so much easier.
 
-I’m really curious about what you dug up in terms of bits and pieces of the work that was going on in the modeling effort, especially for Dave Wood and the group.
+I’m really curious about what you dug up in terms of bits and pieces
+of the work that was going on in the modeling effort,
+especially for Dave Wood and the group.
 
 
-*Well, I haven’t been able to get too much.  What I got, I got the sample splitter stuff so I’ve got all the papers related to the sample splitter, including a copy of Ken Lindahl’s thesis.
+*Well, I haven’t been able to get too much.
+What I got, I got the sample splitter stuff
+so I’ve got all the papers related to the sample splitter,
+including a copy of Ken Lindahl’s thesis.
 
-Let me ask a question at this point.  Does the sample splitter include the stuff  __ statistics, and I also as I remember ran some tests on them to make sure that the sample splitter was working correctly, and even though the tests were not significant with the normal distribution test, they were with the __ statistic.  And this was something that happened a number of other times when we looked at fields called the data for a whole bunch of things, especially __.  So is that data available, and is that what you found?
+Let me ask a question at this point.
+Does the sample splitter include the stuff  __ statistics,
+and I also as I remember ran some tests on them to make sure
+that the sample splitter was working correctly,
+and even though the tests were not significant with the normal distribution test,
+they were with the __ statistic.
+And this was something that happened a number of other times
+when we looked at fields called the data for a whole bunch of things,
+especially __.
+So is that data available, and is that what you found?
 
-*Yeah, I’ve got all that data.  It’s all on sheets so it’s all on paper.
+*Yeah, I’ve got all that data.
+It’s all on sheets so it’s all on paper.
 
 Were the plots, did they still have the plots?
 
@@ -293,75 +785,237 @@ Were the plots, did they still have the plots?
 
 Wonderful.
 
-*Yeah, so I’ve got all the plots and I’ve got all of Paul Tilden’s stuff, Fields Cobb, whatever the data analysis.  Now there’s a lot of it to sort through.  There’s huge, you know, a big format blue binders with the 11 x 17 paper, computer paper.  It’s all dusty but I’ve got it.  So the data is there and then the work that Ken Lindahl did on the sample and the bias and the sample splitter is all there in his thesis.  That’s the main stuff that I’ve been able to pull together.  Don Dahlsten allegedly has some other material and Bob Luck is supposed to contact him but I haven’t heard anything directly on that yet.  So that’s still in limbo, and that may be where the Bayesian stuff is, in Don Dahlsten’s office.
+*Yeah, so I’ve got all the plots and I’ve got all of Paul Tilden’s stuff,
+Fields Cobb, whatever the data analysis.
+Now there’s a lot of it to sort through.
+There’s huge, you know, a big format blue binders with the 11 x 17 paper,
+computer paper.
+It’s all dusty but I’ve got it.
+So the data is there and then the work that Ken Lindahl did
+on the sample and the bias and the sample splitter
+is all there in his thesis.
+That’s the main stuff that I’ve been able to pull together.
+Don Dahlsten allegedly has some other material
+and Bob Luck is supposed to contact him
+but I haven’t heard anything directly on that yet.
+So that’s still in limbo,
+and that may be where the Bayesian stuff is,
+in Don Dahlsten’s office.
 
-Yeah, may very well be.  Well that’s very encouraging.
+Yeah, may very well be.
+Well that’s very encouraging.
 
 *Yeah, Dave Wood sent me about 75 pounds of stuff.
 
-Wonderful.  So maybe his final statement at the end of that application and the data will be analyzed will finally come true.
+Wonderful.
+So maybe his final statement at the end of that application
+and the data will be analyzed will finally come true.
 
-*And he would like that, he would like that.  So I’ll probably look at the sample splitter stuff this summer.  I’ve got it all in one place.
+*And he would like that, he would like that.
+So I’ll probably look at the sample splitter stuff this summer.
+I’ve got it all in one place.
 
-Well then I really have to, two pieces of the, the sample splitter stuff, and part of that it seemed to me I was beginning to do the work that the first estimate said that the math likelihood estimator of the reverse sampling technique was just a simple ratio.
+Well then I really have to, two pieces of the, the sample splitter stuff,
+and part of that it seemed to me I was beginning to do the work
+that the first estimate said that the math likelihood estimator
+of the reverse sampling technique was just a simple ratio.
 
 *Right.
 
-But if you went to a traditional type of mean and variance type of estimator, the one __ direct, it was a messy expression that I was in the first part of unraveling the plots on the APL work on the plotter.  Did that ever show, did that stuff show up?
+But if you went to a traditional type of mean and variance type of estimator,
+the one __ direct, it was a messy expression
+that I was in the first part of unraveling the plots
+on the APL work on the plotter.
+Did that ever show, did that stuff show up?
 
-*Yeah.  The plots, well I think that’s there.  There are certainly plots that I did that, they’re sort of wavy lines that show that the bias is largest right near to the end.  I recognize some plots that I did over 20 years ago.
+*Yeah.  The plots, well I think that’s there.
+There are certainly plots that I did that,
+they’re sort of wavy lines that show that the bias is largest
+right near to the end.
+I recognize some plots that I did over 20 years ago.
 
-Wonderful.  Then my other question, it seemed that there were some pieces of Ken Lindall’s work that were used finishing up his dissertation.  That work, Dave also sent me copies of that, but I had the impression that that piece had gone back to pure __ theory with no number type of __ relationship.  Am I right on that?
+Wonderful.
+Then my other question, it seemed that there were some pieces of Ken Lindall’s work
+that were used finishing up his dissertation.
+That work, Dave also sent me copies of that,
+but I had the impression that that piece had gone back to pure __ theory
+with no number type of __ relationship.
+Am I right on that?
 
-*I think you’re right on that.  I started to look through Ken’s thesis but it’s real hard to go through it because he’s got titles like Introduction, Methods, Theory.  I mean it’s hard to tell what section is what, so I just sort of flipped through it.
+*I think you’re right on that.
+I started to look through Ken’s thesis but it’s real hard to go through it
+because he’s got titles like Introduction, Methods, Theory.
+I mean it’s hard to tell what section is what,
+so I just sort of flipped through it.
 
-As far as you could tell right off the top, it was __ theory, __ theory with no __.  Even say a log normal which we were using __ estimator.  Now what am I trying to remember?  The __ and it’s a generalization that the ___ quotient is a multivariate.  Is that right?  Am I pulling that out of the __ OK?
+As far as you could tell right off the top,
+it was __ theory, __ theory with no __.
+Even say a log normal which we were using __ estimator.
+Now what am I trying to remember?
+The __ and it’s a generalization that the ___ quotient is a multivariate.
+Is that right?
+Am I pulling that out of the __ OK?
 
 *That sounds right.
 
-And with the multivariate, then it was basically sort of an exact counting function for numbers that would run between 0 and N, with N being a very finite number in mathematical things, and minus numbers being total garbage in terms of making sense in terms of that.  So although the physical systems sometimes __ make sense, in this particular case it made no sense at all, and also because of the number of pieces involved, they were being sampled by Don Dahlsten and you got some incredible number of zeroes.  By far the most common value that you would get would be zero.  Is that all __ seem reasonable?  __ 20 years ago with the first __?
+And with the multivariate,
+then it was basically sort of an exact counting function for numbers
+that would run between 0 and N, with N being a very finite number
+in mathematical things, and minus numbers being total garbage
+in terms of making sense in terms of that.
+So although the physical systems sometimes __ make sense,
+in this particular case it made no sense at all,
+and also because of the number of pieces involved,
+they were being sampled by Don Dahlsten
+and you got some incredible number of zeroes.
+By far the most common value that you would get would be zero.
+Is that all __ seem reasonable?
+__ 20 years ago with the first __?
 
-*Yeah, I mean it’s, you know, talking about counting processes where you have lots of zeroes, I mean it’s familiar to me in a general way.  I’m not familiar with the specifics because I wasn’t involved specifically with the counts and with Don Dahlsten.  I was involved more with the.
+*Yeah, I mean it’s, you know, talking about counting processes
+where you have lots of zeroes, I mean it’s familiar to me in a general way.
+I’m not familiar with the specifics because I wasn’t involved specifically
+with the counts and with Don Dahlsten.
+I was involved more with the.
 
-My question was that it seems when we were trying to design ways of gathering data, counting data across many, many different species, with highly variable numbers, both off traps and off of other equipment, it seemed like no matter if the samples were bored out of trees and reared, it was all over the map. __ also.  So no matter where I looked, a number of species highly variable and in some cases like the counting stuff or the traps, the numbers could be gigantic sometimes.  Huge numbers in the traps because of the size and effectiveness and at other times they caught very little and it could be all over the map, say __ hosts of the tree or related insects say that Don Dahlsten was studying.
+My question was that it seems when we were trying to design ways of gathering data,
+counting data across many, many different species,
+with highly variable numbers,
+both off traps and off of other equipment,
+it seemed like no matter if the samples were bored out of trees and reared,
+it was all over the map. __ also.
+So no matter where I looked, a number of species highly variable
+and in some cases like the counting stuff or the traps,
+the numbers could be gigantic sometimes.
+Huge numbers in the traps because of the size and effectiveness
+and at other times they caught very little
+and it could be all over the map, say __ hosts of the tree
+or related insects say that Don Dahlsten was studying.
 
-At the time we looked at just some sort of __ for sequential sampling technique to cut back on the work.  It turned out it was far easier to subdivide things until everything had gone to zero or some arbitrary number of times.  It was a higher power that would assure that the remaining __ would be __.  With the two underlying assumptions, and then it would __.
+At the time we looked at just some sort of __ for sequential sampling technique
+to cut back on the work.  It turned out it was far easier to subdivide things
+until everything had gone to zero or some arbitrary number of times.
+It was a higher power that would assure that the remaining __ would be __.
+With the two underlying assumptions, and then it would __.
 
-At that time, I think I __ one professor and a few of his students were doing reverse sequential sampling 20 years ago.  That was what I was going to try to see if I could get any help from him to get things up and going but pretty much, and yet at that time who was the person that was, the name won’t pop into my head right now.  He was the head of the whole program there at the Forest Service and then he moved over to the college of natural resources later as a department head, Waters.
+At that time, I think I __ one professor and a few of his students
+were doing reverse sequential sampling 20 years ago.
+That was what I was going to try to see if I could get any help from him
+to get things up and going but pretty much,
+and yet at that time who was the person that was,
+he name won’t pop into my head right now.
+He was the head of the whole program there at the Forest Service
+and then he moved over to the college of natural resources later
+as a department head, Waters.
 
 *Yeah, Bill Waters.
 
-Bill Waters, thank you, Bill Waters.  Some days I have a very hard time pulling these back.  As I remember Bill Waters, oddly enough his specialty was sequential sampling and its application to forest service problems.  So here was this reverse sequential sampling technique, so my other question is where has that gone?  Has anybody picked up on reverse sequential sampling?  Is it a big deal, a huge deal, or what kind of thing?
+Bill Waters, thank you, Bill Waters.
+Some days I have a very hard time pulling these back.
+As I remember Bill Waters, oddly enough his specialty was sequential sampling
+and its application to forest service problems.
+So here was this reverse sequential sampling technique,
+so my other question is where has that gone?
+Has anybody picked up on reverse sequential sampling?
+Is it a big deal, a huge deal, or what kind of thing?
 
-*I haven’t checked the literature.  I know that.
+*I haven’t checked the literature.
+I know that.
 
-Or is that stuff that he did pretty much unique?  And it still hasn’t followed up?
+Or is that stuff that he did pretty much unique?
+And it still hasn’t followed up?
 
-*Yeah, the one thing that I can think that’s related that I know of is a dilution plating where people are looking for bacteria and they’ll take 10-fold dilutions and then draw up plates and they’ll have a series of different series on a 10-fold dilution.  It’s related but it’s not the same thing.
+*Yeah, the one thing that I can think that’s related
+that I know of is a dilution plating where people are looking for bacteria
+and they’ll take 10-fold dilutions and then draw up plates
+and they’ll have a series of different series on a 10-fold dilution.
+It’s related but it’s not the same thing.
 
-Yeah, and I could imagine that, looking under a stereo microscope or a __ microscope, to estimate the area of growth of different things.  The area estimation problem and mechanic problem underneath it.  Thank you very much for picking that one up, but I’m quite curious.
+Yeah, and I could imagine that,
+looking under a stereo microscope or a __ microscope,
+to estimate the area of growth of different things.
 
-*Yeah, they now have Petri dishes that have covers which have etched into them grids and the grids have different scales. There will be a large grid and then a part of it will be made as a small grid so you can count depending on the kind of problem.  So that’s used in certain fields.  I haven’t actually looked at that literature yet but I know people who can help me find that out.
+The area estimation problem and mechanic problem underneath it.
+Thank you very much for picking that one up,
+but I’m quite curious.
 
-OK, so that’s why I wanted to throw some things out that way because the follow-up on this is that the basically the thing for Dave’s stuff was all based on reverse sequential sampling techniques in terms of gathering the data and then setting up for data analysis.  And we also read into some problems right at the first, with the sample not being ideally distributed and we were pretty fortunate that we ran a lot of test samples initially courtesy of, who’s the fellow there that did so much of the mechanical design?  Can you think of his name?
+*Yeah, they now have Petri dishes that have covers
+which have etched into them grids and the grids have different scales.
+There will be a large grid and then a part of it will be made as a small grid
+so you can count depending on the kind of problem.
+So that’s used in certain fields.
+I haven’t actually looked at that literature yet
+but I know people who can help me find that out.
+
+OK, so that’s why I wanted to throw some things out that way
+because the follow-up on this is that the basically the thing for Dave’s stuff
+was all based on reverse sequential sampling techniques
+in terms of gathering the data and then setting up for data analysis.
+And we also read into some problems right at the first,
+with the sample not being ideally distributed
+and we were pretty fortunate that we ran a lot of test samples initially
+courtesy of, who’s the fellow there that did so much of the mechanical design?
+Can you think of his name?
 
 *At the forest service?
 
-No, he worked pretty much directly for Dave and Don Dahlsten designing equipment?
+No, he worked pretty much directly for Dave and Don Dahlsten
+designing equipment?
 
 *Not Paul Tilden?
 
-No, somebody else.  He was not a help person, no he was a person involved in mechanical stuff.  He was the one that did all the drawing of the decreasing stuff after my suggestion of using decreasing technique that was used industrial decreasing parts of stuff.  It turned out that it did solve the problem and after that it didn’t tear things apart like blowing, high temperature, high pressure kerosene on the stuff to clean it which really shredded stuff.  You came out the other side without being able to tell which piece was what.
+No, somebody else.
+He was not a help person, no he was a person involved in mechanical stuff.
+He was the one that did all the drawing of the decreasing stuff
+after my suggestion of using decreasing technique
+that was used industrial decreasing parts of stuff.
+It turned out that it did solve the problem
+and after that it didn’t tear things apart
+like blowing, high temperature, high pressure kerosene on the stuff to clean it
+which really shredded stuff.
+
+You came out the other side without being able to tell
+which piece was what.
 
 *Count the number of legs.
 
-Yeah.  I can just see you trying to pair up the right head with the thorax with the right abdomen, huh?  It was incredible.  So there had to be some way of doing that that was a lot gentler and yet would get at the incredible design into stickiness and stick-to-it-tiveness of that, what do they call that __ you did today?  Making these trails of stuff that __ because it was so sticky and so insoluble.
+Yeah.
+I can just see you trying to pair up the right head
+with the thorax with the right abdomen, huh?
+It was incredible.
+So there had to be some way of doing that
+that was a lot gentler
+and yet would get at the incredible design into stickiness
+and stick-to-it-tiveness of that,
+what do they call that __ you did today?
+Making these trails of stuff that __
+because it was so sticky and so insoluble.
 
 *Stick-em?  I don’t remember.
 
-Any way, at any rate, so we ended up with kind of a bear of a problem to solve there.  It took a lot of testing.  They had to go on also to resolve techniques that would really work correctly.  There was a lot of other testing that was done on natural subsampling and other things by hand-picking area and then going back.  Those were the ones that Don Dahlsten worked with because that area, he was interested in __ species __ samples that weren’t good enough.  Actually put them into __ collection of that stuff.  So that was a little more tidbit of history.  The math was interacting with experimental design.  I guess that those are the big hanging ones that I was curious about.  It also __ 20 years ago.
+Any way, at any rate, so we ended up with kind of a bear of a problem to solve there.
+It took a lot of testing.
+They had to go on also to resolve techniques that would really work correctly.
+There was a lot of other testing that was done on natural subsampling
+and other things by hand-picking area and then going back.
+Those were the ones that Don Dahlsten worked with
+because that area, he was interested in __ species __ samples
+that weren’t good enough.
+Actually put them into __ collection of that stuff.
+So that was a little more tidbit of history.
 
-It’s neat to see you and it’s neat to go on to this stuff again and am really intrigued about a number of things that I’ve been thinking about.  First of all, did you ever __ at Ken Lindahl’s work which I thought was just pure linear theory with no use of easier quad summation to __ like the __ normal or gamma function.
+The math was interacting with experimental design.
+I guess that those are the big hanging ones
+that I was curious about.
+It also __ 20 years ago.
+
+It’s neat to see you and it’s neat to go on to this stuff again
+and am really intrigued about a number of things
+that I’ve been thinking about.
+First of all, did you ever __ at Ken Lindahl’s work
+which I thought was just pure linear theory
+with no use of easier quad summation to __
+like the __ normal or gamma function.
 
 *I have the material but I have not had a chance to look at it yet.
 
@@ -369,15 +1023,22 @@ But this is a really quick cursory glance, you didn’t, it looked like just cla
 
 *Yeah.
 
-And no simplifying or computer simplifying assumptions that would make it easier to computer, a real life computer.
+And no simplifying or computer simplifying assumptions
+that would make it easier to computer,
+ a real life computer.
 
 *No.
 
-Ok, another question.  Did you ever go back in Ken Lindahl’s paper, and is it straight linear theory with no gamma function or __ normal in it?
+Ok, another question.
+Did you ever go back in Ken Lindahl’s paper,
+and is it straight linear theory
+with no gamma function or __ normal in it?
 
 *I haven’t gone back to that.  I have it but I haven’t gone back to it.
 
-In the word process these days, couldn’t you just reverse it?  Isn’t that in a hardware form?  I mean word processing form you could get from Dave?
+In the word process these days, couldn’t you just reverse it?
+Isn’t that in a hardware form?
+I mean word processing form you could get from Dave?
 
 *Oh, I have a copy of it.
 
@@ -385,21 +1046,51 @@ Yeah, but I mean as an electronic copy.
 
 *No, just paper.
 
-Whoa.  Get an electronic copy.  Do you realize how fast you could do the job with an electronic copy?
+Whoa.  Get an electronic copy.
+Do you realize how fast you could do the job with an electronic copy?
 
 *Yeah.
 
-And you’re still not sure?  What you need is an electronic copy.  It would just save you all kinds of time.
+And you’re still not sure?  What you need is an electronic copy.
+It would just save you all kinds of time.
 
 *Well, I’ll see if I can get that.
 
-So why don’t you get an electronic copy of Ken Lindahl’s dissertation?  It’s interesting I like to file things in the __.  Use that as your basis to do all further work.  And that way you can use a word processor the whole damn thing in a few moments __.  How many hits do you get per normal distribution?  How many hits do you get __ and so on.  And you get __ at all for __ normal, you’re going to have to allow for gamma functions.  I’d be very curious.
+So why don’t you get an electronic copy of Ken Lindahl’s dissertation?
+It’s interesting I like to file things in the __.
+Use that as your basis to do all further work.
+And that way you can use a word processor the whole damn thing in a few moments __.
+How many hits do you get per normal distribution?
+How many hits do you get __ and so on.
+And you get __ at all for __ normal,
+you’re going to have to allow for gamma functions.
+I’d be very curious.
 
-But don’t do a thing until you got an electronic copy.  Also this would be another illustration of __ chance to use it, society’s going to go to electronic eventually.  So that’s another matter.
+But don’t do a thing until you got an electronic copy.
+Also this would be another illustration of __ chance to use it,
+society’s going to go to electronic eventually.
+So that’s another matter.
 
-__ what he thought should be done and where he should go and I basically said that, I remembered this __ what I just described to you and as a result also __ the data and the data because the maximum in most of these levels were small, very small or zero.  Lots of zero over all the __ sample on the things, on the different traps and stuff __ traps and all that junk. Lots of zeroes __ small so the maximum __ probably is the most reasonable estimator and that was just a part from the thing as I remember for the reverse sampling system that we were using.
+__ what he thought should be done and where he should go
+and I basically said that, I remembered this __ what I just described to you
+and as a result also __ the data and the data
+because the maximum in most of these levels were small,
+very small or zero.
+Lots of zero over all the __ sample on the things,
+on the different traps and stuff __ traps and all that junk.
+Lots of zeroes __ small so the maximum __ probably is the most reasonable estimator
+and that was just a part from the thing as I remember
+for the reverse sampling system that we were using.
 
-So as I remember, for that reverse sequential sampling system that oddly enough __ always picked up on easier it looks like, weirdly enough.  Not to any degree, because a certain __, whole lot easier than to just do, force the other direction.  And the thing is that __ as I remember, maximum likelihood estimator just dropped way off of the simple proportions.  Is that right?
+So as I remember,
+for that reverse sequential sampling system that oddly enough
+__ always picked up on easier it looks like, weirdly enough.
+Not to any degree, because a certain __,
+whole lot easier than to just do, force the other direction.
+And the thing is that __ as I remember,
+maximum likelihood estimator just dropped way off
+of the simple proportions.
+Is that right?
 
 *Yeah.  But then it’s biased and then it’s a biased direction.
 
@@ -407,7 +1098,8 @@ If you want the first and second moment.
 
 *Yeah, then you could do some biased direction.
 
-And that’s what I was trying to calculate there with __ with the biased __ for that.  That was the last program I was working on in APL too.
+And that’s what I was trying to calculate there with __ with the biased __ for that.
+That was the last program I was working on in APL too.
 
 *Yeah, the biased correction is in Ken’s thesis.
 
@@ -417,33 +1109,110 @@ Oh, good.
 
 *When we first started using that.
 
-And the thing is that Dave should have scanned anyway.  If it hasn’t been done, have him scan it.  It’s become trivial now.  Have him scan it.  Also the whole statistic society is going to have to face a little bit of this too very soon.  You __ on the problem of this sort of thing on the internet __.  But you might very well ask Dave to, if you don’t have an electronic one.  Please ask him if he has an electronic form of Ken Lindahl’s thesis.  And if he doesn’t, please to have it scanned because he always has the resources to do that because that thesis work was his own direction now.  But it should be electronically scanned and that costs zip money these days.  The only one niche, it will cost you about $50 for any __ version of things to make your computer to be able to listen to you and transcribe stuff by just having you talk.  So it’s only __ for not having __ in the other direction __.  But again, please contact Dave.
+And the thing is that Dave should have scanned anyway.
+If it hasn’t been done, have him scan it.
+It’s become trivial now.
+Have him scan it.
+Also the whole statistic society is going to have to face
+a little bit of this too very soon.
+You __ on the problem of this sort of thing on the internet __.
+But you might very well ask Dave to,
+if you don’t have an electronic one.
+
+Please ask him if he has an electronic form
+of Ken Lindahl’s thesis.
+And if he doesn’t, please to have it scanned
+because he always has the resources to do that
+because that thesis work was his own direction now.
+But it should be electronically scanned
+and that costs zip money these days.
+The only one niche, it will cost you about $50
+for any __ version of things to make your computer
+to be able to listen to you
+and transcribe stuff by just having you talk.
+So it’s only __ for not having __
+in the other direction __.
+But again, please contact Dave.
 
 *I’ll do that.
 
-About that Ken Lindahl thesis.  Have him send you the electronic copy of it before you do anything.
+About that Ken Lindahl thesis.
+Have him send you the electronic copy of it
+before you do anything.
 
 *Yeah.
 
-And if he doesn’t have one available __ you need to be in that form anyway.  How’s he going to manipulate it __ publish __ paper, there’s no way that he can’t have an electronic form.  You don’t type things from scratch.
+And if he doesn’t have one available __ you need to be in that form anyway.
+How’s he going to manipulate it __ publish __ paper,
+there’s no way that he can’t have an electronic form.
+You don’t type things from scratch.
 
-*I’m sure Ken has an electronic copy somewhere so I can go back to Ken on that.
+*I’m sure Ken has an electronic copy somewhere
+so I can go back to Ken on that.
 
-So that’s what I would.  So find an electronic copy from Ken or Dave Wood.
+So that’s what I would.
+So find an electronic copy from Ken or Dave Wood.
 
 *So other stuff bubbling up here on that modeling.
 
-Well, it really struck me that __ the other core pieces of this thing __ method that we were going to use was unbiased and wouldn’t skew results in way or another, and to the __ I dug into, it seemed __ is we had valid number generators and everything like that that would __.  The transformations that were bearing on the mathematics weren’t screwed up because we did find some bug in the thing.  Then we had to go back and refix only to find that Los __ has a serious bug in their random number generators they have never fixed to this day.  __ remember that graphic program?
+Well, it really struck me that __ the other core pieces of this thing __ method
+that we were going to use was unbiased
+and wouldn’t skew results in way or another,
+and to the __ I dug into, it seemed __ is we had valid number generators
+and everything like that that would __.
+
+The transformations that were bearing on the mathematics
+weren’t screwed up
+because we did find some bug in the thing.
+Then we had to go back and refix
+only to find that Los __ has a serious bug
+in their random number generators
+they have never fixed to this day.
+__ remember that graphic program?
 
 *Yeah.
 
-So that’s the impression of the, that’s the amount of politicking you need to __ idea because the whole system, you don’t need much __ and the Monte Carlo converts it incredibly fast initially __ doesn’t diverge for shit, if you want 5 positions, ok?  But boy, does it convert fast at first, so the very kind of place that we need fast convergence, it’s ideal for imprecise systems.  So it seemed to me that that turned out to also be on bias __ which he hadn’t __ and all this type of __ describing like __ random number generated out for underpinning it and that was how you’d biased it.
+So that’s the impression of the, that’s the amount of politicking
+you need to __ idea because the whole system,
 
-You’re going to assume that certain mathematics __, mathematics is indeed __, you can’t put in bad __ and somehow have it __.  And so of course that’s the one we kept having to go back and look __.  Gee, will this work, will that work?  I’d __ because it’s, but on the other hand it seems that it’s a rapidly conversion, estimator, but boy if you __ two decimals, but if you need three positions, position, third place for your __, you’re also doing heavy duty computation.  And if you need 6 or 7 places, whoa.  You’re going to have a super computer going all through the __.  So it seems to me also that __ was absolutely ideally suited for our purpose, our system was inherently imprecise.  Ok, that was another thing I wanted to throw out.
+you don’t need much __
+and the Monte Carlo converts it incredibly fast initially
+__ doesn’t diverge for shit,
+if you want 5 positions, ok?
+But boy, does it convert fast at first,
+so the very kind of place that we need fast convergence,
+it’s ideal for imprecise systems.
+So it seemed to me that that turned out to also be on bias __
+which he hadn’t __
+and all this type of __ describing like __
+random number generated out for underpinning it
+and that was how you’d biased it.
+
+You’re going to assume that certain mathematics __,
+mathematics is indeed __,
+you can’t put in bad __
+and somehow have it __.
+And so of course that’s the one we kept having to go back and look __.
+Gee, will this work, will that work?
+I’d __ because it’s,
+but on the other hand it seems that it’s a rapidly conversion, estimator,
+but boy if you __ two decimals,
+but if you need three positions, position, third place for your __,
+you’re also doing heavy duty computation.
+And if you need 6 or 7 places, whoa.
+You’re going to have a super computer going all through the __.
+So it seems to me also that __ was absolutely ideally suited for our purpose,
+our system was inherently imprecise.
+Ok, that was another thing I wanted to throw out.
 
 *Yeah, I don’t think we had talked about that before.
 
-But also, I also want to throw out some examples of places that we had looked a long time ago and in turn there were some real problems and they had never corrected them.  __ that problem still is on the random number generator, what 25 years later?
+But also, I also want to throw out some examples of places
+that we had looked a long time ago
+and in turn there were some real problems
+and they had never corrected them.
+__ that problem still is on the random number generator,
+what 25 years later?
 
 *At least.  Yeah, it was almost exactly 25 years ago.
 
@@ -451,13 +1220,19 @@ Quarter of a century ago.
 
 *Yeah, right.
 
-Quarter of a century __ point it out to them?  Nope.  It’s still on after a quarter of a century.  So that is another issue __.
+Quarter of a century __ point it out to them?  Nope.
+It’s still on after a quarter of a century.
+So that is another issue __.
 
-Again, please __ for electronic version on Ken Lindahl’s thesis.  It doesn’t exactly __ today.
+Again, please __ for electronic version on Ken Lindahl’s thesis.
+It doesn’t exactly __ today.
 
-*Well, that can be arranged.  That can be arranged. 
+*Well, that can be arranged.
+That can be arranged. 
 
-But at any rate, please, please, please do that first before you even think of __ out. Otherwise it’s a waste of your time.
+But at any rate, please, please,
+please do that first before you even think of __ out.
+Otherwise it’s a waste of your time.
 
 *Oh yeah, I’m not going to just type it in.
 
@@ -465,8 +1240,7 @@ You’ve already taken the first couple of __.
 
 ## Color
 
-## Color
-
+<div class="source-block">
 21. Color        color.1-8
 
         Red and Green Cones        color.1
@@ -478,25 +1252,62 @@ You’ve already taken the first couple of __.
         Color-Blind Friends        color.6 
 
         Art        color.7
+</div>
 
-
-*I remember people getting so excited about their early computers and I’d look at them and I’d see these just horrible graphics and they were excited that they had anything at all and it was like, why would you want to buy this?
+*I remember people getting so excited about their early computers
+and I’d look at them and I’d see these just horrible graphics
+and they were excited that they had anything at all
+and it was like, why would you want to buy this?
 
 It was horrible graphics for your decade.
 
 *Yeah, right.
 
-Actually decades.  So that was the first interesting pop of ___.  I also was into color stuff and I was always trying to work across some of the stuff, you know, to, what’s the guy’s name that did all that beautiful ___ first on graphics, on not cluttered stuff, and it showed the beautiful thing of the Napoleon War in a million different dimensions and now his second edition was about the problems in printing in multiple pages and all that junk.
+Actually decades.  So that was the first interesting pop of ___.
+I also was into color stuff and I was always trying to work across some of the stuff,
+you know, to, what’s the guy’s name that did all that beautiful ___ first on graphics,
+on not cluttered stuff, and it showed the beautiful thing of the Napoleon War
+in a million different dimensions and now his second edition was about the problems
+in printing in multiple pages and all that junk.
 
-Both of Edward Tufte's books are always leveraging ___ the people at Synertech and those are, I was thinking how terrible the printing was getting done from my artist family.  It was trying to reproduce metal looking reasonable, or colored sculpture looking reasonable, or Clyde trying to get a reproduction of a print which he always had a lot of subtle colors, just subtle colors of shades and they, and then they ___ small fire of intense red and another place he’d have some green thing that was intense green ___ and it turned out you couldn’t do a combination like this.  What you had to have some outrageous number of runs in the thing to be able to get it to look like anything, which took the price out of sight.
+Both of Edward Tufte's books are always leveraging ___ the people at Synertech
+and those are, I was thinking how terrible the printing was getting done
+from my artist family.  It was trying to reproduce metal looking reasonable,
+or colored sculpture looking reasonable, or Clyde trying to get a reproduction
+of a print which he always had a lot of subtle colors, just subtle colors of shades
+and they, and then they ___ small fire of intense red and another place he’d have
+some green thing that was intense green ___ and it turned out you couldn’t do a
+combination like this.  What you had to have some outrageous number of runs in the
+thing to be able to get it to look like anything, which took the price out of sight.
 
-At the same time I was trying to work through some of this stuff, I was ___ coming up short in the ___ the printing industry.  But at any rate, his book, both of the books were also an inspiration to me but they also had ___ some of the things that I should you know factor in there and I did too.
+At the same time I was trying to work through some of this stuff,
+I was ___ coming up short in the ___ the printing industry.
+But at any rate, his book, both of the books were also an inspiration to me
+but they also had ___ some of the things that I should you know factor in there
+and I did too.
 
 ### Red and Green Cones
 
-People were taught out there that they had two ___ colors. On the down side ___ they had 24 bytes, 8 bytes assigned to a color, so they had 16 million choices on the outside thing. The engineer would __ on and on and on about how this was so far beyond what the human could see or the things __ dah dah dah, that it was ridiculous to have it.  It was almost for free ___ and so that was also kind of interesting because you see I had come ___ actually decided.
+People were taught out there that they had two ___ colors.
+On the down side ___ they had 24 bytes, 8 bytes assigned to a color,
+so they had 16 million choices on the outside thing.
+The engineer would __ on and on and on about how this was so far beyond
+what the human could see or the things __ dah dah dah, that it was ridiculous to have it.
+It was almost for free ___ and so that was also kind of interesting
+because you see I had come ___ actually decided.
 
-I went to work at Synertech to buy a couple of the latest research books on ___ and go read what the latest ___ was, and it turns out ___ just with the most minor train if a person doesn’t have defective vision with just a minor training can distinguish over 60,000 colors if it’s red or green, and can distinguish about 30,000 colors if it’s blue, so you only give up one byte if you’re blue and it’s hardly worthwhile making a big difference over ___ roughly 60, and guess what you need for that?  You need a dynamic ___ to cover what the human eye can deal with.  This is just average trained vision, you know, it’s not some super ___ type thing either.  But the thing what they do is they go to a blue ___ what you ___ where the blue is totally missing from ___ of part of the retina.  It’s missing from the, what’s it called, it’s the focal point where you have the sharper vision.
+I went to work at Synertech to buy a couple of the latest research books on ___
+and go read what the latest ___ was, and it turns out ___ just with the most minor train
+if a person doesn’t have defective vision with just a minor training can distinguish
+over 60,000 colors if it’s red or green, and can distinguish about 30,000 colors
+if it’s blue, so you only give up one byte if you’re blue and it’s hardly worthwhile
+making a big difference over ___ roughly 60, and guess what you need for that?
+
+You need a dynamic ___ to cover what the human eye can deal with.
+This is just average trained vision, you know, it’s not some super ___ type thing either.
+But the thing what they do is they go to a blue ___ what you ___ where the blue
+is totally missing from ___ of part of the retina.
+It’s missing from the, what’s it called, it’s the focal point where you have the sharper vision.
 
 *The cornea?
 
@@ -504,33 +1315,103 @@ No, the cornea is the general ___.
 
 *The rods?
 
-No, those are on the periphery and that ___ weak ___ but the thing is when you get down to the area of the sharpest vision, which was the part that my father lost in his vision from his macular degeneration of the macula, and the macula and the sharpest part of the focus there has no color, has no blue cones in there at all, and the way you get blue is by the fact that your eye is constantly sweeping ___ picking them up.
+No, those are on the periphery and that ___ weak ___ but the thing is
+when you get down to the area of the sharpest vision,
+which was the part that my father lost in his vision from his macular degeneration
+of the macula, and the macula and the sharpest part of the focus there has no color,
+has no blue cones in there at all, and the way you get blue is by the fact that your eye
+is constantly sweeping ___ picking them up.
 
-And in the sharpest vision, it’s just a mix of red cones and green cones, and that immediately processes that information locally into a different segment which gives you yellow and it encodes the yellow signal against the blue and gives a difference of that against blue and that’s why—try to imagine a shade of yellowish-blue or bluish-yellow.  Your brain can’t do it.  It’s totally impossible for your brain to do it.  Can’t even think of it because of the coding method of the eye.  Because ___ a greenish-yellow, chartreuse, ___ a reddish-yellow orange, delighted with that kind of stuff, but you can’t deal with yellow or blue mix because it’s already coded, it’s a different signal that is passed back to the rest of the brain.  And then you also get highest resolution in that area and it’s some signal that ___ yellow and then if you test for large areas and you look at all the fine changes, it turns out that you, you know as I say, over, so you’d need 16 bytes of that per color, and you’d need at least 15 ___, even if it is blue.
+And in the sharpest vision, it’s just a mix of red cones and green cones,
+and that immediately processes that information locally into a different segment
+which gives you yellow and it encodes the yellow signal against the blue
+and gives a difference of that against blue and that’s why—try to imagine
+a shade of yellowish-blue or bluish-yellow.  Your brain can’t do it.
+It’s totally impossible for your brain to do it.  Can’t even think of it
+because of the coding method of the eye.  Because ___ a greenish-yellow, chartreuse,
+___ a reddish-yellow orange, delighted with that kind of stuff,
+but you can’t deal with yellow or blue mix because it’s already coded,
+it’s a different signal that is passed back to the rest of the brain.
+And then you also get highest resolution in that area and it’s some signal
+that ___ yellow and then if you test for large areas and you look at all the fine changes,
+it turns out that you, you know as I say, over, so you’d need 16 bytes of that per color,
+and you’d need at least 15 ___, even if it is blue.
 
-So it was very interesting to take those, the ___ so what they do ___ image onto a screen where they’re really showing yellow, very yellow, bright yellow print onto a blue background and it turns out that this is an optical illusion type of thing where you have a tendency to lose the image across because of this cross thing eye elimination, each tends to eat the other, so if you ___ a small ___ even though a shiny bright, you can’t see it if it’s small, so then they varied the levels and there’s no way you could see ___ you really see vision over area, not a sharp point.
+So it was very interesting to take those, the ___ so what they do ___ image onto a screen
+where they’re really showing yellow, very yellow, bright yellow print onto a blue background
+and it turns out that this is an optical illusion type of thing where you have a tendency
+to lose the image across because of this cross thing eye elimination, each tends to eat
+the other, so if you ___ a small ___ even though a shiny bright, you can’t see it
+if it’s small, so then they varied the levels and there’s no way you could see ___ you really
+see vision over area, not a sharp point.
 
-And it later went on to some data compression algorithms for 8 byte data that I thought I could compress by using 8 byte data I could use 3 bytes for red, 3 bytes for green, and 2 bytes for blue because you can’t see that quite as well and then I could do some di__ algorithms  and other things like that or I could make a conventional monitor ___ as if you had the full 24-byte deep monitor.  Yet it didn’t.  But I never got to finish that work.
+And it later went on to some data compression algorithms for 8 byte data
+that I thought I could compress by using 8 byte data I could use 3 bytes for red,
+3 bytes for green, and 2 bytes for blue because you can’t see that quite as well
+and then I could do some di__ algorithms  and other things like that
+or I could make a conventional monitor ___ as if you had the full 24-byte deep monitor.
+Yet it didn’t.  But I never got to finish that work.
 
-But that was the reasoning this all was based upon.  And also that was the reason I ended up discussing people and people were into hardware and things like that because I kept re-entering and re-entering into this area time and again.  And each time ___ Holloway, they haven’t built that one, and the di___ at first, I finally at long last would be use air diffusion things like if you want a photo of someone.  But, boy that’s a long time coming ___.  So that goes and goes and goes.
+But that was the reasoning this all was based upon.  And also that was the reason
+I ended up discussing people and people were into hardware and things like that
+because I kept re-entering and re-entering into this area time and again.
+And each time ___ Holloway, they haven’t built that one, and the di___ at first,
+I finally at long last would be use air diffusion things like if you want a photo of someone.
+But, boy that’s a long time coming ___.  So that goes and goes and goes.
 
-*It’s nice to hear this because you shared some of this stuff last year when you and Dave and I talked. It’s nice to hear it again and put it on tape.
+*It’s nice to hear this because you shared some of this stuff last year
+when you and Dave and I talked. It’s nice to hear it again and put it on tape.
 
-This is the sort of thing I was working on toward, and I’m just curious about that cuz I think ___ use of the capability in the mind and vision.  And ___ on what people could really do.
+This is the sort of thing I was working on toward, and I’m just curious
+about that cuz I think ___ use of the capability in the mind and vision.
+And ___ on what people could really do.
 
 *How you doing?
 
 I’m tired.  I think that’s it.
 
-___ structured coupling.  The smarter the coupling, the more essential it becomes because modern biology systems have always been highly structured and very smart and very ___.  When I was out there, one of the things that was so frustrating when I first went to Synertech was that the company was convinced that human vision only involved about 256 discernible ___ human vision, so I was supposed to control ___ and the other thing, you had ___ about 256 for each output.  In other words, red had 256 levels, blue had 256 levels, green had 256 levels, and ___ it was so absurdly ___ any needs, any time or anything, that it was just ridiculous.  And then you could always map anything and anything else by the way you set the table up on the 256, you could draw of the what 16, roughly 16,000,000 ___ you could get out the other end.
+___ structured coupling.  The smarter the coupling,
+the more essential it becomes because modern biology systems
+have always been highly structured and very smart and very ___
 
-The problem is that ___ human vision is very much more complex in terms of the diodes per color.  For one thing, they don’t have any real iteration.  At the eye there is an immediate ___ between the red information and the green information that the individual sees so ___ and a different ___ information is then encoded as blue and the blues that are ___ and then you will see half red, half, you know green and yellow and this is yellow information that will be sent to the body.  OK?  It has a very interesting effect.  Take, you had ___ 
+When I was out there, one of the things that was so frustrating
+when I first went to Synertech was that the company was convinced
+that human vision only involved about 256 discernible ___ human vision,
+so I was supposed to control ___ and the other thing,
 
-I want you to do a little exercise.  Think of an intense yellow.  Yellow is an interesting material color because there’s something in yellow, like a very sharp range, a very narrow range that defines yellow in the spectrum and ___ yellow range defines yellow in terms of perception.  Yellow in human vision is completely __ from the different ___ so think of yellow green.  Can you give me a yellow green color.  Imagine it in your mind.
+you had ___ about 256 for each output.  In other words,
+red had 256 levels, blue had 256 levels, green had 256 levels,
+and ___ it was so absurdly ___ any needs, any time or anything,
+that it was just ridiculous.  And then you could always map anything
+and anything else by the way you set the table up on the 256,
+
+you could draw of the what 16, roughly 16,000,000 ___ you could get out the other end.
+
+The problem is that ___ human vision is very much more complex
+in terms of the diodes per color.  For one thing, they don’t have any real iteration.
+At the eye there is an immediate ___ between the red information
+and the green information that the individual sees so ___ and a different
+___ information is then encoded as blue and the blues that are ___
+
+and then you will see half red, half, you know green and yellow
+and this is yellow information that will be sent to the body.  OK?
+It has a very interesting effect.  Take, you had ___ 
+
+I want you to do a little exercise.  Think of an intense yellow.
+Yellow is an interesting material color because there’s something in yellow,
+like a very sharp range, a very narrow range that defines yellow in the spectrum
+and ___ yellow range defines yellow in terms of perception.
+Yellow in human vision is completely __ from the different ___ so
+think of yellow green.  Can you give me a yellow green color.
+Imagine it in your mind.
 
 -Like turquoise?
 
-What about chartreuse?  Chartreuse be a yellow-green to you?  And then what about yellow and red?  Yellow and red.  Two basic ones.  Orange.  Chartreuse and orange, have your mind visualize ___.  Fine.  Think of the most intense yellow you can think of and think the next thing with royal blue, the most intense royal blue you can think of.  Think what that makes.
+What about chartreuse?  Chartreuse be a yellow-green to you?
+And then what about yellow and red?  Yellow and red.  Two basic ones.  Orange.
+Chartreuse and orange, have your mind visualize ___.  Fine.
+Think of the most intense yellow you can think of and think the next thing
+with royal blue, the most intense royal blue you can think of.  Think what that makes.
 
 -Bright green.  Kelly green.
 
@@ -538,15 +1419,44 @@ Really?  Or nothing?
 
 -Are you talking about light?
 
-Yeah, light.  Not pigments painting out there.  Like white light.  Great.  You can’t combine those colors.  There’s no way to combine them.  You ___ because your ___ information ___ processes and there’s two different code paths for a red green path and a yellow, a blue yellow path.
+Yeah, light.  Not pigments painting out there.  Like white light.  Great.
+You can’t combine those colors.  There’s no way to combine them.
+You ___ because your ___ information ___ processes
+and there’s two different code paths for a red green path
+and a yellow, a blue yellow path.
 
-I would like to just throw one more thing on the vision thing. It turns out that if you have a really small area or you’re looking at fine text, can’t see color worth a damn.  Color vision is tied to area, large area, and in these blue color vision ___ color cone for blue, and the sharp, the macula has only red senses and green sensors, zero blue.  Zero blue.
+I would like to just throw one more thing on the vision thing.
+It turns out that if you have a really small area or you’re looking at fine text,
+can’t see color worth a damn.  Color vision is tied to area, large area,
+and in these blue color vision ___ color cone for blue, and the sharp,
+the macula has only red senses and green sensors, zero blue.  Zero blue.
 
-+Yeah, the distribution of colors in the human eyeball are mindboggling, they are hopelessly nonlinear.
++Yeah, the distribution of colors in the human eyeball are mindboggling,
+they are hopelessly nonlinear.
 
-And then ___ from there, that ___ high quality, high sharp vision but you don’t have any sense, as I look around this room, I can see blue at the top of that TV screen there, looking at it, blue light.  I’m not processing ___ blue is by looking slightly aside.  Other than that I cannot see blue because I am ___ on blue receptors in the line ___ part of the ___.  Then if you can take a pretty average person, give him a little bit of training, and ___ it turns out that he can see about 60,000 distinct different colors of red, about 60,000 distinct different colors of green, and about 30,000 colors of blue.  So now that’s his dynamic range that he has.
+And then ___ from there, that ___ high quality, high sharp vision
+but you don’t have any sense, as I look around this room,
+I can see blue at the top of that TV screen there, looking at it, blue light.
+I’m not processing ___ blue is by looking slightly aside.
+Other than that I cannot see blue because I am ___ on blue receptors
+in the line ___ part of the ___.  Then if you can take a pretty average person,
+give him a little bit of training, and ___ it turns out that he can see
+about 60,000 distinct different colors of red, about 60,000 distinct different colors of green,
+and about 30,000 colors of blue.  So now that’s his dynamic range that he has.
 
-How many ___ does that really take on a computer then to be able to not, don’t throw away part of the information.  It’s in two power because it’s ___ all your computers are based on two, but if you do the two-power again, it turns out you ___ about 16 different dynamic ___ give you 65 so you just have a little ___ we’ll code the 65,000 for those, and you can only drop out one bit but it’s hardly worth the trouble because I mean considering everything, different ___ so you might as well use 16 for that too so why then it takes ___ basic color ___.  You haven’t even said anything about the other aspects of vision.  How do you read and all this other jazz, you haven’t even talked about.  Cuz it was just basic color vision.  Takes 48 ___ right off the top.  Do you realize how far that is from what all the engineers were being trained a few years ago?
+How many ___ does that really take on a computer then to be able to not,
+don’t throw away part of the information.
+It’s in two power because it’s ___ all your computers are based on two,
+but if you do the two-power again, it turns out you ___ about 16 different dynamic
+___ give you 65 so you just have a little ___ we’ll code the 65,000 for those,
+and you can only drop out one bit but it’s hardly worth the trouble
+because I mean considering everything, different ___ so you might as well use 16 for that too
+so why then it takes ___ basic color ___.
+You haven’t even said anything about the other aspects of vision.
+How do you read and all this other jazz, you haven’t even talked about.
+Cuz it was just basic color vision.
+Takes 48 ___ right off the top.
+Do you realize how far that is from what all the engineers were being trained a few years ago?
 
 +Incredible.
 
@@ -554,73 +1464,209 @@ Also this sort of thing is like going ___.
 
 ### Carver Mead’s Retina
 
-*If you want to model the eye of the rabbit, there would be tons of things going on in a different function.
+*If you want to model the eye of the rabbit,
+there would be tons of things going on in a different function.
 
 -Oh yeah.
 
 Perhaps in Fresno.
 
-+Our hero, Carver Mead, has pointed out so nicely, that what happens in the visual system is that we don’t make any decisions based upon the information that comes in.  We’ve already filtered that data.
++Our hero, Carver Mead, has pointed out so nicely,
+that what happens in the visual system is that we don’t make any decisions
+based upon the information that comes in.  We’ve already filtered that data.
 
 Many times over.
 
-+Many times over. Carver has a beautiful example of this.  He built a retina, OK.  I mean it’s basically got all of the mechanisms that a retina has.  It has the photoreceptors; it basically has the horizontal cells; it has the amicron cells; it has all of the appropriate cells that are in that system.  What you find is that the amount of information that gets sent out of the back end of it is a whole lot less than the information that came into the front of the system.  What happened?  Somewhere in the biological system you’ve taken something like ten to the tenth inputs and you’ve reduced it down to maybe a thousand.  It’s an incredible filter.  
++Many times over. Carver has a beautiful example of this.  He built a retina, OK.
+I mean it’s basically got all of the mechanisms that a retina has.
+It has the photoreceptors; it basically has the horizontal cells;
 
-+And not only that, it’s adaptive. Even though you think you’ve got a constant system, it’s adapting itself constantly to changes. You haven’t even gotten to the point where you built the object yet.  That’s done way back in the visual cortex, which is way back here so you haven’t even gotten to the decision process yet.  Yet your eyeball is smart enough to say I’m not going to look at everything that’s out there.  I’m going to only look at contrast, and then I will rebuild the object at a different time.  What are we doing?  We’re looking at the contrast and rebuilding the biology at a different time.
+it has the amicron cells; it has all of the appropriate cells that are in that system.
+What you find is that the amount of information that gets sent out
+of the back end of it is a whole lot less than the information that came
+into the front of the system.  What happened?  Somewhere in the biological system
+you’ve taken something like ten to the tenth inputs and you’ve reduced it down
+to maybe a thousand.  It’s an incredible filter.  
 
-+The mathematics that Bland has is the mathematics that’s appropriate to biological systems.  Small biological systems.  When you get ten to the twenty-third, you don’t care.  Then those techniques that are invented by NP-complete problem guys is completely applicable but when you’re doing a hundred or ten or a thousand, you’ve got to go with Bland’s techniques, if you’re going to do it.
++And not only that, it’s adaptive.
+Even though you think you’ve got a constant system,
+it’s adapting itself constantly to changes. You haven’t even gotten to the point
+where you built the object yet.  That’s done way back in the visual cortex,
+which is way back here so you haven’t even gotten to the decision process yet.
+Yet your eyeball is smart enough to say I’m not going to look at everything
+that’s out there.  I’m going to only look at contrast, and then I will rebuild
+the object at a different time.  What are we doing?  We’re looking at the contrast
+and rebuilding the biology at a different time.
 
-+One of the most amazing things, I guess Bland has already mentioned this, is that when you take a look at the neurons that are actually firing interaction. I’m looking at Bland, OK, and what’s happening in my eyeball.  Now if I was to approach this from a point of view of the guy who just got a skinny camera, it’s a lot different than the way my eyeball would do it. The first thing that I’m doing is that I’m basically taking information, but my information is not on what my neuron firing pattern happens to be but what on my neuron not firing patterns happen to be.
++The mathematics that Bland has is the mathematics that’s appropriate
+to biological systems.  Small biological systems.  When you get ten to the twenty-third,
+you don’t care.  Then those techniques that are invented by NP-complete problem guys
+is completely applicable but when you’re doing a hundred or ten or a thousand,
+you’ve got to go with Bland’s techniques, if you’re going to do it.
 
-+What’s important in the retinal system is not that the neuron is firing.  They’re firing all the time. When I’m looking at Bland, the neurons that are not firing are the ones that are the key ones.  So it’s the exact opposite of the way that we as human beings would conceptualize the problem.  Our brain doesn’t do things like that.
++One of the most amazing things, I guess Bland has already mentioned this,
+is that when you take a look at the neurons that are actually firing interaction.
+I’m looking at Bland, OK, and what’s happening in my eyeball.  Now if I was to approach
+this from a point of view of the guy who just got a skinny camera,
+it’s a lot different than the way my eyeball would do it. The first thing that I’m
+doing is that I’m basically taking information, but my information is not on what
+my neuron firing pattern happens to be but what on my neuron not firing patterns
+happen to be.
 
-+In some systems the things have mirrored the, is we’ve said the individual has these particular properties and we won’t analyze because if we sit there and try to figure out what the rabbit is seeing as each photon is entering his eyeball, we’re dead meat.
++What’s important in the retinal system is not that the neuron is firing.
+They’re firing all the time. When I’m looking at Bland, the neurons that are not firing
+are the ones that are the key ones.  So it’s the exact opposite of the way that
+we as human beings would conceptualize the problem.  Our brain doesn’t do things
+like that.
 
--It’s going to be a long time.  You’ll die there.  But I was just thinking of the rainbow when he was talking, just the rainbow in the sky.  The yellow spectrum is just like this and the blues and purples are an enormous part of the rainbow.
++In some systems the things have mirrored the,
+is we’ve said the individual has these particular properties
+and we won’t analyze because if we sit there and try to figure out
+what the rabbit is seeing as each photon is entering his eyeball,
+we’re dead meat.
 
-+That is in part because of the way the eye processes the data, but it’s also in part because of the physical systems, the way the things are being refracted off the light drops.
+-It’s going to be a long time.  You’ll die there.
+But I was just thinking of the rainbow when he was talking,
+just the rainbow in the sky.  The yellow spectrum is just like this
+and the blues and purples are an enormous part of the rainbow.
+
++That is in part because of the way the eye processes the data,
+but it’s also in part because of the physical systems,
+the way the things are being refracted off the light drops.
 
 And then you even get a ___ rainbow.
 
 Optical Illusion of 3-D
 
-Then that is further encoded and divided and then passed back to the ganglia for just the first processing. That’s ___ 3D, the viewing stuff, hasn’t happened yet.  So all the stuff you saw those people doing ___ gee 3D is neat stuff.  Well it turns out the 3D processing is the next step too after that, but it depends on time structure and about 10% of the population doesn’t even create random dot patterns when using computers, very very precisely.  You could never test it before cuz there was no way you could do it by hand.  Talk about those things before and you never could do them by hand.  It was grim when you tried to, ___ supergram.
+Then that is further encoded and divided
+and then passed back to the ganglia for just the first processing.
+That’s ___ 3D, the viewing stuff, hasn’t happened yet.
+So all the stuff you saw those people doing ___ gee 3D is neat stuff.
+Well it turns out the 3D processing is the next step too after that,
+but it depends on time structure and about 10% of the population doesn’t even
+create random dot patterns when using computers, very very precisely.
+You could never test it before cuz there was no way you could do it by hand.
+Talk about those things before and you never could do them by hand.
+It was grim when you tried to, ___ supergram.
 
 +Grim is the appropriate word.
 
-So the thing is, here you have a ___ you can create, write one thing ___ thing will float out in space.  It’s crazy.  I actually have the first book that ever came out on that.  I kept it, ___ anyway I’ll show you that.  The first research that showed the ___ the whole thing is about 10% of the population isn’t able to do it.  So it often becomes, well because it’s, you have other problems like ___ and other things.
+So the thing is, here you have a ___ you can create,
+write one thing ___ thing will float out in space.  It’s crazy.
+I actually have the first book that ever came out on that.
+I kept it, ___ anyway I’ll show you that.
 
-It was on perception.  Hang on, turn this off, I’ll go get it.  You don’t know this one?
+The first research that showed the ___ the whole thing
+is about 10% of the population isn’t able to do it.
+So it often becomes, well because it’s, you have other problems like ___ and other things.
+
+It was on perception.  Hang on, turn this off, I’ll go get it.
+
+You don’t know this one?
 
 *No.  Foundations of Cyclopean Perception, Bela Julesz.
 
-He was another IBM scientist.  It’s got some great stuff in it.  This all has to do with cyclopean and binocular vision.  If you can stare at them all cross-eyed or if you use a stereo imager, things will pop out of the page at you.  They now do posters of this and make lots of money on it.  I didn’t steal this from him but it was in his library and I insisted I needed a copy.  So yeah, this was the kind of stuff he tried to do on graph paper, on monitors, on anything.
+He was another IBM scientist.  It’s got some great stuff in it.
+This all has to do with cyclopean and binocular vision.
+If you can stare at them all cross-eyed or if you use a stereo imager,
+things will pop out of the page at you.
+They now do posters of this and make lots of money on it.
+I didn’t steal this from him but it was in his library
+and I insisted I needed a copy.
+So yeah, this was the kind of stuff he tried to do on graph paper,
+on monitors, on anything.
 
 ### Color-Blind Friends
 
-And the other thing that was really kind of intriguing that happened also, one of my best friends was Bill Pilkington who I mentioned was the head of the group that did the satellite construction there at JPL and it turned out that one, the random color things came up.  I had, except when I got, I was born with the fact that I got stereovision and color vision.  He was always having to give me __ he’d hand me these __ and say, “I can’t tell if this is red or green here on this band.  Would you tell me which it is?”  Cuz he had red-green color vision blindness.
+And the other thing that was really kind of intriguing that happened also,
+one of my best friends was Bill Pilkington
+who I mentioned was the head of the group that did the satellite construction
+there at JPL and it turned out that one, the random color things came up.
+I had, except when I got, I was born with the fact that I got stereovision
+and color vision.  He was always having to give me __ he’d hand me these __
+and say, “I can’t tell if this is red or green here on this band.
+Would you tell me which it is?”  Cuz he had red-green color vision blindness.
 
-Well later on we went out to the Goldstone Dry Lake where the satellite dish had just gone up.  One of the things we did was __ in it and up and around.  He wanted to show me that because that was really the first dish that we were really doing this stuff.  And then we’d go from there to Death Valley across the bombing ranges where you’re not supposed to be but we already were out that way.  At that time nobody ever bombed on the weekends anyway.  We did it on a weekend, holiday weekend.
+Well later on we went out to the Goldstone Dry Lake where the satellite dish
+had just gone up.  One of the things we did was __ in it and up and around.
+He wanted to show me that because that was really the first dish
+that we were really doing this stuff.  And then we’d go from there to Death Valley
+across the bombing ranges where you’re not supposed to be but we already were out that way.
+At that time nobody ever bombed on the weekends anyway.
+We did it on a weekend, holiday weekend.
 
-We went from there to Quail Springs and here was this piece of, totally unshot up piece, we brought it back to, it said Quail Springs, 2.5 miles, and it was a real __ type thing that it was __ enamel.  Glass enamel on metal.  Glass enamel on metal.  It was looking just as bright and new out there in the middle of the desert as it could be anywhere.
+We went from there to Quail Springs and here was this piece of, totally unshot up piece,
+we brought it back to, it said Quail Springs, 2.5 miles, and it was a real __ type thing
+that it was __ enamel.  Glass enamel on metal.  Glass enamel on metal.
+It was looking just as bright and new out there in the middle of the desert
+as it could be anywhere.
 
-I had spent my entire life looking at this thing of Quail Springs.  There was a place called Owl Head Mountain.  It turns out that Owl Head Mountain is a cartographer’s dream __.  When we actually got there, it turned out it’s __ Owl’s Head, a stereomap of a certain scale.  The other scale, when you get there, it doesn’t look like an Owl’s head at all.  So it was a cartographer’s name for something that stood out looking just exactly like an owl’s head.  I used to have sets of all the desert just about.  So while we were also doing that and here we were in the middle of the bombing range, __ process.  __ cada, creosote bush, ok. It’s shrub __, and to me it was.
+I had spent my entire life looking at this thing of Quail Springs.
+There was a place called Owl Head Mountain.
+It turns out that Owl Head Mountain is a cartographer’s dream __.
+When we actually got there, it turned out it’s __ Owl’s Head,
+a stereomap of a certain scale.
 
-Here was this sign out there that was brilliant red.  Brilliant, brilliant red standing out against the tan color, greenish tan of the creosole bush.  Bright, bright, bright, bright red against the tan of the creosote bush.  And Bill said, “I see a sign out there but I can’t tell if it’s green or red.  Could you tell me?  Is there really something there because I can just barely see it.”  Well apparently, the color blindness of red-green color blindness, which he had pretty severely, made it so that for one he couldn’t tell if that was a red or green sign out there.  He really couldn’t see it standing out from the background of the green of the __ creosote bush.  It was really intriguing.
+The other scale, when you get there, it doesn’t look like an Owl’s head at all.
+So it was a cartographer’s name for something that stood out
+looking just exactly like an owl’s head.
+I used to have sets of all the desert just about.
 
-Now here I was after we founded Graphon and I was having to __ for what color the president of the company, red-green things again.  He had a red-green color blindness that was at least as severe as Bill Pilkington’s color blindness.  __ again because __ the red bands and the green bands.    How is that for an interesting?
+So while we were also doing that and here we were in the middle of the bombing range,
+__ process.  __ cada, creosote bush, ok. It’s shrub __, and to me it was.
+
+Here was this sign out there that was brilliant red.
+Brilliant, brilliant red standing out against the tan color,
+greenish tan of the creosole bush.
+Bright, bright, bright, bright red against the tan of the creosote bush.
+And Bill said, “I see a sign out there but I can’t tell if it’s green or red.
+Could you tell me?  Is there really something there because I can just barely see it.”
+Well apparently, the color blindness of red-green color blindness,
+which he had pretty severely, made it so that for one he couldn’t tell
+if that was a red or green sign out there.
+He really couldn’t see it standing out from the background
+of the green of the __ creosote bush.
+It was really intriguing.
+
+Now here I was after we founded Graphon and I was having to __
+for what color the president of the company, red-green things again.
+He had a red-green color blindness that was at least as severe
+as Bill Pilkington’s color blindness.
+__ again because __ the red bands and the green bands.
+How is that for an interesting?
 
 *Yeah, it is interesting.  It’s a small world.
 
-So here and there their engineers get on __ but somebody still has to sort, this is where __ make some bad mistakes in what they put into what __.  Yeah, it’s one of those things where here I was doing things like that for Walt __ and Bill Pilkington to help them with their color blindness.
+So here and there their engineers get on __ but somebody still has to sort,
+this is where __ make some bad mistakes in what they put into what __.
+Yeah, it’s one of those things where here I was doing things like that
+for Walt __ and Bill Pilkington to help them with their color blindness.
 
 Art
 
-Where this book on perception and everything, and probably where the fractals come from and a lot of other things is that Bland’s very visual.  He’s a perfectionist and everything else.  When he was at Graphon and he was talking about getting out and having some time, what he really wanted to do was make a robot for making jewelry.  He wanted to do enamel jewelry and he wanted it to be basically micro robot-controlled so that he could do drawings in whatever mode on a screen in multi colors and have a robot going down and putting down tiny glass chips for doing enameling.  It was the type of enameling.
+Where this book on perception and everything,
+and probably where the fractals come from and a lot of other things
+is that Bland’s very visual.
+He’s a perfectionist and everything else.
+When he was at Graphon and he was talking about getting out
+and having some time, what he really wanted to do was make a robot
+for making jewelry.
+He wanted to do enamel jewelry and he wanted it to be basically
+micro robot-controlled so that he could do drawings in whatever mode
+on a screen in multi colors and have a robot going down and putting
+down tiny glass chips for doing enameling.
+It was the type of enameling.
 
 *Cloisonné.
 
-Yeah, that doesn’t have boundaries between the different colors of glass, and he wanted to do that, and that was his goal in looking at funny languages like Logo and in working with micros and playing with all this.  One of his goals was to do Cloisonné and come up with a robot that will let you do it better than anybody in the world had ever been able to do it because the computers basically had that kind of precision.
+Yeah, that doesn’t have boundaries between the different colors of glass,
+and he wanted to do that,
+and that was his goal in looking at funny languages like Logo
+and in working with micros and playing with all this.
+One of his goals was to do Cloisonné
+and come up with a robot that will let you do it better
+than anybody in the world had ever been able to do it
+because the computers basically had that kind of precision.
 
 *So you still have the artistic.
 
@@ -628,7 +1674,14 @@ You still have the artistic part of it.
 
 *It is in the development of the design.
 
-And in terms of the development of the design or design that was doable but you didn’t have to spend a million years working through a microscope with hand-held micro-manipulators putting the glass down. And knowing him, he probably would have also had precision-controlled ovens to do the melting process and everything else.  But that actually may not have been anywhere near as hard a part of the process.  He never did that.  He never got away.  He always had sort of higher goals for the stuff he wanted to do.
+And in terms of the development of the design or design that was doable
+but you didn’t have to spend a million years working through a microscope
+with hand-held micro-manipulators putting the glass down.
+And knowing him, he probably would have also had precision-controlled ovens
+to do the melting process and everything else.
+But that actually may not have been anywhere near as hard a part of the process.
+He never did that.  He never got away.
+He always had sort of higher goals for the stuff he wanted to do.
 
 *Yeah, he never mentioned anything like that to me.
 
@@ -638,17 +1691,30 @@ Yeah, I know, but you were academic and this was.
 
 So apparently he mentioned Cloisonné too.
 
-*No, he didn’t, I know Cloisonné.  Over the last year or so, he’d talk about wanting to do art but what he’d actually do is tinker with trying to understand the system.  He never quite got to doing the art.
+*No, he didn’t, I know Cloisonné.
+Over the last year or so, he’d talk about wanting to do art
+but what he’d actually do is tinker with trying to understand the system.
+He never quite got to doing the art.
 
-Well, in some ways I think he may be like me.  I like building tools more than using them.
+Well, in some ways I think he may be like me.
+I like building tools more than using them.
 
 *Well, I’m sort of like that in my own way.
 
-So you know spend time making a nice shop in the garage so that I know it’s there if I ever need it.  I’ll keep modifying the shop but I won’t ever build anything significant with it.  The yard is different.  I’m hoping I’m building something significant there.
+So you know spend time making a nice shop in the garage
+so that I know it’s there if I ever need it.
+I’ll keep modifying the shop but I won’t ever build anything significant with it.
+The yard is different.
+I’m hoping I’m building something significant there.
 
 *Yeah.  The tools are the art.
 
-I always liked big stuff, I mean I enjoyed working on cars or gardening, landscaping, that kind of thing, or my antique steam engine which I still haven’t done anything with.  Trish says, `What do you mean, we don’t have room in the garage?  Just get rid of that damn steam engine and we’ll have plenty.’  I say, `It doesn’t take up that much space.  Two trash cans.’
+I always liked big stuff,
+I mean I enjoyed working on cars or gardening, landscaping, that kind of thing,
+or my antique steam engine which I still haven’t done anything with.
+Trish says, `What do you mean, we don’t have room in the garage?
+Just get rid of that damn steam engine and we’ll have plenty.’
+I say, `It doesn’t take up that much space.  Two trash cans.’
 
 *Put it in one and put the other trash can on top.
 
@@ -656,71 +1722,134 @@ Well, yeah.
 
 *Stick it out by the side of the road and it will be gone.
 
-The recyclers will take it.  It’s all steel, just iron.  Bland always wanted to do this little tiny stuff.  He was a perfectionist and some.  Often I believe his perfectionism kept him from finishing stuff.  He had his Schwinn Paramount racing bike that was up in the rafters for years and years and years because he couldn’t ever quite get the parts he wanted for it.
+The recyclers will take it.  It’s all steel, just iron.
+Bland always wanted to do this little tiny stuff.
+He was a perfectionist and some.
+Often I believe his perfectionism kept him from finishing stuff.
+He had his Schwinn Paramount racing bike that was up in the rafters
+for years and years and years because he couldn’t ever quite get the parts
+he wanted for it.
 
 
 ________________
 
-[1]    Issue of Eisenhower prohibiting use of military vehicle for satellite launched muddied by Stewart's noting that the Vanguard had a Classified launch check list exactly like the kind Atlas had (Stewart- Wilson interview, Tape 12).
+[1]    Issue of Eisenhower prohibiting use of military vehicle
+for satellite launched muddied by Stewart's noting
+that the Vanguard had a Classified launch check list exactly like
+the kind Atlas had (Stewart- Wilson interview, Tape 12).
+In October 1957 JPL'ers judged the probability of Vanguard working as "low"
+and about 5 times the cost of the ABMA-JPL Redstone idea of orbiting six
+15 to 20 pound satellites, $100 million versus $20 million
+("Project Red Socks," October 21, 1957, p. 1, HC 2-581B).
 
-        In October 1957 JPL'ers judged the probability of Vanguard working as "low"  and about 5 times the cost of the ABMA-JPL Redstone idea of orbiting six 15 to 20 pound satellites, $100 million versus $20 million ("Project Red Socks," October 21, 1957, p. 1, HC 2-581B).
+[2]    "Project Red Socks," October 21, 1957, pp. 1-5, in a 13 page report
+in a binder with an embossed title, copy Number 1 at HC 2-581B (bound item shelf).
+As a result of the launch of Sputnik, "it is immediately imperative that the
+United States regain its stature in the eyes of the world by producing
+a significant technological advance over the Soviet Union.  Furthermore,
+it is essential that this advance be in the field of rocketry and space flight."
+(Ibid., p. 1).
 
-[2]    "Project Red Socks," October 21, 1957, pp. 1-5, in a 13 page report in a binder with an embossed title, copy Number 1 at HC 2-581B (bound item shelf).
+[3]    A 6 page untitled, undated JPL press release concerning history
+of the Explorer I, p. 3, Walt Powell Collection.
 
-        As a result of the launch of Sputnik, "it is immediately imperative that the United States regain its stature in the eyes of the world by producing a significant technological advance over the Soviet Union.  Furthermore, it is essential that this advance be in the field of rocketry and space flight." (Ibid., p. 1).
+[4]    Pickering and Medaris were in Maderis' office at Huntsville
+and received a teletype authorization (A 6 page untitled, undated JPL press
+release concerning history of the Explorer I, pp. 3-4, Walt Powell Collection).
 
-[3]    A 6 page untitled, undated JPL press release concerning history of the Explorer I, p. 3, Walt Powell Collection.
-
-[4]    Pickering and Medaris were in Maderis' office at Huntsville and received a teletype authorization (A 6 page untitled, undated JPL press release concerning history of the Explorer I, pp. 3-4, Walt Powell Collection).
-
-[5]    Vanguard program under the direction of Dr. John Peter Hagen of Naval Research Lab with first stage engines by GE and assembly by Glenn Martin (Martin-Marietta) near Baltimore, Aerojet with 2nd stage with Minn-Honeywell guidance.  Third stage by Grand Central Rocket Co and ABL.  Martin with Viking rocket as forerunner to Vanguard and new Titan contract from Air Force didn't spend much care on low budget Vanguard after it started in 1955 (e.g.,Viking engineers now working on Titan).
-
-        H.J. Stewart had chaired Pentagon's Stewart Committee (Committee on Special Capabilities) to choose Army (3 stages: Redstone + clustered Sergeants + clustered Sergeants) or Navy (3 stages: Viking + Aerobee + still to be designed solid third stage) satellite.  Committee choose Navy proposal in August 1955 (with Stewart and one other voting for Army.)  Redstone could place a small mass in orbit, Viking a large mass (20 lbs; in fact 6 inch sphere and third stage casing orbited 3-17-58 weighed 55 lbs).  Redstone future modification a part of military missiles; Viking not a part of military missiles.  Redstone available soon-now; Viking still in design (3rd stage weighed 500 lbs; solid fuel).
-
-        Vanguard 3rd stage test launched in spring of 1957.
-
-        Hagen defends Vanguard on the basis that the program started from scratch--"Vanguard started with virtually nothing in 1955"-- and had a fully successful flight a 2 1/2 years later, 3-17-58.  Also sees its greatest success (its first used solar cells in space) as the people who migrated from Vanguard to Goddard SFC in Greenbelt, MD and formed its core.
+[5]    Vanguard program under the direction of Dr. John Peter Hagen
+of Naval Research Lab with first stage engines by GE and assembly by Glenn
+Martin (Martin-Marietta) near Baltimore, Aerojet with 2nd stage with
+Minn-Honeywell guidance.  Third stage by Grand Central Rocket Co and ABL.
+Martin with Viking rocket as forerunner to Vanguard and new Titan contract
+from Air Force didn't spend much care on low budget Vanguard after it started
+in 1955 (e.g.,Viking engineers now working on Titan).
+H.J. Stewart had chaired Pentagon's Stewart Committee (Committee on Special
+Capabilities) to choose Army (3 stages: Redstone + clustered Sergeants +
+clustered Sergeants) or Navy (3 stages: Viking + Aerobee + still to be
+designed solid third stage) satellite.  Committee choose Navy proposal in
+August 1955 (with Stewart and one other voting for Army.)  Redstone could
+place a small mass in orbit, Viking a large mass (20 lbs; in fact 6 inch
+sphere and third stage casing orbited 3-17-58 weighed 55 lbs).  Redstone future
+modification a part of military missiles; Viking not a part of military
+missiles.  Redstone available soon-now; Viking still in design (3rd stage
+weighed 500 lbs; solid fuel).
+Vanguard 3rd stage test launched in spring of 1957.
+Hagen defends Vanguard on the basis that the program started
+from scratch--"Vanguard started with virtually nothing in 1955"-- and had a
+fully successful flight a 2 1/2 years later, 3-17-58.  Also sees its greatest
+success (its first used solar cells in space) as the people who migrated
+from Vanguard to Goddard SFC in Greenbelt, MD and formed its core.
 
 [6]    Burke - Bane 1987 oh interview, p. 11.
 
-[7]    Froehlich explained the name in the Washington Evening Star, 2-5-59, p. B-12: after the Sputnik launch, the Russians had won big and in cards "'When a big pot is won, the winner sits around and cracks bad jokes and the loser cries, "Deal!"'"
+[7]    Froehlich explained the name in the Washington Evening Star, 2-5-59, p. B-12:
+after the Sputnik launch, the Russians had won big and in cards
+"'When a big pot is won, the winner sits around and cracks bad jokes
+and the loser cries, "Deal!"'"
 
 [8]    Al Hibbs - Hall&Wilson oral history interview, JPL Archives, pp. 8-9.
 
 [9]    In 1949 received the C.N. Hickman/Propulsion Award for work in solid propellants
 
-[10]    Koppes reports Pickering's pre-meeting {on 11-8-57?} negotiations with Army General Bruce Medaris to get the satellite role assigned to JPL and not to ABMA [Huntsville].  Koppes calls this "momentous" in shaping the future JPL role as satellite/probe maker.  Medaris wanted project completed in 80 days, Jack James suggests, because of Verne's Around the World in 80 Days.
+[10]    Koppes reports Pickering's pre-meeting {on 11-8-57?} negotiations
+with Army General Bruce Medaris to get the satellite role assigned to JPL
+and not to ABMA [Huntsville].  Koppes calls this "momentous" in shaping
+the future JPL role as satellite/probe maker.  Medaris wanted project completed
+in 80 days, Jack James suggests, because of Verne's Around the World in 80 Days.
 
 [11]    Developed for tracking the RTV nosecone vehicles/nosecones.
 
-[12]    Photos @ 15-3316 to 3321, February 4, 1958.  Larry L. Simms of JPL supervised people from the University College at Ibadan (A 6 page untitled, undated JPL press release concerning history of the Explorer I, p. 6, Walt Powell Collection),
+[12]    Photos @ 15-3316 to 3321, February 4, 1958.  Larry L. Simms of JPL
+supervised people from the University College at Ibadan (A 6 page untitled,
+undated JPL press release concerning history of the Explorer I, p. 6,
+Walt Powell Collection),
 
 [13]    Cf. photo @ 15-3323B.  See also 15-3640E.  Microlock equipment @ 8-2808B.
 
-[14]    Located in San Diego County, this site would be the receiver that confirmed that Explorer I had in fact achieved orbit.
+[14]    Located in San Diego County, this site would be the receiver
+that confirmed that Explorer I had in fact achieved orbit.
 
-[15]    Lloyd J. Derr from JPL supervised British scientists from the Malaya University radio research substation DSIR (A 6 page untitled, undated JPL press release concerning history of the Explorer I, p. 6, Walt Powell Collection).
+[15]    Lloyd J. Derr from JPL supervised British scientists from the Malaya
+University radio research substation DSIR (A 6 page untitled, undated JPL
+press release concerning history of the Explorer I, p. 6, Walt Powell Collection).
 
-[16]    A 6 page untitled, undated JPL press release concerning history of the Explorer I is in the Walt Powell Collection.
+[16]    A 6 page untitled, undated JPL press release concerning history
+of the Explorer I is in the Walt Powell Collection.
+The Walt Powell Collection also contains a 4 page undated leaflet
+(text in purple ink; with photographs and an illustration) commemorating
+the Explorer I launch.
+The Van Allen, Von Braun, Pickering raised satellite at National Press Club
+photo is not a part of the JPL photoset.  Photos are located at NASA History
+Office, call number 788H136.
 
-        The Walt Powell Collection also contains a 4 page undated leaflet (text in purple ink; with photographs and an illustration) commemorating the Explorer I launch.
-
-        The Van Allen, Von Braun, Pickering raised satellite at National Press Club photo is not a part of the JPL photoset.  Photos are located at NASA History Office, call number 788H136.
-
-[17]    Installed for initial Vanguard at Grand Turk, Mayaguana, Antigua plus Blossom Point MD and southward to Santiago, Chile.  By 9-57 seven stations operational.  Used 108 Mhz beacon on the vehicle with receiver interferometer separation of 500 feet.  Receivers also established at Woomera and Pretoria.  Prior NRL Minitrack prototype station in San Diego also used.  Computing facility established in downtown Washington, monitor and control at NRL in Anacostia, all tied by teletype communications.
-
-        Navy developed this into the Active Minitrack System and given name SPASUR, a space surveillance system for satellites.
+[17]    Installed for initial Vanguard at Grand Turk, Mayaguana, Antigua
+plus Blossom Point MD and southward to Santiago, Chile.  By 9-57 seven stations
+operational.  Used 108 Mhz beacon on the vehicle with receiver interferometer
+separation of 500 feet.  Receivers also established at Woomera and Pretoria.
+Prior NRL Minitrack prototype station in San Diego also used.  Computing
+facility established in downtown Washington, monitor and control at NRL
+in Anacostia, all tied by teletype communications.
+Navy developed this into the Active Minitrack System and given name SPASUR,
+a space surveillance system for satellites.
 
 [18]    JPL and ABMA did Explorers up to October 13, 1959, Explorer 8.
-
-        Explorer 2, according to Al Hibbs - Don Bane interview, was "the world's first 24 hour satellite"; it went around once a day at the bottom of the Atlantic Ocean.
+Explorer 2, according to Al Hibbs - Don Bane interview, was "the world's
+first 24 hour satellite"; it went around once a day at the bottom of the
+Atlantic Ocean.
 
 [19]    Film report, Time and Space, located at Rowe 169 and 178.
+Jack Froelich and Dr. Kurt H. Debas, head of ABMA Missile Launching Laboratory,
+were shown in film as project leaders.
 
-        Jack Froelich and Dr. Kurt H. Debas, head of ABMA Missile Launching Laboratory, were shown in film as project leaders.
-
-[20]    Pioneer 1 launched 10-11-58: Van Allen himself stated that Pioneer 1 data was worthless, undecipherable, and noisy until Space Technology Laboratories unscrambled it. - Hist Col 3-171, an un-attributed single typed sheet.  Possibly part of this meant move of telemetry frequency from 108 Mhz to 960 Mhz.  Microlink equipment could also be adapted to this new frequency used for Pioneer 3 and 4.
-
-        To track Pioneer 1 a World Tracking Net was established with receivers at Cape Canaveral, Jodrell Bank, Singapore, Hawaii and a portable station at Salisbury, Southern Rhodesia (Corliss, Space Probes, p. 17).
+[20]    Pioneer 1 launched 10-11-58: Van Allen himself stated that Pioneer 1
+data was worthless, undecipherable, and noisy until Space Technology Laboratories
+unscrambled it. - Hist Col 3-171, an un-attributed single typed sheet.
+Possibly part of this meant move of telemetry frequency from 108 Mhz to
+960 Mhz.  Microlink equipment could also be adapted to this new frequency
+used for Pioneer 3 and 4.
+To track Pioneer 1 a World Tracking Net was established
+with receivers at Cape Canaveral, Jodrell Bank, Singapore, Hawaii and a
+portable station at Salisbury, Southern Rhodesia (Corliss, Space Probes, p. 17).
 
 [21]    Time, March 8, 1963, p. 78.

@@ -11,3 +11,4 @@ rmd_files: [
   "09-scientific-musings.Rmd",
   "10-computation.Rmd"
 ]
+output_dir: "docs"

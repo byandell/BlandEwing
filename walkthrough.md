@@ -42,7 +42,7 @@ The project is organized into a modular `bookdown` repository:
 
 - **`index.Rmd`**: Project metadata, preface, and global configuration.
 - **`style.css`**: The core design system (Georgia typography, indented paragraphs, and source blocks).
-- **`_bookdown.yml`**: Strategic chapter ordering (01-10 sequentially).
+- **`_bookdown.yml`**: Strategic chapter ordering (01-10 sequentially); output directory is `docs`.
 - **`_output.yml`**: Multi-format render settings with TOC depth control.
 - **`walkthrough.md`**: This perpetual record of the project's evolution.
 
@@ -67,6 +67,8 @@ The project is organized into a modular `bookdown` repository:
 - [x] **Formatting**: Confirmed 1/2-inch indent and 1.15 line spacing.
 - [x] **TOC**: Verified that subsections are hidden in the sidebar for cleaner navigation.
 - [x] **Source Blocks**: Confirmed that reference blocks in chapters **04, 06, 07, 08, and 09** use the tight offset styling.
-- [x] **Stability**: Build completes successfully with `bookdown::render_book("index.Rmd")`.
+- [x] **Stability**: Build completes successfully with
+`bookdown::render_book("index.Rmd", "bookdown::gitbook")`.
 
-> To view the final book, open `_book/index.html` in any web browser.
+> To view the final book, open `docs/index.html` in any web browser.
+> This is published as <https://byandell.github.io/BlandEwing/>.

@@ -8,4 +8,4 @@ Additional information available at
 
 See the
 [Transformation Walkthrough](walkthrough.md)
-for details about the transformation of the original document into this book.
+for details about how the original google doc was transformed into this book.

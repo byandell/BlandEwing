@@ -7,7 +7,7 @@ bookdown::gitbook:
         <li><a href="./">Bland Ewing Story</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/byandell/BlandEwing/
+    edit: https://github.com/byandell/BlandEwing/edit/master/%s
     download: ["pdf", "epub"]
     toc_depth: 2
 bookdown::pdf_book:

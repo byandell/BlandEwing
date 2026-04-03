@@ -143,7 +143,7 @@ all miss him.
 
 ## The Bland I knew
 
-There is a custom among the Navajo people, that at dawn each member of
+JB: There is a custom among the Navajo people, that at dawn each member of
 the Dine’ faces East – the rising sun - and says a prayer. The prayer
 goes like this:
 
@@ -1525,7 +1525,7 @@ test, and did OK.
 
 ## Caltech
 
-1.  Caltech caltech.1-14 Korean War caltech.1
+1. Caltech caltech.1-14 Korean War caltech.1
 
          Altadena / Leighton        caltech.1
 
@@ -2534,7 +2534,7 @@ efforts and other people’s efforts \_\_\_.
 
 ## Pranks
 
-1.  Pranks pranks.1-17
+1. Pranks pranks.1-17
 
          Altadena Sewer System        pranks.1
 
@@ -3074,7 +3074,7 @@ chorea remains pretty slow. So that’s good.
 
 1: Dad identified in 1960, biology of HD, Woody Guthrie
 
-1.  Huntington’s Disease hd.1-26
+1. Huntington’s Disease hd.1-26
 
         Present Time / Health        hd.1
 
@@ -4684,7 +4684,7 @@ IBM 709, Fortran, Feller
 
 4: Goldstone Dry Lake
 
-1.  Carter Labs carterlabs.1-3
+1. Carter Labs carterlabs.1-3
 
          Fuel Cell Patent        carterlabs.2
 
@@ -4862,7 +4862,7 @@ than that. Kernel efficiency in the loop.
 
 ### From Sputnik to Explorer
 
-1.  Explorer explorer.1-25
+1. Explorer explorer.1-25
 
          Present Time        explorer.1
 
@@ -4964,7 +4964,7 @@ Brian
 
 > University of Wisconsin-Madison. So much for credentials.
 
-> 
+>
 
 > Bland’s father Frederick Ewing was a student of Linus Pauling in the
 
@@ -4979,7 +4979,7 @@ Brian
 
 > Symphony; AE would play the violin if it were handed to him.
 
-> 
+>
 
 > In the mid 1950’s, Bland worked at Carter Labs in Pasadena, with
 > “only” a
@@ -5005,7 +5005,7 @@ Brian
 > batteries of the first several Explorer satellites after he checked
 > them out.
 
-> 
+>
 
 > Bland did the telemetry calculations on an IBM 709 machine. Actually,
 > he
@@ -5031,7 +5031,7 @@ Brian
 
 > able to do.
 
-> 
+>
 
 > Hopefully, you find this interesting. It is only a fraction of Bland’s
 
@@ -5054,7 +5054,7 @@ Brian
 
 > contact with Explorer 1.
 
-> 
+>
 
 > Bland Ewing is still alive, but is suffering from Huntington’s
 > Disease, the
@@ -5064,7 +5064,7 @@ Brian
 
 > His memory of dates and names is intermittent.
 
-> 
+>
 
 Date: Wed, 10 Jun 1998 09:38:03 -0700
 
@@ -6966,7 +6966,7 @@ basement. You couldn’t even get at them.
 
 4: ecology
 
-1.  UC Riverside riverside.1-7
+1. UC Riverside riverside.1-7
 
          Getting There        riverside.1
 
@@ -7326,7 +7326,7 @@ all of them depend on a clear night, not overcast.
 
         5: biology dept, CS, PhD
 
-1.  UC Irvine riverside.7-21
+1. UC Irvine riverside.7-21
 
         Undergraduate Degree        riverside.7
 
@@ -7662,7 +7662,7 @@ and I moved into the apartment housing there, later on.
 
         MathBio
 
-1.  UC Berkeley berkeley.1-7
+1. UC Berkeley berkeley.1-7
 
         Man and His Environment        berkeley.1
 
@@ -9758,7 +9758,7 @@ Micros in Stinson Beach
 
         4: microscopes at Bolinas School
 
-1.  Stinson Beach stinson.1-7
+1. Stinson Beach stinson.1-7
 
         Micros        stinson.1
 
@@ -10415,7 +10415,7 @@ just shouldn’t die so he also bought the rights.
 
 ### Synertech
 
-1.  Synertech synertech.1-15
+1. Synertech synertech.1-15
 
         Star        synertech.11
 
@@ -11337,7 +11337,7 @@ and on the direction that Apple was headed.
 
 ### Graphon and Stanford
 
-1.  Graphon graphon.1-27
+1. Graphon graphon.1-27
 
         Present Time        graphon.1
 
@@ -11847,7 +11847,7 @@ this 6809, Brushingham’s.
 The next thing I did was to pull \_\_ fractal type one **. What’s that
 fractal** that has all pyramids? Pyramid type things.
 
-\*Lorenz? No. 
+\*Lorenz? No.
 
 No, the other one \_\_.
 
@@ -13477,7 +13477,7 @@ Good. Thank you very very much Brian.
 
 #### Computers
 
-1.  Computers computers.1-15
+1. Computers computers.1-15
 
         Snow White and the Seven Dwarfs        computers.1
 
@@ -14390,7 +14390,7 @@ Math
 
 4: math
 
-1.  Math math.1-17
+1. Math math.1-17
 
          High School        math.1
 
@@ -14431,7 +14431,7 @@ and all that good stuff.
 
 MathBio
 
-1.  Mathematical Biology mathbio.1-13
+1. Mathematical Biology mathbio.1-13
 
         Mathematical Biology        mathbio.1
 
@@ -15194,7 +15194,7 @@ You have to get burned a number of times to get it.
 
 Papers
 
-1.  Modeling Papers papers.1-12
+1. Modeling Papers papers.1-12
 
         Finding the Papers        papers.1
 
@@ -15212,7 +15212,7 @@ Papers
 
 Examples
 
-1.  Model Examples examples.1-14
+1. Model Examples examples.1-14
 
         Bark Beetles        examples.1
 
@@ -16232,7 +16232,7 @@ you do know what it is, it’s a nonlinear compartmental model.
 
 ### Model Theory
 
-1.  Model Theory theory.1-19
+1. Model Theory theory.1-19
 
         Five Parameters        theory.2
 
@@ -17200,7 +17200,7 @@ Model Components
 
 - Sample Splitter
 
-1.  Model Components
+1. Model Components
 
         Splines & Bayesian Statistics        splines.1-15
 
@@ -19261,7 +19261,7 @@ You’ve already taken the first couple of \_\_.
 
 ## Color
 
-1.  Color color.1-8
+1. Color color.1-8
 
         Red and Green Cones        color.1
 
